@@ -80,13 +80,44 @@ Flushing pads and tampons down the toilet causes sewer blockages. Worse, many pa
 </ol>
 
 #### User Stories
-
+As a shopper I can:
 <ol>
-  <li>STORY 1</li>
-  <li>STORY 12</li>
-  <li>STORY 3</li>
-  <li>MORE STORIES...</li>
+    <li>View a list of products so that I can select some to purchase</li>
+    <li>View individual product details so that I can identify the price, description, product rating, product image and available sizes</li>
+    <li>Search for a product by name or description so that I can find a specific product I'd like to purchase</li>
+    <li>View a specific category of product so that I can quickly find products I'm interested in without having to search through all products</li>
+    <li>Sort multiple categories simultaneously so that I can find the best-priced or best-rated products accross broad categories, such as 'cups' or 'underwear'</li>
+    <li>Sort the list of available products so that I can easily identify the best rated, best priced and categorically sorted products</li>
+    <li>Easily see what I've searched for and the number of results so that I can quickly decide whether the product I want is available</li>
+    <li>Easily select the size (if relevant) and quantity of a product when purchasing it</li>
+    <li>Adjust the quantity of individual items in my bag so that I can easily make changes to my purchase before checkout</li>
+    <li>View items in my bag to be purchased so that I can identify the total cost of my purchase and all items I will receive</li>
+    <li>Easily view the total of my purchases at any time so that I can avoid spending too much</li>
+    <li>Feel my personal and payment information is safe and secure so that I can confidently provide the needed information to make a purchase</li>
+    <li>Easily enter my payment information so that I can check out quickly with no problems</li>
+    <li>View an order confirmation after checkout so that I can verify that I haven't made any mistakes</li>
+    <li>Receive an email confirmation after checking out so that I can keep the confirmation of what I have purchased for my records</li>
 </ol>
+
+As a site user I can:
+<ol>
+    <li>Easily register for an account so that I can Have a personal account and be able to view my profile</li>
+    <li>Receive an email confirmation after registering so that I can Verify that my account registration was successful</li>
+    <li>Easily log in or log out so that I can access my personal account information</li>
+    <li>Easily recover my password in case I forgot it so that I can recover access to my account</li>
+    <li>Have a personalised user profile so that I can view my personal order history and order confirmations, and save my payment and delivery information</li>
+    <li>Learn about the environmental impact of non-sustainable sanitary products on the environment</li>
+    <li>Be encouraged to purchase and trial reusable sanitary products to (in the long run) have a positive impact on the environment and save money</li>
+    <li>Learn about the different reusable products on offer and find out which one(s) would be most suited to me and my needs</li>
+</ol>
+
+As a store owner I can:
+<ol>
+    <li>Add a prduct so that I can add new items to my store</li>
+    <li>Edit/update a product so that I can change product prices, descriptions, images and other product criteria</li>
+    <li>Delete a product so that I can remove items that are no longer for sale</li>
+</ol>
+
 
 #### Feasibility vs Importance
 
