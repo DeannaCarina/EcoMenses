@@ -48,7 +48,14 @@ As more people rely on accessing services online the role of UX design has becom
 
 #### Vision
 
-VISION OF THE PROJECT HERE (ABOUT 15 LINES)
+Menstruation is one of the most natural and healthy parts of life.  In fact in many cultures the first period is celebrated. But menstrual taboos and period shaming have a massive impact on the products we use and how we dispose of them. With the result that they can affect our health, and end up in landfill, on beaches or polluting our oceans for decades. EcoMenses is a web-application providing users with the ability to search for and purchase reusable and sustainable sanitary products while learning about the impact non-sustainable products have on the environment. Currently, the main way to purchase these types of products as a resident in the United Kingdom is by using an online store such as Amazon or eBay, however these types of online stores are not specific which can sometimes make it difficult to find the product a user is looking for. There are also options of going onto brand-specific websites such as 'Hello cup' or 'Intinima' however these sites only stock products with their own specific branding, which usually have their own quirks and specific uses which may not cater for the needs of the user. By having a product/service specific online shop, this will give users the ability to browse a number of different brands all in one place, enabling them to make an informed decision about which product is best suited for them. Even in a country as vast as the United States, to my knowledge there is only one online shop that caters to the needs of the US population (period.shop) however this online store cannot deliver to the United Kingdom. According to Alpharma:
+<ul>
+    <li>The predicted number of people of menstruating age (12-55) is roughly 15 million in the United Kingdom.</li>
+    <li>Around 22 sanitary items are used per menstrual cycle which equates to roughly 11,000 per lifetime.</li>
+    <li>4.3 billion menstrual sanitary items are used per year in the UK</li>
+</ul>
+
+Flushing pads and tampons down the toilet causes sewer blockages. Worse, many pads and tampons end up in the sea and washed up on beaches. It has been estimated that 1.5‐2 billion menstrual items are flushed down Britain’s toilets each year. The great majority of these products end up incinerated or in landfill. Figures from the Marine Conservation Society reveal that on average, 4.8 pieces of menstrual waste are found per 100 metres of beach cleaned. For every 100m of beach, that amounts to 4 pads, panty-liners and backing strips, along with at least one tampon and applicator. It is my hope that through the implementation of this online shop, it will educate and encourage people to convert to reusable sanitary products to reduce waste and the reduce environmental implications that non-sustainable products have.
 
 #### Aims
 
