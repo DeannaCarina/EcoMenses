@@ -286,8 +286,8 @@ As a store owner I can:
     </tr>
     <tr>
         <td></td>
-        <td>Average Viability x number of features:<br> SCORE HERE</td>
-        <td>Sum of Importance:<br> SCORE HERE</td>
+        <td>Average Viability x number of features:<br> 81</td>
+        <td>Sum of Importance:<br> 105</td>
         <td></td>
     </tr>
 </table>
@@ -301,7 +301,7 @@ The table above has been plotted into a graph (below) to easily visualise the fe
     <li>The features in the turquoise section will not be implemented as it would be unwise to focus on these features until a later date</li>
 </ul>
 
-As can be seen from the chart below, 50% of all of the features are in grey - this isn't great as these features are either less important or less viable due to my own coding knowledge. This shows that the project has potential for bugs and a large potential for scope creep. There are also no features that have been ommitted, again this isn't great as I may also be affected by time comstraints due to the size of the project and the amont of features that need to be implemented.
+As can be seen from the chart below, 50% of all of the features are in grey - this isn't great as these features are either less important or less viable due to my own coding knowledge. This shows that the project has potential for bugs and a large potential for scope creep. There are also no features that have been ommitted, again this isn't great as I may also be affected by time comstraints due to the size of the project and the amont of features that need to be implemented. The importace score is also much higher than the viability score, again, this isn't great because there are mupliple important features than need to be implemented yet I might not have the knowledge or skills to implement them.
 
 <img src="readme_assetts/strategy/ivchart.png" width="500px"><br>
 <img src="readme_assetts/strategy/ivtable.png" width="500px">
