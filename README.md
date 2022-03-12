@@ -113,7 +113,7 @@ As a site user I can:
 
 As a store owner I can:
 <ol>
-    <li>Add a prduct so that I can add new items to my store</li>
+    <li>Add a product so that I can add new items to my store</li>
     <li>Edit/update a product so that I can change product prices, descriptions, images and other product criteria</li>
     <li>Delete a product so that I can remove items that are no longer for sale</li>
 </ol>
@@ -129,28 +129,160 @@ As a store owner I can:
         <th>In or out?</th>
     </tr>
     <tr>
-        <td>FEATURE 1 HERE</td>
-        <td>F/V SCORE HERE</td>
-        <td>IMPORTANCE SCORE HERE</td>
-        <td>IN OR OUT?</td>
+        <td>View a list of products so that I can select some to purchase</td>
+        <td>5</td>
+        <td>5</td>
+        <td>IN</td>
     </tr>
     <tr>
-        <td>FEATURE 2 HERE</td>
-        <td>F/V SCORE HERE</td>
-        <td>IMPORTANCE SCORE HERE</td>
-        <td>IN OR OUT?</td>
+        <td>View individual product details so that I can identify the price, description, product rating, product image and available sizes</td>
+        <td>5</td>
+        <td>5</td>
+        <td>IN</td>
     </tr>
     <tr>
-        <td>FEATURE 3 HERE</td>
-        <td>F/V SCORE HERE</td>
-        <td>IMPORTANCE SCORE HERE</td>
-        <td>IN OR OUT?</td>
+        <td>Search for a product by name or description so that I can find a specific product I'd like to purchase</td>
+        <td>4</td>
+        <td>4</td>
+        <td>IN</td>
     </tr>
     <tr>
-        <td>MORE FEATURES HERE</td>
-        <td>F/V SCORE HERE</td>
-        <td>IMPORTANCE SCORE HERE</td>
-        <td>IN OR OUT?</td>
+        <td>View a specific category of product so that I can quickly find products I'm interested in without having to search through all products</td>
+        <td>4</td>
+        <td>3</td>
+        <td>IN</td>
+    </tr>
+    <tr>
+        <td>Sort multiple categories simultaneously so that I can find the best-priced or best-rated products across broad categories, such as 'cups' or 'underwear'</td>
+        <td>3</td>
+        <td>3</td>
+        <td>IN</td>
+    </tr>
+    <tr>
+        <td>Sort the list of available products so that I can easily identify the best rated, best priced and categorically sorted products</td>
+        <td>3</td>
+        <td>3</td>
+        <td>IN</td>
+    </tr>
+    <tr>
+        <td>Easily see what I've searched for and the number of results so that I can quickly decide whether the product I want is available</td>
+        <td>3</td>
+        <td>4</td>
+        <td>IN</td>
+    </tr>
+    <tr>
+        <td>Easily select the size (if relevant) and quantity of a product when purchasing it</td>
+        <td>2</td>
+        <td>4</td>
+        <td>IN</td>
+    </tr>
+    <tr>
+        <td>Adjust the quantity of individual items in my bag so that I can easily make changes to my purchase before checkout</td>
+        <td>3</td>
+        <td>2</td>
+        <td>IN</td>
+    </tr>
+    <tr>
+        <td>View items in my bag to be purchased so that I can identify the total cost of my purchase and all items I will receive</td>
+        <td>3</td>
+        <td>5</td>
+        <td>IN</td>
+    </tr>
+    <tr>
+        <td>Easily view the total of my purchases at any time so that I can avoid spending too much</td>
+        <td>3</td>
+        <td>5</td>
+        <td>IN</td>
+    </tr>
+    <tr>
+        <td>Feel my personal and payment information is safe and secure so that I can confidently provide the needed information to make a purchase</td>
+        <td>2</td>
+        <td>5</td>
+        <td>IN</td>
+    </tr>
+    <tr>
+        <td>Easily enter my payment information so that I can check out quickly with no problems</td>
+        <td>4</td>
+        <td>5</td>
+        <td>IN</td>
+    </tr>
+    <tr>
+        <td>View an order confirmation after checkout so that I can verify that I haven't made any mistakes</td>
+        <td>3</td>
+        <td>4</td>
+        <td>IN</td>
+    </tr>
+    <tr>
+        <td>Receive an email confirmation after checking out so that I can keep the confirmation of what I have purchased for my records</td>
+        <td>3</td>
+        <td>3</td>
+        <td>IN</td>
+    </tr>
+    <tr>
+        <td>Easily register for an account so that I can Have a personal account and be able to view my profile</td>
+        <td>2</td>
+        <td>4</td>
+        <td>IN</td>
+    </tr>
+    <tr>
+        <td>Receive an email confirmation after registering so that I can Verify that my account registration was successful</td>
+        <td>2</td>
+        <td>3</td>
+        <td>IN</td>
+    </tr>
+    <tr>
+        <td>Easily log in or log out so that I can access my personal account information</td>
+        <td>2</td>
+        <td>5</td>
+        <td>IN</td>
+    </tr>
+    <tr>
+        <td>Easily recover my password in case I forgot it so that I can recover access to my account</td>
+        <td>2</td>
+        <td>5</td>
+        <td>IN</td>
+    </tr>
+    <tr>
+        <td>Have a personalised user profile so that I can view my personal order history and order confirmations, and save my payment and delivery information</td>
+        <td>2</td>
+        <td>5</td>
+        <td>IN</td>
+    </tr>
+    <tr>
+        <td>Learn about the environmental impact of non-sustainable sanitary products on the environment</td>
+        <td>5</td>
+        <td>3</td>
+        <td>IN</td>
+    </tr>
+    <tr>
+        <td>Be encouraged to purchase and trial reusable sanitary products to (in the long run) have a positive impact on the environment and save money</td>
+        <td>5</td>
+        <td>3</td>
+        <td>IN</td>
+    </tr>
+    <tr>
+        <td>Learn about the different reusable products on offer and find out which one(s) would be most suited to me and my needs</td>
+        <td>4</td>
+        <td>4</td>
+        <td>IN</td>
+    </tr>
+    <tr>
+        <td>Add a product so that I can add new items to my store</td>
+        <td>3</td>
+        <td>5</td>
+        <td>IN</td>
+    </tr>
+    <tr>
+        <td>Edit/update a product so that I can change product prices, descriptions, images and other product criteria</td>
+        <td>2</td>
+        <td>4</td>
+        <td>IN</td>
+    </tr>
+    <tr>
+        <td>Delete a product so that I can remove items that are no longer for sale</td>
+        <td>2</td>
+        <td>4</td>
+        <td>IN</td>
     </tr>
     <tr>
         <td></td>
@@ -169,8 +301,10 @@ The table above has been plotted into a graph (below) to easily visualise the fe
     <li>The features in the turquoise section will not be implemented as it would be unwise to focus on these features until a later date</li>
 </ul>
 
-<img src="#" width="450px"><br> [IMAGE OF TABLE]
-<img src="#" width="600px"> [IMAGE OF GRAPH]
+As can be seen from the chart below, 50% of all of the features are in grey - this isn't great as these features are either less important or less viable due to my own coding knowledge. This shows that the project has potential for bugs and a large potential for scope creep. There are also no features that have been ommitted, again this isn't great as I may also be affected by time comstraints due to the size of the project and the amont of features that need to be implemented.
+
+<img src="readme_assetts/strategy/ivchart.png" width="500px"><br>
+<img src="readme_assetts/strategy/ivtable.png" width="500px">
 
 ### Scope
 
