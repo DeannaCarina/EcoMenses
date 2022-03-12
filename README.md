@@ -1,4 +1,5 @@
-# PROJECT TITLE HERE
+
+<a href="https://ecomenses.herokuapp.com/"><img src="readme_assetts/surface/ecomenseslogo.png" width="350px"></a>
 
 ## Contents
 <ul>
@@ -36,7 +37,7 @@ Portfolio Project Five: E-Commerce - Code Institute - Deadline 29th April 2022
 This is my submission for Code Institute's (5P) Portfolio Project Five. It will be a progressive web application with the main purpose of providing and selling resusable and sustainable sanitary products. It will also provide a limited educational service to users, allowing them to learn more about the sustainable menstrual product industry and the impact of menstrual product waste on the environment. At the moment in the UK there is no online shop with the specific use of selling reusable menstrual products, there are plenty of shops that sell them along with other items (such as Amazon and eBay) but nothing that provides a one-stop-shop experience - I hope to fill this niche with the EcoMenses brand. An important reason that puts individuals off trying out reusable menstrual products is that they aren't sure which product is going to be right for them, I am going to try and combat this by providing users with an online questionnaire which will give the user recommendations for their sustainable menstrual product journey.
 
 ### Demo
-A live of the website can be found <a href="#"><strong>HERE</strong></a> [INSERT LINK TO DEPLOYED SITE HERE]
+A live of the website can be found <a href="https://ecomenses.herokuapp.com/"><strong>HERE</strong></a>
 [Insert responsive gif/image here]
 
 
@@ -60,19 +61,22 @@ Flushing pads and tampons down the toilet causes sewer blockages. Worse, many pa
 #### Aims
 
 <ol>
-  <li>AIM 1</li>
-  <li>AIM 12</li>
-  <li>AIM 3</li>
-  <li>MORE AIMS...</li>
+  <li>To provide a one-stop-shop for customers to purchase a range of reusable and sustainable sanitary products</li>
+  <li>To educate users on the environmental implications that non-sustainable sanitary products have on the environment</li>
+  <li>To provide a quick and easy way for users to determine which products may be best for them and their needs</li>
+  <li>To provide a simple to use contact form for site visitors to use in order to contact the EcoMenses shop</li>
+  <li>To be inclusive of all genders throughout the website and not be too 'woman-focused' in order to be sensitive and inclusive to other genders and those that are transitioning genders</li>
 </ol>
 
 #### Target Audience(s)
 
 <ol>
-  <li>TARGET 1</li>
-  <li>TARGET 12</li>
-  <li>TARGET 3</li>
-  <li>MORE TARGETS...</li>
+  <li>People who menstruate</li>
+  <li>People who have a uterus</li>
+  <li>People who are interested in environmentally friendly and sustainable products</li>
+  <li>Anyone who is related to someone who menstruates (as this affects them too!)</li>
+  <li>Anyone who wants to reduce their carbon footprint</li>
+  <li>People who want to have an easy period and save money in the long run</li>
 </ol>
 
 #### User Stories
