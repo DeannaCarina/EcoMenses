@@ -31,9 +31,9 @@
 
 ## Introduction
 
-Portfolio Project [NUMBER]: [MODULE NAME] - Code Institute - Deadline [DEADLINE DATE]
+Portfolio Project Five: E-Commerce - Code Institute - Deadline 29th April 2022
 
-BRIEF INTRODUCTION HERE (ABOUT 5 LINES)
+This is my submission for Code Institute's (5P) Portfolio Project Five. It will be a progressive web application with the main purpose of providing and selling resusable and sustainable sanitary products. It will also provide a limited educational service to users, allowing them to learn more about the sustainable menstrual product industry and the impact of menstrual product waste on the environment. At the moment in the UK there is no online shop with the specific use of selling reusable menstrual products, there are plenty of shops that sell them along with other items (such as Amazon and eBay) but nothing that provides a one-stop-shop experience - I hope to fill this niche with the EcoMenses brand. An important reason that puts individuals off trying out reusable menstrual products is that they aren't sure which product is going to be right for them, I am going to try and combat this by providing users with an online questionnaire which will give the user recommendations for their sustainable menstrual product journey.
 
 ### Demo
 A live of the website can be found <a href="#"><strong>HERE</strong></a> [INSERT LINK TO DEPLOYED SITE HERE]
@@ -42,7 +42,7 @@ A live of the website can be found <a href="#"><strong>HERE</strong></a> [INSERT
 
 ## UX
 
-BRIEF INTRODUCTION TO UX HERE (ABOUT 3 LINES)
+As more people rely on accessing services online the role of UX design has become increasingly important in our digitized world. The five planes provide a conceptual framework for breaking down the task of designing experiences into component elements so that we can understand the problem as a whole. As this framework is structured, extensively used and consistently reliable, I have chosen to use the Five Planes method to design and implement my own website.
 
 ### Strategy
 
@@ -159,17 +159,27 @@ LINEAR/NON-LINEAR?
 
 ### Skeleton
 
-The wireframes for the <em>PROJECT NAME HERE</em> website application were made with WIREFRAME SOFTWARE HERE, they can be found by viewing the images below.
-WHY MOBILE/DESKTOP FIRST APPROACH?
+The wireframes for the <em>EcoMenses</em> website application were made with Balsamiq, they can be found by viewing the images below.
 
-#### PAGENAME
-<img src="#">
+As the trend for mobile browser usage has been on an upwards trend for the last 10 years in Europe culminating in a crossover of hardware usage in the recent years, it could be assumed that these trends will continue and result in users opting more and more for a mobile browser instead of a desktop. Due to this assumed continuing trend I have chosen to take a mobile-first approach to the design process. A Mobile-First Approach refers to the practice of designing and/or developing an online experience for mobile before designing for desktop web or any other device. Taking a Mobile First approach aims to reverse the workflow of designing for desktop and scaling down the design for mobile afterwards. Wireframes were made for mobile and desktop devices to ensure user friendly UX was employed throughout, I also included tablet wireframes to ensure responsiveness across all screen sizes.
 
-#### PAGENAME
-<img src="#">
+#### Home
+<img src="readme_assetts/wireframes/home_wireframe.png">
 
-#### PAGENAME
-<img src="#">
+#### Items
+<img src="readme_assetts/wireframes/items_wireframe.png">
+
+#### Product Information
+<img src="readme_assetts/wireframes/product_info_wireframe.png">
+
+#### Profile
+<img src="readme_assetts/wireframes/profile_wireframe.png">
+
+#### Contact
+<img src="readme_assetts/wireframes/contact_wireframe.png">
+
+#### Quiz
+<img src="readme_assetts/wireframes/quiz_wireframe.png">
 
 The wireframes were created during the website application's initial desgin process, as such there are changes between the layout of the wireframes and the final layout/design of the finished website. 
 
