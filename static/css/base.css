@@ -1,0 +1,96 @@
+@import url('http://fonts.cdnfonts.com/css/eglantine');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;500;600;700;800;900&display=swap');
+
+html {
+    height: 100%;
+}
+
+body {
+    background: url('/media/vanessa_ramirez.jpg') no-repeat center center fixed;
+    background-size: cover;
+    height: calc(100vh - 164px);
+    color: #555;
+    font-family: 'Nunito', sans-serif;
+}
+
+.index-hero-text {
+    font-size: 3.5rem;
+}
+.index-overlay {
+    background-color: rgba(255, 255, 255, 0.781);
+    height: 100vh;
+    width: 100vw;
+    top: 0;
+    position: fixed;
+}
+.ecomenses-logo {
+    padding-left: 40px;
+    background: -webkit-linear-gradient(to right, #6f9b51 0%, #ffccff 35%);
+    background: -moz-linear-gradient(to right, #6f9b51 0%, #ffccff 35%);
+    background: linear-gradient(to right, #6f9b51 0%, #ffccff 35%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+
+.eco-logo-text {
+    font-family: 'Eglantine', sans-serif;
+    font-size: 3.5rem;
+}
+
+.revolution-text {
+    text-transform: uppercase;
+    display: block;
+}
+
+.not-sure-header {
+    margin-top: 50px;
+}
+
+.shop-now-button{
+    background-color: #93bd77;
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 220px;
+}
+
+.shop-now-button:hover{
+    background-color: #93bd77c0;
+    border: 2px solid rgb(90, 90, 90);
+}
+
+.take-quiz-button{
+    background-color: #ffccf1;
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 220px;
+}
+
+.take-quiz-button:hover{
+    background-color: #ffccf1c0;
+    border: 2px solid rgb(90, 90, 90);
+}
+
+/* -------------------------------- Media Queries */
+
+/* Slightly larger container on xl screens */
+@media (min-width: 1200px) {
+    .container {
+      max-width: 80%;
+    }
+  }
+  
+/* fixed top navbar only on medium and up */
+@media (min-width: 992px) {
+    .fixed-top-desktop-only {
+        position: fixed;
+        top: 0;
+        right: 0;
+        left: 0;
+        z-index: 1030;
+    }
+
+    .header-container {
+        padding-top: 164px;
+    }
+}
