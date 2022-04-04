@@ -1,0 +1,58 @@
+[
+    {
+        "pk": 1,
+        "model": "products.category",
+        "fields": {
+            "name": "cups",
+            "friendly_name": "Menstrual Cups"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "products.category",
+        "fields": {
+            "name": "discs",
+            "friendly_name": "Menstrual Discs"
+        }
+    },
+	{
+        "pk": 3,
+        "model": "products.category",
+        "fields": {
+            "name": "pads",
+            "friendly_name": "Reusable Pads"
+        }
+    },
+	{
+        "pk": 4,
+        "model": "products.category",
+        "fields": {
+            "name": "underwear",
+            "friendly_name": "Menstrual Underwear"
+        }
+    },
+	{
+        "pk": 5,
+        "model": "products.category",
+        "fields": {
+            "name": "other",
+            "friendly_name": "Other Menstrual Products"
+        }
+    },
+	{
+        "pk": 6,
+        "model": "products.category",
+        "fields": {
+            "name": "cleaning",
+            "friendly_name": "Menstrual Product Cleaning"
+        }
+    },
+	{
+        "pk": 7,
+        "model": "products.category",
+        "fields": {
+            "name": "storage",
+            "friendly_name": "Product Storage"
+        }
+    }
+]

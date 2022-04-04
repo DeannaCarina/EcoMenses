@@ -1,0 +1,2100 @@
+[
+   {
+      "pk":1,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-001-AEI-001",
+         "name":"AEIOU Menstrual Cup (2 pack) and Case",
+         "description":"The AEIOU menstrual cup is produced using Medical Grade Silicon. Free of toxins, odours, Chemicals and BPA. Avoid lower quality cups often made using food grade silicone that are not suitable for use in the body. AEIOU Menstrual cups are compliant with the UK safety testing standards. This period cup can be worn for up to 12 hours during sports, going out and other activities - even overnight. You have maximum protection with maximum comfort.",
+         "sizes":[
+            "A",
+            "B"
+         ],
+		   "size_explanation":"<p>Size 'A' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size 'B' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Pack comes with two cups of the same size.</p>",
+		   "price":9.99,
+         "category":1,
+         "rating":4.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682699/EcoMenses/cups/aeiou_menstrual_cup_ioywqj.jpg",
+         "image":"aeiou_menstrual_cup.jpg",
+		   "link": "https://www.amazon.co.uk/AEIOU-Menstrual-Cups-Size-Medical-Grade-Alternative/dp/B0839LC9WB/ref=sr_1_5?crid=18L1VQTWWEG8J&keywords=aeiou+menstrual+cup&qid=1646127466&sprefix=aeiou+menstrual+cup%2Caps%2C160&sr=8-5"
+      }
+   },
+   {
+      "pk":2,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-002-ALW-002",
+         "name":"Always Menstrual Cup",
+         "description":"Reusable menstrual cup made from 100% medical silicone. Comfort fit, protection for day and night, for up to 12 hours. Menstrual cup developed with a gynecologist. Designed to fit your body to prevent slipping and reduce pressure on the bladder.",
+		 "sizes":[
+			"Heavy",
+			"Regular"
+       ],
+		 "size_explanation":"<p>Size 'Heavy' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size 'Regular' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+         "price":27.61,
+         "category":1,
+         "rating":4.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682699/EcoMenses/cups/always_menstrual_cup_then2m.jpg",
+         "image":"always_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Always-Menstrual-Strong-Developed-Gynecologist/dp/B081ZDW29W/ref=sr_1_6?keywords=always%2Bmenstrual%2Bcup&qid=1646128275&sr=8-6&th=1"
+      }
+   },
+   {
+      "pk":3,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-003-ATH-003",
+         "name":"Athena Menstrual Cup",
+         "description":"Unlike firm menstrual cups that can cause painful cramping, this feminine cup features an innovative FORM-FIT Rim and ultra-soft, flexible silicone. Easy to insert, grab, remove, and position. Ideal period cup for beginners. The unique leak-proof design offers up to 12 hours of reliable period protection. Can hold up to 5 times as much as a regular tampon. Enjoy the freedom to move. No more rushing to the bathroom to change your pad or tampon.",
+         "sizes":[
+			"1",
+			"2"
+         ],
+		 "size_explanation":"<p>Size '1' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Size '2' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p>",
+		 "price":14.95,
+         "category":1,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682700/EcoMenses/cups/athena_menstrual_cup_aoea7r.jpg",
+         "image":"athena_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/dp/B016PYYQAO?pd_rd_i=B016PYYQAO&pd_rd_w=8Qqyo&pf_rd_p=b0b3d566-6633-4e3c-aaed-dfe9be8f2fa2&pd_rd_wg=xV69I&pf_rd_r=ZMZ4T4ZW0YJ7K4JCWGXY&pd_rd_r=c1f8d1eb-087d-4bca-89a4-d1bb054874cc"
+      }
+   },
+   {
+      "pk":4,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-004-BAB-004",
+         "name":"Babe Menstrual Cup (2 pack)",
+         "description":"Babe menstrual cups are made with a soft silicone designed to be effective and super comfortable. 100% medical-grade silicone and dyes that are tested for skin sensitization and are safe, non-toxic, and never leach. The average female uses over 11,000 disposable menstrual products per their lifetime. These plastic products take 500-800 years to decompose. All of this waste ends up in landfills or in our oceans. Sanitary pads and tampons aren’t re-usable unlike a Babe menstrual cup. Have a plastic free period and help save our planet as well as your pennies.",
+		 "size_explanation":"<p>Size 'A' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size 'B' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Pack comes with one cup of each size.</p>",
+		 "price":16.99,
+         "category":1,
+         "rating":5.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682700/EcoMenses/cups/babe_menstrual_cup_ailtmb.jpg",
+         "image":"babe_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Babe-menstrual-cup-soft-flexible-silicone/dp/B09BQTQ8LR/ref=sr_1_4?crid=2QN2KTMMYJYKU&keywords=babe+menstrual+cup&qid=1646128616&s=drugstore&sprefix=babe+menstrual+cup%2Cdrugstore%2C57&sr=1-4"
+      }
+   },
+   {
+      "pk":5,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-005-BEY-005",
+         "name":"Be You Menstrual Cup",
+         "description":"Up to 12 hours leak-free protection. Odour-free, hygienic and comfortable. Made from 100% medical grade soft silicone. Suitable for use at any time; night or day and during exercise. Worn like a tampon without the risks.",
+         "sizes":[
+			"Medium",
+			"Large"
+         ],
+		 "size_explanation":"<p>Size Medium. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p>",
+		 "price":11.72,
+         "category":1,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682700/EcoMenses/cups/beyou_menstrual_cup_nz2mm3.jpg",
+         "image":"beyou_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/BeYou-Menstrual-Eco-Friendly-Alternative-Comfortable/dp/B07TBGN25F/ref=sr_1_1_sspa?crid=UJZ7U15U31HY&keywords=beyou+menstrual+cup&qid=1646128865&rdc=1&s=drugstore&sprefix=beyou+menstrual+cup%2Cdrugstore%2C83&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzMUxNNlhTN0E0RVpFJmVuY3J5cHRlZElkPUEwNzk1NDAyMVFHRVk5OVlZNU03UyZlbmNyeXB0ZWRBZElkPUEwNDIzMjk1MTNJTVNKR1JTN0ZVNCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU="
+      }
+   },
+   {
+      "pk":6,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-006-CLA-006",
+         "name":"Claripharm Menstrual Cup",
+         "description":"The transparent Claricup and its sterilisation box, made in France and without any added chemical components. 100% medical silicone, colour-free, ISO, FDA, MDSAP Canada certified. Reusable menstrual cup; no more irritating tampons or pads! Lasts for up to 5 years, saving you money and much better for the environment than tampons and pads.",
+         "sizes":[
+			"1",
+			"2",
+			"3"
+         ],
+		 "size_explanation":"<p>Size '3' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size '2' - Medium. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Size '1' - Small. For teens and young women under the age of 18 who have not given birth and are not sexually active or practicing masturbation.</p>",
+		 "price":18.00,
+         "category":1,
+         "rating":4.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682693/EcoMenses/cups/claripharm_menstrual_cup_amxuwu.jpg",
+         "image":"claripharm_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Clariphone-Menstrual-Transparent-Transport-Sterilisation/dp/B08BP2YQTX/ref=sr_1_5?crid=8DHNG4KSKJB8&keywords=claripharm+menstrual+cup&qid=1646129647&s=drugstore&sprefix=claripharm+menstrual+cup%2Cdrugstore%2C55&sr=1-5"
+      }
+   },
+   {
+      "pk":7,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-007-DIV-007",
+         "name":"Diva Menstrual Cup",
+         "description":"Reusable Period Cup: Say goodbye to disposable tampons and sanitary pads and say hello to comfortable, cost-efficient and eco-friendly protection that you can use again and again. Reliable 12-Hour Protection: Made of 100% medical grade silicone with no chemicals, plastic or dyes, DivaCup can provide up to 12 hours of leak-free protection, depending on your menstrual flow.",
+         "sizes":[
+			"0",
+			"1",
+			"2"
+         ],
+		 "size_explanation":"<p>Size '2' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size '1' - Medium. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Size '0' - Small. For teens and young women under the age of 18 who have not given birth and are not sexually active or practicing masturbation.</p>",
+		 "price":27.49,
+         "category":1,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682693/EcoMenses/cups/diva_menstrual_cup_egffdg.jpg",
+         "image":"diva_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Diva-Cup-Childbirth-Packaging-Vary/dp/B000FAG6X0/ref=sr_1_5?crid=KEQS9ESWE44Z&keywords=diva+menstrual+cup&qid=1646129696&s=drugstore&sprefix=diva+menstrual+cup%2Cdrugstore%2C59&sr=1-5"
+      }
+   },
+   {
+      "pk":8,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-008-DUT-008",
+         "name":"Dutchess Menstrual Cup (2 pack)",
+         "description":"Gentle Super Soft Medical-Grade Silicone - flexible, easy to insert and comfortable to wear. Perfect for those with bladder sensitivities or discomfort with firmer cups. Ultrasoft stem can be trimmed.",
+         "sizes":[
+			"A",
+			"B"
+         ],
+		 "size_explanation":"<p>Size 'A' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size 'B' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Pack comes with two cups of the same size.</p>",
+		 "price":25.56,
+         "category":1,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682693/EcoMenses/cups/dutchess_menstrual_cup_nczoxh.jpg",
+         "image":"dutchess_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Dutchess-Menstrual-Cups-Set-Free/dp/B00PBI86O8/ref=sr_1_4?crid=1X56TL87XQLUH&keywords=dutchess+menstrual+cup&qid=1646129888&s=drugstore&sprefix=dutchess+menstrual+cup%2Cdrugstore%2C54&sr=1-4"
+      }
+   },
+   {
+      "pk":9,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-009-EDE-009",
+         "name":"Eden Menstrual Cup",
+         "description":"The flexible, silicone adapts to your body making it comfortable and easy to wear. You can wear your Eden Cup for up to 10 hours without worry. The Eden Cup is made from medical grade silicone, and is FDA approved. It contains no chemicals often found in tampons and pads. Eden Cups last a lifetime, the equivalent of over 10,000 tampons.",
+         "sizes":[
+			"Small",
+			"Large"
+         ],
+		 "size_explanation":"<p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p>",
+		 "price":15.99,
+         "category":1,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682693/EcoMenses/cups/eden_menstrual_cup_getxbw.jpg",
+         "image":"eden_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Eden-Menstrual-Cups-Comfortable-Alternative/dp/B07SC26615/ref=sr_1_4?crid=30XR544UBMYDA&keywords=eden+menstrual+cup&qid=1646130111&s=drugstore&sprefix=eden+menstrual+cup%2Cdrugstore%2C70&sr=1-4"
+      }
+   },
+   {
+      "pk":10,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-010-ENN-010",
+         "name":"Enna Menstrual Cup",
+         "description":"The Enna Cycle Copa Menstrual Cup is a patented, easy to use menstrual cup which boasts many benefits over alternative sanitary methods. The Enna cup is reusable, which is what makes it so unique ensuring that the impact on the environment is lowered drastically due to the huge reduction in waste. The Enna Cup is also far safer to use compared to other products because it is made from medical grade materials and eliminates the risk of health complications such as Toxic Shock Syndrome (TSS) and immune system complications which have been recorded with use of tampons/pads. Much like the use of a tampon, Enna Cup is inserted in the same way but instead of absorbing your flow, it fills the suctioned cup instead and can hold up to 12 hours of fluid securely. Enna Cycle is also available with an applicator which can make insertion simple. With its unique design, it reduces suction on removal and enhances the fit of the cup to your body. ",
+         "sizes":[
+			"Small",
+			"Medium"
+         ],
+		 "size_explanation":"<p>Size Medium. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "price":14.99,
+         "category":1,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682693/EcoMenses/cups/enna_menstrual_cup_zqvkmj.jpg",
+         "image":"enna_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Enna-Cycle-Twin-Pack-Small/dp/B01N5296T9/ref=sr_1_6?crid=8CU8MPPASWOT&keywords=enna+menstrual+cup&qid=1646130578&s=drugstore&sprefix=enna+menstrual+cup%2Cdrugstore%2C69&sr=1-6"
+      }
+   },
+   {
+      "pk":11,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-011-EVA-011",
+         "name":"Eva Menstrual Cup",
+         "description":"Made of medical grade silicone, certified, soft and hypoallergenic, suitable for even the most sensitive skin. You can wear Eva menstrual cup for up to 12 hours at a time. Menstrual cups are eco-friendly, avoid discomfort, irritations and odours and save you money because, unlike disposable tampons and pads, they are reusable (Eva can last up to 15 years!). Eva, our soft silicone menstrual cup, is easy to insert and remove. Once the vacuum is created, you won't feel it anymore and you can forget about your period!",
+         "sizes":[
+			"Small",
+			"Large"
+         ],
+		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "price":12.90,
+         "category":1,
+         "rating":4.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682693/EcoMenses/cups/eva_menstrual_cup_ncclip.jpg",
+         "image":"eva_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Eva-Ultra-Soft-Menstrual-Sanitizing-Available/dp/B07174MWQL/ref=sr_1_43?crid=R82S80QMJYT3&keywords=evo%2Bmenstrual%2Bcup&qid=1646130941&s=drugstore&sprefix=eva%2Bmenstrual%2Bcup%2Cdrugstore%2C57&sr=1-43&th=1"
+      }
+   },
+   {
+      "pk":12,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-012-EVO-012",
+         "name":"Evo Menstrual Cup (2 pack)",
+         "description":"You get two premium grade quality menstrual cups in each pack. Good to have a spare, use one and have one handy in your bag. Comes complete with a hand stitched carry case with a drawstring to firmly close, keep one or both cups stored away safely and cleanly.",
+         "sizes":[
+			"Small",
+			"Large"
+         ],
+		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Pack contains two cups of the same size.</p>",
+		 "price":12.95,
+         "category":1,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682693/EcoMenses/cups/evo_menstrual_cup_igu6me.jpg",
+         "image":"evo_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Menstrual-Cup-Menstruation-Flexible-Alternative/dp/B0916MSBLL/ref=sr_1_1_sspa?crid=30UUM0KY9YF68&keywords=evo+menstrual+cup&qid=1646131093&s=drugstore&sprefix=evo+menstrual+cup%2Cdrugstore%2C215&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFQWEExN09HUlQ0MlcmZW5jcnlwdGVkSWQ9QTA1NDEyMDcyMVhYUTBWQ0xMTDYyJmVuY3J5cHRlZEFkSWQ9QTEwMzc2NTIzNVc0MFo2R0xVTUdEJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=="
+      }
+   },
+   {
+      "pk":13,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-013-FEM-013",
+         "name":"FemmyCycle Menstrual Cup",
+         "description":"No Spill Design. Reusable, Eco-Friendly, and BPA-Free. Patented, Awarded, FDA Approved and Made in the USA. PEACE OF MIND: No more ruined sheets, pants, and panties! With practice, the FemmyCycle gives you the peace of mind when you sleep and assurance during your active hours! This is the only menstrual cup designed by a Physician with a Patented No-Spill Design. Feel free to run, dance, yoga, swim, and use your cup overnight! SAFETY FIRST: FemmyCycle is designed with the Highest Quality Medical Grade Silicone.",
+         "sizes":[
+			"Regular",
+			"Low",
+			"Small"
+         ],
+		 "size_explanation":"<p>Size 'Regular'. For women who have a high cervix that cannot be felt when inserting a finger into the vagina or are older than 30.</p><p>Size 'Low'. For women who have a low cervix and can only insert their finger to the second knuckle.</p><p>Size 'Small'. For a women who have a cervix that can be felt when inserting a finger past the second knuckle and are less than 20 years old.</p>",
+		 "price":28.97,
+         "category":1,
+         "rating":4.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682693/EcoMenses/cups/femmycycle_menstrual_cup_ozonwg.jpg",
+         "image":"femmycycle_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/FemmyCycle-Menstrual-Cup-CERVIX-Size/dp/B00NHDLN0S/ref=sr_1_4?crid=1BIUWIINVK4X7&keywords=femmycycle+menstrual+cup&qid=1646131247&s=drugstore&sprefix=femmycycle+menstrual+cup%2Cdrugstore%2C61&sr=1-4"
+      }
+   },
+   {
+      "pk":14,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-014-FER-014",
+         "name":"Fermometer Menstrual Cup (2 pack)",
+         "description":"Femometer menstrual cup is made of superior ultra-soft medical-grade silicone that is free of BPA, latex, dioxins and other toxic chemicals, which ensures the comfort, security & endurance of the usage. We have safety certifications, which let your purchase and use have no worries. Be worry-free with up to 12 hours of period protection. No need to worry about the leakage during daytime and sleep well at night time. Never rush to change your cup , whether you're sleeping, swimming, working, travel, sports or in class.",
+         "sizes":[
+			"Small(B)",
+			"Large (A)"
+      ],
+		 "size_explanation":"<p>Size Large (A). For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small(B). For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Pack contains two cups of the same size.</p>",
+		 "price":9.99,
+         "category":1,
+         "rating":4.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682693/EcoMenses/cups/fermometer_menstrual_cup_gjgkyr.jpg",
+         "image":"fermometer_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Femometer-Menstrual-Cups-Comfortable-Leak-Proof/dp/B08XW9YGK3/ref=sr_1_4?crid=5SNPMQF7JBCR&keywords=femometer+menstrual+cup&qid=1646131801&s=drugstore&sprefix=fermometer+menstrual+cup%2Cdrugstore%2C63&sr=1-4"
+      }
+   },
+   {
+      "pk":15,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-020-FMC-015",
+         "name":"Funmicup Collapsable Menstrual Cup",
+         "description":"The Funmicup no-stem collapsible menstrual cup has a smooth base and no extra length, so it fits perfectly and provides maximum comfort. It can hold up to 25ml of menstrual fluid (up to 5x more than a standard sanitary pad or tampon) and is manufactured entirely from 100% medical-grade silicone that is completely safe for both you and the environment. To ensure that you get a toxin-free product, no colours or dyes have been added to this menstrual cup. ",
+		 "size_explanation":"<p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "price":13.50,
+         "category":1,
+         "rating":4.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682694/EcoMenses/cups/funmi_colapsable_menstrual_cup_h4vajy.jpg",
+         "image":"funmi_colapsable_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Funmicup-No-stem-Collapsible-Menstrual-Those/dp/B097TN3RVG/ref=sr_1_5?crid=KZ00JOVKGPIC&keywords=funmi+menstrual+cup&qid=1646132968&s=drugstore&sprefix=funmi+menstrual+cup%2Cdrugstore%2C79&sr=1-5"
+      }
+   },
+   {
+      "pk":16,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-016-FLO-016",
+         "name":"Flon Menstrual Cup (2 pack)",
+         "description":"Reusable Menstrual Cups Set. Switch To A Better, More sustainable form of period care compared to conventional tampons & pads Go zero-waste with your period care. Comfortable, reusable & designed with the planet in mind. Our cups are FDA approved and free from BPA. They are made to last, saving you money and reducing waste destined for landfills every cycle. Menstrual cups are designed to be worn internally like a tampon, except the cup collects, rather than absorbs your period blood. Wear for up to 12 hours - depending on your flow.",
+		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Pack contains one cup of each size.</p>",
+		 "price":14.99,
+         "category":1,
+         "rating":5.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682694/EcoMenses/cups/flon_menstrual_cup_yuyngb.jpg",
+         "image":"flon_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/FLON-Menstrual-Premium-Medical-Sterilizer/dp/B08ZHW2XZJ/ref=sr_1_4?crid=QE6JUHT54GXU&keywords=flon+menstrual+cup&qid=1646132136&s=drugstore&sprefix=flon+menstrual+cup%2Cdrugstore%2C65&sr=1-4"
+      }
+   },
+   {
+      "pk":17,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-017-FOL-017",
+         "name":"Folc Menstrual Cup",
+         "description":"Folc.'s menstrual cup is built with you in mind. Enjoy any strenuous physical activity without worrying about leakage or discomfort. Your discreet satin carrier bag will also make prepping for aunt flow a breeze.",
+         "sizes":[
+			"Small",
+			"Large"
+         ],
+		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "price":9.99,
+         "category":1,
+         "rating":4.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682694/EcoMenses/cups/folc_menstrual_cup_znqdnt.jpg",
+         "image":"folc_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Folc-Menstrual-Long-Term-Leakage-Proof-Protection/dp/B09FM22VTH/ref=sr_1_5?crid=TANU1ZQ679CH&keywords=folc+menstrual+cup&qid=1646132320&s=drugstore&sprefix=folc+menstrual+cup%2Cdrugstore%2C67&sr=1-5"
+      }
+   },
+   {
+      "pk":18,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-018-FUN-018",
+         "name":"Fun Factory Menstural Cup (2 pack)",
+         "description":"We designed a menstrual cup that’s shaped for your body! The FUN CUP holds 4-6x as much as a tampon, without the side effects of other methods. While tampons dry you out and cause micro-tears, leaving you more susceptible to infection, this medical grade silicone cup collects blood, rather than absorbing it, making it gentle on your skin and great for your well-being. Of course, FUN FACTORY menstrual cups meet the highest standards for quality.",
+		 "size_explanation":"<p>Size 'B' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size 'A' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Pack comes with one cup of each size.</p>",
+		 "price":29.09,
+         "category":1,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682694/EcoMenses/cups/funfactory_menstrual_cup_eki1ye.jpg",
+         "image":"funfactory_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Fun-Factory-Explore-Pink-Ultramarine/dp/B0757XT5HP/ref=sr_1_4?crid=1W5RYW8NGM68L&keywords=fun+menstrual+cup&qid=1646132457&s=drugstore&sprefix=fun+menstrual+cup%2Cdrugstore%2C80&sr=1-4"
+      }
+   },
+   {
+      "pk":20,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-020-FMI-020",
+         "name":"Funmicup Menstrual Cup",
+         "description":"The Funmicup no-stem anatomic menstrual cup has a smooth base and no extra length, so it fits perfectly and provides maximum comfort. It is manufactured entirely from medical-grade silicone that is completely safe for both you and the environment. To ensure that you get a toxin-free product, no colours or dyes have been added to this menstrual cup. ",
+		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p>",
+		 "price":13.50,
+         "category":1,
+         "rating":5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682694/EcoMenses/cups/funmi_menstrual_cup_xjt9c0.jpg",
+         "image":"funmi_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Funmicup-No-stem-Anatomic-Menstrual-Vaginal/dp/B097TPLXF4/ref=sr_1_4?crid=KZ00JOVKGPIC&keywords=funmi+menstrual+cup&qid=1646133168&s=drugstore&sprefix=funmi+menstrual+cup%2Cdrugstore%2C79&sr=1-4"
+      }
+   },
+   {
+      "pk":21,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-021-GRA-021",
+         "name":"Grace & Green Menstrual Cup (2 pack)",
+         "description":"Grace & Green Period Cup are designed to lasts for up to 10 years. That's more than 140 periods and replaces over disposable sanitary products and waste. Save your money and protect our environment. Grace & Green Cup is wonderfully soft and flexible, with a silky smooth coating. The shape makes it one of the easiest cups to fold, insert and open, ensuring a secure seal, so comfortable, you won't know its there. It offers you a consistent high performance leak-free, odor-free period. Our Node and stem is built for comfortable but also designed for hassle-free easy removal. No abrasive ridges, no skin irritations.",
+		 "size_explanation":"<p>Size 'B' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size 'A' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Pack contains one cup of each size.</p>",
+		 "price":38.99,
+         "category":1,
+         "rating":5.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682694/EcoMenses/cups/graceandgreen_menstrual_cup_b91ehl.jpg",
+         "image":"graceandgreen_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Grace-Green-Period-Menstrual-Cup/dp/B08JC9YLWH/ref=sr_1_5?crid=2OSF4LY5NFXYR&keywords=grace+menstrual+cup&qid=1646133251&s=drugstore&sprefix=grace+menstrual+cup%2Cdrugstore%2C58&sr=1-5"
+      }
+   },
+   {
+      "pk":23,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-023-HEL-023",
+         "name":"Hello Menstrual Cup",
+         "description":"",
+         "sizes":[
+			"XS",
+			"S/M",
+			"L",
+			"Low",
+			"High"
+         ],
+		 "size_explanation":"<p>Size 'L' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size 'S/M' - Small/Medium. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Size 'XS' - Extra Small. For teens and young women under the age of 18 who have not given birth and are not sexually active or practicing masturbation.</p><p>Size 'Low' - for women with a low cervix that can be felt when instering a finger into the vagina up to two knuckles.</p><p>Size 'High' - For women with a very high cervix that cannot be felt at all when inserting a finger into the vagina.</p>",
+		 "price":12.00,
+         "category":1,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682694/EcoMenses/cups/hello_menstrual_cup_uopyhv.jpg",
+         "image":"hello_menstrual_cup.jpg",
+		 "link": "https://www.ebay.co.uk/itm/393907268334?hash=item5bb6b3eaee:g:TDIAAOSwKa5h-~by"
+      }
+   },
+   {
+      "pk":24,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-024-HON-024",
+         "name":"Honeypot Menstrual Cup",
+         "description":"The soft, flexible material gives this menstrual cup a 'barely there' sensation, so you can confidently move throughout your day and night. Suited for every level of activity?wear while running, swimming, dancing, sleeping, and more! Natural hygiene products focused on balancing, healing, cleansing, and protecting. The Honey Pot provides women with the tools and resources that promote feminine health and wellness.",
+         "sizes":[
+			"1",
+			"2"
+         ],
+		 "size_explanation":"<p>Size '2' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size '1' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "price":25.28,
+         "category":1,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682695/EcoMenses/cups/honeypot_menstrual_cup_w4amxy.jpg",
+         "image":"honeypot_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Honey-Pot-Company-Hypoallergenic-Medical-Grade/dp/B084C27K7W/ref=sr_1_4?crid=12SPIOGRNQADQ&keywords=honey+pot+menstrual+cup&qid=1646134194&s=drugstore&sprefix=honeypot+menstrual+cup%2Cdrugstore%2C64&sr=1-4"
+      }
+   },
+   {
+      "pk":25,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-025-HUN-025",
+         "name":"Hun Menstrual Cup (2 pack)",
+         "description":"Made from 100% medical-grade silicone, this pair are naturally hypoallergenic and come in a pack of two, so you'll never be without a spare. They're safe to use when you're doing activities such as swimming, but also can be comfortably worn when sleeping, providing up to 10 hours of wear.",
+         "sizes":[
+			"Small",
+			"Regular"
+      ],
+		 "size_explanation":"<p>Size Regular. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Pack contains 2 cups of the same size.</p>",
+		 "price":13.99,
+         "category":1,
+         "rating":4.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682694/EcoMenses/cups/hun_menstrual_cup_ppvrbc.jpg",
+         "image":"hun_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Hun-Menstrual-Cup-Flexible-Silicone/dp/B07VR65VMT/ref=sr_1_1_sspa?crid=HOGHJKSPOAZX&keywords=hun+menstrual+cup&qid=1646134422&s=drugstore&sprefix=hun+menstrual+cup%2Cdrugstore%2C53&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyS1lUUFowM0JXVFZYJmVuY3J5cHRlZElkPUEwOTU2MTYyMTAxNVhWUFRWQzJONCZlbmNyeXB0ZWRBZElkPUEwOTU3MjY0MVYxTE1PSU04S1NGTiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU="
+      }
+   },
+   {
+      "pk":26,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-026-JUJ-026",
+         "name":"Juju Menstrual Cup",
+         "description":"Through each of our products, we aim to provide individuals with a healthier, more sustainable and cost-effective alternative to disposable period products. We believe that menstruation is a gift, not a burden and commit to using our platform to encourage open, honest conversations about menstruation. All JuJu products are created to be sustainable, eco-friendly, cruelty free and in alignment with our values.",
+         "sizes":[
+			"1",
+			"2",
+			"3",
+			"4"
+         ],
+		 "size_explanation":"<p>Size '2' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size '1' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Size '3' - Long. For women with a high cervix or long vaginal canal.</p><p>Size '4' - Short. For women with a low cervix or short vaginal canal.</p>",
+		 "price":18.00,
+         "category":1,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682695/EcoMenses/cups/juju_menstrual_cup_jv9lmc.jpg",
+         "image":"juju_menstrual_cup.jpg",
+		 "link": "https://www.ebay.co.uk/itm/203842609702?hash=item2f75f76226:g:BfYAAOSw791iF5ge"
+      }
+   },
+   {
+      "pk":27,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-027-KUX-027",
+         "name":"Kuxi Menstrual Cup",
+         "description":"Kuxi menstrual cup is a reusable period cup that collects your monthly blood flow. Inserted just like a tampon, kuxi cup provides you with complete protection for up to 12 hours at a time. We use silicone with properties that allow it to be safely used in contact with living tissue, a characteristic called biocompatibility.",
+         "sizes":[
+			"1",
+			"2"
+         ],
+		 "size_explanation":"<p>Size '2' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size '1' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "price":14.99,
+         "category":1,
+         "rating":4.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682695/EcoMenses/cups/kuxi_menstrual_cup_cbc6re.jpg",
+         "image":"kuxi_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/kuxi-cup-Menstrual-Eco-Friendly-Alternative/dp/B08R7PWQ9F/ref=sr_1_5?crid=38HZAMDI11AXK&keywords=kuxi+menstrual+cup&qid=1646600031&sprefix=kuxi+menstrual+cup%2Caps%2C434&sr=8-5"
+      }
+   },
+   {
+      "pk":28,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-028-LEA-028",
+         "name":"Leasen Menstrual Cup",
+         "description":"Healthy, Safe and Eco-friendly: Made of 100% Medical Grade FDA/CE/SGS FDA Registered BPA-Free Silicone. Soft and Comfortable: Completely smooth outer-curve is the superior design for comfort, its like nothing inside when worn properly.",
+         "sizes":[
+			"Small",
+			"Large"
+         ],
+		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "price":7.99,
+         "category":1,
+         "rating":4.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682695/EcoMenses/cups/leasen_menstrual_cup_agrucx.jpg",
+         "image":"leasen_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Menstrual-Cup-Health-Silicone-Feminine-Alternative/dp/B016UBWBFO/ref=sr_1_5?crid=CBJHQRH7133C&keywords=leasen+menstrual+cup&qid=1646600175&sprefix=leasen+menstrual+cup%2Caps%2C48&sr=8-5"
+      }
+   },
+   {
+      "pk":29,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-029-LEN-029",
+         "name":"Lena Menstrual Cup",
+         "description":"Lena is a reusable silicone cup that collects your monthly blood flow. Inserted like a tampon, Lena Feminine Cup sits comfortably in the vaginal canal and offers comfortable, odorless, sensation and leak free periods.",
+         "sizes":[
+			"Small",
+			"Large"
+         ],
+		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "price":21.90,
+         "category":1,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682695/EcoMenses/cups/lena_menstrual_cup_mcznom.jpg",
+         "image":"lena_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Lena-Menstrual-Cup-Alternative-Lifestyle/dp/B00YNYH8F4/ref=sr_1_1_sspa?crid=ZNK7BN6BGVSY&keywords=lena%2Bmenstrual%2Bcup&qid=1646600335&sprefix=lena%2Bmenstrual%2Bcup%2Caps%2C57&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyTUJYOVlCM1g2SUdQJmVuY3J5cHRlZElkPUEwNDA4ODI1MVdLRUFQTjgxMExHNCZlbmNyeXB0ZWRBZElkPUEwMzAwOTMwMThOVlQxVThIQ0lOVCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1"
+      }
+   },
+   {
+      "pk":30,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-030-LIB-030",
+         "name":"Libby Menstrual Cup",
+         "description":"Libby Cup is the new Cup on the block - Manufactured in the U.K. The cup is truly as close to zero waste as possible. We don’t rely on thousands of air miles to bring the cups in from other areas of the world before we post them out to you all. Libby Cup is seriously flexible and smooth. No awkward rubber pull with the soft silicone. With the Libby Cup you are able to swim, work out, relax, and head to bed for the night.",
+         "sizes":[
+			"Small",
+			"Medium",
+			"Large"
+         ],
+		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Medium. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Size Small. For under the age of 30 with a low cervix.</p>",
+		 "price":21.00,
+         "category":1,
+         "rating":5.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682695/EcoMenses/cups/libby_menstrual_cup_rug4sv.jpg",
+         "image":"libby_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Libby-Cup-Menstrual-Comfortable-Period/dp/B08S41Y6Q7/ref=sr_1_5?crid=205QOCWMK14G6&keywords=libby+menstrual+cup&qid=1646600447&sprefix=libby+menstrual+cup%2Caps%2C90&sr=8-5"
+      }
+   },
+   {
+      "pk":31,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-031-LLE-031",
+         "name":"Lil-Lets Menstrual Cup",
+         "description":"Choice is everything, so if you're looking for sustainable period care, our Lilets menstrual cups are a great, reusable alternative to tampons and pads. Made from medical grade silicone and is free from latex, BPA & phthalates. Our super soft & flexible material provides ultimate comfort & easier insertion, ideal for beginners.",
+         "sizes":[
+			"1",
+			"2"
+         ],
+		 "size_explanation":"<p>Size '2' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size '1' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "price":14.47,
+         "category":1,
+         "rating":4,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682695/EcoMenses/cups/lilets_menstrual_cup_u8h5ml.jpg",
+         "image":"lilets_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Lil-Lets-Menstrual-Beginners-Silicone-Certified/dp/B096L5V5YP/ref=sr_1_5?crid=2S330CULTUT5V&keywords=lilets+menstrual+cup&qid=1646600621&sprefix=lilets+menstrual+cup%2Caps%2C60&sr=8-5"
+      }
+   },
+   {
+      "pk":32,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-032-LIL-032",
+         "name":"Intinima Lily Menstrual Cup",
+         "description":"The high-capacity Lily menstrual Cup allows up to 12 hours of uncompromised protection, no matter the intensity of your flow. Insert in the morning, empty at night, and forget all about it during the day. Slanted design and a spill-proof rim fit your body’s natural curves and keep up with your active lifestyle all period long. With higher capacity and a longer stem, it is ideal for women with higher cervixes and a heavy flow.",
+         "sizes":[
+			"A",
+			"B"
+         ],
+		 "size_explanation":"<p>Size 'B' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size 'A' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "price":20.93,
+         "category":1,
+         "rating":4.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682695/EcoMenses/cups/lily_menstrual_cup_zzlsgj.jpg",
+         "image":"lily_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/INTIMINA-Lily-Super-Soft-Menstrual/dp/B00BL13MFM/ref=sr_1_1_sspa?crid=3GVCMJPH4WRZW&keywords=lily+menstrual+cup&qid=1646600729&sprefix=lily+menstrual+cup%2Caps%2C56&sr=8-1-spons&psc=1&smid=A1GJTHVG79OIB1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExMkxTT1JNOUFXN0wzJmVuY3J5cHRlZElkPUEwMzA4MDQwMjFHUTA1Wkc1VFpJJmVuY3J5cHRlZEFkSWQ9QTEwMzUyNjUyTU5XNzg5U0pFT1I5JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=="
+      }
+   },
+   {
+      "pk":33,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-033-LCO-033",
+         "name":"Intinima Lily Compact Menstrual Cup",
+         "description":"This collapsible period cup folds flat into its carry-anywhere compact case, assuring your period never catches you off-guard. Comfortable and reusable, it offers up to 12 hours of hassle-free period protection, day and night. Shorter length and easy-grip stem make it perfectly shaped for women with a lower cervix. This soft period cup with a no-spill rim covers light to medium flow and is flexible for easy insertion and comfort during wear.",
+         "sizes":[
+			"A",
+			"B"
+         ],
+		 "size_explanation":"<p>Size 'A' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size 'B' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "price":22.43,
+         "category":1,
+         "rating":4.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682695/EcoMenses/cups/lily_compact_menstrual_cup_syatis.jpg",
+         "image":"lily_compact_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Intimina-Collapsible-Flat-fold-Go-Anywhere-Protection/dp/B00STLACTQ/ref=sr_1_3_sspa?crid=3GVCMJPH4WRZW&keywords=lily+menstrual+cup&qid=1646601164&sprefix=lily+menstrual+cup%2Caps%2C56&sr=8-3-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExNlRGNUdYWUhSRE9QJmVuY3J5cHRlZElkPUEwNjc5NzQyMjAyMkZNTVZGVjBYSiZlbmNyeXB0ZWRBZElkPUEwNDg4MzgxMVVCRlZKTUVUVlFETSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU="
+      }
+   },
+   {
+      "pk":34,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-034-LUN-034",
+         "name":"Lunette Menstrual Cup",
+         "description":"Better for your body, better for the environment. Lunette Menstrual Cups will provide you with a safe, comfortable, odorless period for up to 12 hours. Easy to use, Lunette Menstrual Cups are a zero-waste alternative to tampons and pads, and can be used for up to two years. Made in Finland with the highest quality standards and love, all Lunette Menstrual Cups are registered with the FDA and Vegan Society, and are chemical, latex and BPA-free.",
+         "sizes":[
+			"1",
+			"2"
+         ],
+		 "size_explanation":"<p>Size '2' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size '1' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "price":19.84,
+         "category":1,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682695/EcoMenses/cups/lunette_menstrual_cup_ygm2fv.jpg",
+         "image":"lunette_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Lunette-Menstrual-Cup-Violet-Reusable/dp/B0054SQ02K/ref=sr_1_5?crid=2LCY6ITDKK16B&keywords=lunette%2Bmenstrual%2Bcup&qid=1646601280&rdc=1&sprefix=lunette%2Bmenstrual%2Bcup%2Caps%2C54&sr=8-5&th=1"
+      }
+   },
+   {
+      "pk":35,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-035-MAX-035",
+         "name":"MaxMedix Menstrual Cup",
+         "description":"Our reusable period cup is extremely flexible & comfortable to use. The healthcare period kit contains 1 large menstrual cup, 1 hygiene bag, and 1 user manual for your convenience. The cup can be worn for up to 12 hours with leak-free protection.",
+         "sizes":[
+			"Small",
+			"Large"
+         ],
+		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "price":9.99,
+         "category":1,
+         "rating":4.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682696/EcoMenses/cups/maxmedix_menstrual_cup_fjep2n.jpg",
+         "image":"maxmedix_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Menstrual-Cup-Complimentary-Hygienic-Medical-Grade/dp/B087MY1THL/ref=sr_1_5?crid=3H3R2JA1I74U5&keywords=maxmedix+menstrual+cup&qid=1646601483&sprefix=maxmedix+menstrual+cup%2Caps%2C61&sr=8-5"
+      }
+   },
+   {
+      "pk":36,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-036-MEL-036",
+         "name":"Meluna Menstrual Cup",
+         "description":"Me Luna menstrual cups are 100% made in Germany. Me Luna contains no bleach, fragrances, proteins, PVC, latex, silicone, alkylphenols, BPA. At work, playing sports, on the go or travelling, Me Luna can be used anywhere.",
+		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p>",
+		 "price":18.00,
+         "category":1,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682697/EcoMenses/cups/meluna_menstrual_cup_nstekh.jpg",
+         "image":"meluna_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Luna-Menstrual-Shorty-Ring-Medium/dp/B07XMKH3V1/ref=sr_1_10?crid=1VBIS73LSSDTM&keywords=meluna+menstrual+cup&qid=1646601628&sprefix=meluna+menstrual+cup%2Caps%2C65&sr=8-10"
+      }
+   },
+   {
+      "pk":37,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-037-MER-037",
+         "name":"Merula Menstrual Cup",
+         "description":"The Merula Cup XL is made from 100% medical grade silicone and produced in Germany. It is spherical, with a fixed edge and a thin soft body. The menstrual cup can be worn crushed - only the edge has to open. From weak to strong pelvic floor muscles, the Merula Cup XL remains where it belongs. Since it is crushed and does not have to fully unfold like other cups, even a strong pelvic floor does not bring it out of shape. The Merula Cup XL has a very large capacity (up to 50 ml) with a diameter of 46 mm. An ideal companion for very strong bleeding.",
+		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p>",
+		 "price":19.85,
+         "category":1,
+         "rating":4.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682697/EcoMenses/cups/merula_menstrual_cup_vzxtci.jpg",
+         "image":"merula_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Merula-Cup-XL-Menstrual-Strong/dp/B08496LDTN/ref=sr_1_5?keywords=merula%2Bmenstrual%2Bcup&qid=1646679604&sprefix=merula%2Bme%2Caps%2C117&sr=8-5&th=1"
+      }
+   },
+   {
+      "pk":38,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-038-MOO-038",
+         "name":"Mooncup Menstrual Cup",
+         "description":"The Mooncup is a soft, silicone menstrual cup that you can reuse every time you get your period. The Mooncup menstrual cup collects, rather than absorbs, the menstrual blood. Designed by women as a convenient, safe and sustainable alternative to tampons and pads.",
+         "sizes":[
+			"A",
+			"B"
+         ],
+		 "size_explanation":"<p>Size 'A' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size 'B' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "price":18.49,
+         "category":1,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682697/EcoMenses/cups/mooncup_menstrual_cup_ht5ooy.jpg",
+         "image":"mooncup_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Mooncup-Menstrual-Cup-Size-1pieces/dp/B00KX5RHUI/ref=sr_1_5?crid=2GUDSQQII3N86&keywords=mooncup+menstrual+cup&qid=1646679785&sprefix=mooncup+menstrual+cup%2Caps%2C60&sr=8-5"
+      }
+   },
+   {
+      "pk":39,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-039-NUD-039",
+         "name":"Nudie Menstrual Cup",
+         "description":"",
+         "sizes":[
+			"Medium",
+			"Large"
+         ],
+		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Medium. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "price":19.99,
+         "category":1,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682697/EcoMenses/cups/nudie_menstrual_cup_fzpm69.jpg",
+         "image":"nudie_menstrual_cup.jpg",
+		 "link": "https://www.ebay.co.uk/itm/224410582064?hash=item343fe9bc30:g:MR0AAOSwbMZgaFyw"
+      }
+   },
+   {
+      "pk":40,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-040-ORG-040",
+         "name":"OrganiCup Menstrual Cup",
+         "description":"Our menstrual cups are AllergyCertified and do not contain any known allergens. Carefully examined by a Toxicologist our period cups comply to all relevant legislation which allows us to be Allergy Certified. In 2019 we won the AllergyAward for category 'Best skin friendly product for Body'. When using your OrganiCup for the first time you should sanitise the cup in boiling water for 3-5 minutes. Do not let the cup touch the bottom of the pot. Follow the instructions that are included with the cup for a detailed guide on inserting and removing your cup.",
+         "sizes":[
+			"Mini",
+			"A",
+			"B"
+         ],
+		 "size_explanation":"<p>Size 'B' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size 'A' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Size Mini. For teens and young women under the age of 18 who have not given birth and are not sexually active or practicing masturbation.</p>",
+		 "price":12.99,
+         "category":1,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682697/EcoMenses/cups/organi_menstrual_cup_vjxxqf.jpg",
+         "image":"organi_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/OrganiCup-ORGCUPQO2-Menstrual-Cup-A/dp/B07SC244TV/ref=sr_1_5?crid=1S7INOQES1W80&keywords=organicup%2Bmenstrual%2Bcup&qid=1646679978&sprefix=organicup%2Bmenstrual%2Bcup%2Caps%2C44&sr=8-5&th=1"
+      }
+   },
+   {
+      "pk":41,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-041-OVI-041",
+         "name":"Ovio Menstrual Cup",
+         "description":"The OVIO Cup is leak free and reliable, even during sleeping, swimming, hiking and running. Whatever your day holds! It's cost effective - The OVIO Cup can be used time and time again, for years and years. Wave goodbye to pads and tampons, and hello to saving money each month. The OVIO Cup is made from 100% medical grade silicone, and contains no BPA, latex, or chemicals. It can also hold up to 3 times the fluid of a traditional tampon, and can be worn for up to 8 hours.",
+         "sizes":[
+			"Small",
+			"Regular"
+         ],
+		 "size_explanation":"<p>Size Regular. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "price":14.99,
+         "category":1,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682696/EcoMenses/cups/ovio_menstrual_cup_wy8odp.jpg",
+         "image":"ovio_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/OVIO-Menstrual-Cup-Replacement-Guarantee/dp/B08GSFYGFY/ref=sr_1_5?crid=2CV8F1CPK2GK5&keywords=ovio%2Bmenstrual%2Bcup&qid=1646680217&sprefix=ovio%2Bmenstrual%2Bcup%2Caps%2C60&sr=8-5&th=1"
+      }
+   },
+   {
+      "pk":42,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-042-PSA-042",
+         "name":"PeeSafe Menstrual Cup",
+         "description":"The easy-to-use and reusable cups are economical, comfortable, chemical-free and hygienic. Switch to cups that are more suitable for your body safer for the planet. Wear your cup up to 12 hours at a time, cups are flexible and long-lasting. Pee Safe menstrual cup collects as much as 3-4 tampons and pads so you can relax.",
+         "sizes":[
+			"Extra Small",
+			"Small",
+			"Large"
+         ],
+		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size 'B' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Size Extra Small. For teens and young women under the age of 18 who have not given birth and are not sexually active or practicing masturbation.</p>",
+		 "price":9.99,
+         "category":1,
+         "rating":4.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682697/EcoMenses/cups/peesafe_menstrual_cup_jits01.jpg",
+         "image":"peesafe_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/PEESAFE-Menstrual-Leakage-Comfortable-Reusable/dp/B081KWP56B/ref=sr_1_3_sspa?crid=344OVXCDH66JB&keywords=peesafe%2Bmenstrual%2Bcup&qid=1646680343&sprefix=peesafe%2Bmenstrual%2Bcup%2Caps%2C57&sr=8-3-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFWQ0g5VDJMR1k0TVEmZW5jcnlwdGVkSWQ9QTAyNjgwNTdLRUVGVTdMQlhUOVYmZW5jcnlwdGVkQWRJZD1BMDEyOTg2NjNDMjBIRFhUM0RSUzgmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1"
+      }
+   },
+   {
+      "pk":43,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-043-PIX-043",
+         "name":"PixieCup Menstrual Cup",
+         "description":"Pixie is a reusable silicone cup that collects your monthly discharge or menstrual flow. Inserted similar to a tampon, Pixie Cup sits in the vaginal canal comfortably with no odor, leaks or risk of TSS. Easy removal and leak-free periods means no period blood stains! ",
+         "sizes":[
+			"Small",
+			"Large"
+         ],
+		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "price":19.95,
+         "category":1,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682698/EcoMenses/cups/pixie_menstrual_cup_uzzsga.jpg",
+         "image":"pixie_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Pixie-Menstrual-Cup-Comfortable-Alternative/dp/B08LZRZ2Q9/ref=sr_1_5?crid=1NVNOJW1ENOIQ&keywords=pixie%2Bmenstrual%2Bcup&qid=1646680636&sprefix=pixie%2Bmenstrual%2Bcup%2Caps%2C59&sr=8-5&th=1"
+      }
+   },
+   {
+      "pk":44,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-044-PUR-044",
+         "name":"Pure Ella Menstrual Cup",
+         "description":"Wear the Pure Ella menstrual cup for 12 hours, all day or all night. The cup is comfortable and reliable, it collects the equivalent to 3-4 tampons and it has an anti-leak design to make you feel 100% secure and free. Don’t let your period stop you!",
+         "sizes":[
+			"Extra Small",
+			"Small",
+			"Large"
+         ],
+		 "size_explanation":"<p>Size 'A' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size 'B' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Size Extra Small. For teens and young women under the age of 18 who have not given birth and are not sexually active or practicing masturbation.</p>",
+		 "price":18.99,
+         "category":1,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682699/EcoMenses/cups/pureella_menstrual_cup_xyzgkm.jpg",
+         "image":"pureella_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Pure-Ella-Menstrual-Cup-Hypoallergenic/dp/B08Z6513GB/ref=sr_1_1_sspa?crid=3JY45AE4D9ZCZ&keywords=pure%2Bella%2Bmenstrual%2Bcup&qid=1646680826&sprefix=pure%2Bella%2Bmenstrual%2Bcup%2Caps%2C54&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzT1YzQ0M3VzI3TkpSJmVuY3J5cHRlZElkPUEwNTc0NjU3MzU3MEpOTE1IRFQ2MSZlbmNyeXB0ZWRBZElkPUEwNTM4MzQyM0dHREY1R1FWQlIzRyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1"
+      }
+   },
+	{
+      "pk":45,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-045-REL-045",
+         "name":"Relaxa Menstrual Cup",
+         "description":"Relaxa is a reusable silicone cup that collects your monthly blood flow, inserted like a soft tampons, this feminine cup sits comfortably in the vaginal canal and offers comfortable, odorless, sensation and leak free periods. Specially made Relaxa cups uses medical grade silicone and dyes to ensure complete biocompatibility and safety of our product. Our mensuration cup is hypoallergenic and is free of BPA, latex and dioxins.",
+         "sizes":[
+			"Small",
+			"Large"
+         ],
+		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "price":5.99,
+         "category":1,
+         "rating":4.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682698/EcoMenses/cups/relaxa_menstrual_cup_rsnxcj.jpg",
+         "image":"relaxa_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Relaxa-Menstrual-Reusable-Flexible-Menstruation/dp/B08QR3HV84/ref=sr_1_5?crid=8Z3E5N3REYBW&keywords=relaxa%2Bmenstrual%2Bcup&qid=1646681068&sprefix=relaxa%2Bmenstrual%2Bcup%2Caps%2C48&sr=8-5&th=1"
+      }
+   },
+   {
+      "pk":46,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-046-RUB-046",
+         "name":"RubyCup Menstrual Cup",
+         "description":"100% medical-grade silicone. Premium quality material without any harmful chemicals or bleach and registered with the VEGAN Society. Menstrual fluid is collected rather than absorbed leaving your vaginal pH intact and avoiding dryness or irritation. Specially designed to be easy to use. The Ruby Cup is soft and flexible enough to fold easily for insertion then pop open to create a leak-free seal every time. Comes with easy to follow instructions + online & email support.",
+         "sizes":[
+			"Small",
+			"Medium"
+         ],
+		 "size_explanation":"<p>Size Medium. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "price":26.00,
+         "category":1,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682698/EcoMenses/cups/ruby_menstrual_cup_poxlfq.jpg",
+         "image":"ruby_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Ruby-Cup-Menstrual-Convenient-Alternative/dp/B011S5IL74/ref=sr_1_1_sspa?crid=14SU4E84WI5U1&keywords=ruby%2Bcup%2Bmenstrual%2Bcup&qid=1646681175&sprefix=ruby%2Bcup%2Bmenstrual%2Bcup%2Caps%2C55&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyS1pWODNOOVNQVU0zJmVuY3J5cHRlZElkPUExMDA5MzIzU0NGNUROWFMySUE1JmVuY3J5cHRlZEFkSWQ9QTAzMTAxNDJZWUJOVTdFMU5FUzAmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1"
+      }
+   },
+   {
+      "pk":47,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-047-SAA-047",
+         "name":"Saalt Menstrual Cup",
+         "description":" If a menstrual cup was a yogi, this would be it! The Saalt Soft is made with an ultra-soft silicone formula designed to be both gentle and super comfortable for those with bladder sensitivity, cramping or discomfort with firmer cups. Namaste. The Saalt Soft was designed in collaboration with the cup experts at Put A Cup In It, who have helped over a million menstruators find their perfect menstrual cup. Together, we created a cup that would combine that “just right” Saalt shape with a new, softer firmness that is ideal for those with sensitivities.",
+         "sizes":[
+			"Small",
+			"Regular"
+         ],
+		 "size_explanation":"<p>Size Regular. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "price":24.99,
+         "category":1,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682698/EcoMenses/cups/saalt_menstrual_cup_vtl2xm.jpg",
+         "image":"saalt_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Saalt-Soft-Menstrual-Cup-Sensitive/dp/B07RLPN947/ref=sr_1_1_sspa?crid=370V572LAG97Y&keywords=saalt%2Bmenstrual%2Bcup&qid=1646681390&sprefix=saalt%2Bmenstrual%2Bcup%2Caps%2C70&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExMlk3Vk9FQVRaQ0NOJmVuY3J5cHRlZElkPUEwOTA5MzYwNVdWUTY4SDFFMjJNJmVuY3J5cHRlZEFkSWQ9QTA1OTE5MjAzT1Q1WURRV09URE9KJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1"
+      }
+   },
+   {
+      "pk":48,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-048-SAT-048",
+         "name":"Satisfyer Menstrual Cup (2 pack)",
+         "description":"Featuring a reserved design, these hygienic, medical grade silicone, and easy to insert menstrual cups are available in a practical set of two. They have a capacity of 15 and 20 ml, which make them suitable for lighter and heavier days. The flexible menstrual cups are easy and comfortable to use, can be worn for up to 12 hours, and are a sustainable alternative to other monthly hygiene products. The cups can be removed easily with the practical grip. The cups should be cleaned in boiling water after every period - with proper care your menstrual cups can be used for several years.",
+		 "size_explanation":"<p>Size Regular. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Pack contains one cup of each size.</p>",
+		 "price":6.99,
+         "category":1,
+         "rating":4.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682699/EcoMenses/cups/satisfyer_menstrual_cup_gscmxf.jpg",
+         "image":"satisfyer_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Satisfyer-Feel-Confident-Menstrual-Cup/dp/B089M9JP6V?th=1"
+      }
+   },
+   {
+      "pk":49,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-049-SHO-049",
+         "name":"Shordy Menstrual Cup (2 pack)",
+         "description":"Shordy period cup is a reusable menstrual cups that collects your monthly blood flow. Inserted like a tampon super plus, Shordy Cup offers a complete protection and an odourless and sensation-free period. Join thousands of first-time menstruation cup users who say they will never go back to using sanitary pads for women and tampons super. Best Intimate Hygiene Alternative Protection for reusable cotton pads, period pads and sanitary towels.",
+         "sizes":[
+			"Small x2",
+			"Large x2",
+			"Small & Large"
+         ],
+		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "price":12.70,
+         "category":1,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682698/EcoMenses/cups/shordy_menstrual_cup_ckbvoe.jpg",
+         "image":"shordy_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Menstrual-Silicone-Feminine-Alternative-Sanitary/dp/B08246VY1T/ref=sr_1_5?crid=22QI65KK4Z72G&keywords=shordy%2Bmenstrual%2Bcup&qid=1646681825&sprefix=shordy%2Bmenstrual%2Bcup%2Caps%2C45&sr=8-5&th=1"
+      }
+   },
+   {
+      "pk":50,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-050-SIL-050",
+         "name":"Sileu Menstrual Cup",
+         "description":"Made of 100% hypoallergenic German medical-grade silicone, the safest and most biocompatible material that can come into contact with our bodies, since it will not cause any type of reaction (such as an allergy or inflammation). Certified with ISO 10993, the same certificate that is used in medical and surgical materials, such as implants, being totally and absolutely safe. ",
+         "sizes":[
+			"Small",
+			"Large"
+         ],
+		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "price":19.99,
+         "category":1,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682699/EcoMenses/cups/sileu_menstrual_cup_yyqsiv.jpg",
+         "image":"sileu_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Sileu-Menstrual-Cup-Model-Rose/dp/B079XWDTY7/ref=sr_1_6?crid=3IS344F2PP7FZ&keywords=sileu%2Bmenstrual%2Bcup&qid=1646681958&sprefix=sileu%2Bmenstrual%2Bcup%2Caps%2C45&sr=8-6&th=1"
+      }
+   },
+   {
+      "pk":51,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-051-SPE-051",
+         "name":"Spequix Menstrual Cup (2 pack)",
+         "description":"Break up with the tampon aisle- forever. One Menstrual Cup lasts for up to 10 years. That's more than 120 periods and replaces over 3,000 tampons and tons of waste.You can spend the money you save on a wonderful holiday,and Save the environment. You will feel comfortable in your period and feel nothing with it. Don't worry about the problem of leak. So, you can go to dance, swim, run with it.",
+         "sizes":[
+			"Small",
+			"Large"
+         ],
+		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Pack contains two cups of the same size.</p>",
+		 "price":14.99,
+         "category":1,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682700/EcoMenses/cups/spequix_menstrual_cup_n8kgpb.jpg",
+         "image":"spequix_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/SPEQUIX-Womens-Silicone-Menstrual-Period/dp/B08DK7TRBQ/ref=sr_1_6?crid=3G27ZW5VDYSBU&keywords=spequix%2Bmenstrual%2Bcup&qid=1646682066&sprefix=spequix%2Bmenstrual%2Bcup%2Caps%2C49&sr=8-6&th=1"
+      }
+   },
+   {
+      "pk":52,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-052-TAM-052",
+         "name":"Tampax Menstrual Cup",
+         "description":"The Tampax Cup Regular includes one Regular Flow menstrual cup and one carry case. The Tampax Cup is a reusable menstrual cup that is made of 100 Percent medical grade silicone and has been clinically tested. It is free from perfume, dyes, BPA and latex. It provides Comfort-Fit protection, day and night. The Tampax Cup has been designed with a gynaecologist and has a body-inspired shape designed to stay in place and reduce pressure on your bladder.",
+         "sizes":[
+			"Small",
+			"Large"
+         ],
+		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "price":17.41,
+         "category":1,
+         "rating":4.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646682699/EcoMenses/cups/tampax_menstrual_cup_cqk8vt.jpg",
+         "image":"tampax_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Tampax-Menstrual-Designed-Gynaecologist-Supplied/dp/B085GX6B5R/ref=sr_1_5?crid=1AJMTKUY56Q4L&keywords=tampax%2Bmenstrual%2Bcup&qid=1646682268&sprefix=tampax%2Bmenstrual%2Bcup%2Caps%2C55&sr=8-5&th=1"
+      }
+   },
+   {
+      "pk":55,
+      "model":"products.product",
+      "fields":{
+         "sku":"DIS-055-COR-002",
+         "name":"CoraDisc Menstrual Disc",
+         "description":"Designed for comfortable insertion and easy removal. One size fits most bodies comfortably without the sizing guesswork and is innovatively designed with a patent-pending finger-width groove for easy insertion and removal.",
+         "price":33.00,
+         "category":2,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646687381/EcoMenses/discs/coradisc_menstrual_disc_r04uzv.jpg",
+         "image":"coradisc_menstrual_disc.jpg",
+		 "link": "https://www.desertcart.co.uk/products/310171035-cora-disc-reusable-period-disc-wear-up-to-12-hours-sustainable-alternative-to-tampons-pads-for-light-or-heavy-flows-leak-proof-medical-grade-silicone-eco-friendly-feminine-hygiene?gclid=Cj0KCQiA95aRBhCsARIsAC2xvfzmuzA-oJ5HGxo9YWws7lvcJ3waPp7dxNjOYPyVT4TVUQiM7efbrVwaAhbyEALw_wcB"
+      }
+   },
+   {
+      "pk":57,
+      "model":"products.product",
+      "fields":{
+         "sku":"DIS-057-HEL-004",
+         "name":"Hello Menstrual Disc",
+         "description":"Say ‘hello’ to the world’s most innovative, comfortable and easy to remove menstrual disc. The Hello Disc™ features a patented double looped tab for easy removal. Say ‘goodbye’ to fishing around for your menstrual disc - and ‘hello’ to a true period game-changer.An easy ‘one size fits most’ and made from premium medical-grade silicone, the Hello Disc™ will provide hours of leak-proof protection and holds 50mls.",
+         "price":24.00,
+         "category":2,
+         "rating":5.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646687381/EcoMenses/discs/hellodisc_menstrual_disc_ibdc6k.jpg",
+         "image":"hellodisc_menstrual_disc.jpg",
+		 "link": "https://thehellocup.com/collections/all/products/hello-disc"
+      }
+   },
+   {
+      "pk":58,
+      "model":"products.product",
+      "fields":{
+         "sku":"DIS-058-HER-005",
+         "name":"H.E.R Menstrual Disc",
+         "description":"New Vagesty Period disc with string attached like tampon. It's easy to remove. The small vagesty disc holds 35 ml of blood and the large vagesty period disc holds 55ml of blood. The Vagesty disc is made of medical silicone material and is body safe. The Vagesty disc is free from chemicals and toxins. It’s reusable offering 5 year use with proper care. Case is included.",
+         "price":27.00,
+         "category":2,
+         "rating":5.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646687381/EcoMenses/discs/her_menstrual_disc_egoqld.jpg",
+         "image":"her_menstrual_disc.jpg",
+		 "link": "https://vagesty.com/products/pre-order-period-disc-with-string"
+      }
+   },
+   {
+      "pk":59,
+      "model":"products.product",
+      "fields":{
+         "sku":"DIS-059-INT-006",
+         "name":"Intinima Menstrual Disc",
+         "description":"hanks to the revolutionary flat-fit design, Ziggy can’t be felt at all. This is the only reusable menstrual disc that can be worn during sex. Ziggy is a high-capacity cup with a flexible, petal-thin body and leak-proof double rim for total peace of mind. It easily covers heavy flow periods.",
+         "price":23.70,
+         "category":2,
+         "rating":3.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646687381/EcoMenses/discs/Intimina_menstrual_disc_ke4uyp.jpg",
+         "image":"Intimina_menstrual_disc.jpg",
+		 "link": "https://www.amazon.co.uk/dp/B079JYJBF2?pd_rd_i=B079JYJBF2&pd_rd_w=EpHuv&pf_rd_p=c7644d05-b36c-42b2-af11-2ef3c7c4f9a0&pd_rd_wg=ZL7C5&pf_rd_r=SGSMYJVP6J95GAY7SQS5&pd_rd_r=cac7ed9b-5929-4403-bf17-f1774b99e6bf"
+      }
+   },
+   {
+      "pk":60,
+      "model":"products.product",
+      "fields":{
+         "sku":"DIS-060-LOO-007",
+         "name":"Loop Menstrual Disc",
+         "description":"The Loop. Menstrual Disc, made of 100% ultra soft medical-grade silicone, was made to provide you with a fuss-free period, while also reducing the amount of disposable sanitary products such as napkins and tampons that end up in landfill. While menstrual discs are a relatively new period product in the market, as compared to menstrual cups, they can be just as effective or even be the one most suited for your body or your lifestyle.",
+         "price":14.50,
+         "category":2,
+         "rating":4.8,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646687381/EcoMenses/discs/loop_menstrual_disc_lodahp.jpg",
+         "image":"loop_menstrual_disc.jpg",
+		 "link": "https://loopstore.ph/products/menstrual-disc"
+      }
+   },
+   {
+      "pk":61,
+      "model":"products.product",
+      "fields":{
+         "sku":"DIS-061-LUM-008",
+         "name":"Lumma Menstrual Disc",
+         "description":"The LUMMA disc is a reusable menstrual disc with a silicone string incorporated into its rim. The soft, flexible and completely round rim is designed to fit perfectly into the rounded walls on the vaginal canal without leaving any leakage point. ",
+		 "sizes":[
+			"Short",
+			"Medium",
+			"High"
+       ],
+		 "size_explanation":"<p>Size 'Short'. For women with a low cervix.</p><p>Size 'Medium'. For women who have a medium height cervix.</p><p>Size 'High'. For women who have a high cervix.</p>",
+         "price":29.90,
+         "category":2,
+         "rating":4.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646687381/EcoMenses/discs/lumma_menstrual_disc_khzq1z.jpg",
+         "image":"lumma_menstrual_disc.jpg",
+		 "link": "https://www.amazon.co.uk/Lumma-Menstrual-Disc-Unique-Pink/dp/B07Y5GWGH8/ref=sr_1_1_sspa?crid=3JP45ZGKJC7BD&keywords=luna%2Bmenstrual%2Bdisc&qid=1646686476&s=drugstore&sprefix=luma%2Bmenstrual%2Bdisc%2Cdrugstore%2C95&sr=1-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUzlVUDhUVUw5NE0yJmVuY3J5cHRlZElkPUEwNjM3MjA2MUFSSFhIRTFNWjFIMSZlbmNyeXB0ZWRBZElkPUEwNzc2NDQ3M0VVV0FTOUpIUDUxVyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1"
+      }
+   },
+   {
+      "pk":63,
+      "model":"products.product",
+      "fields":{
+         "sku":"DIS-063-NIX-010",
+         "name":"Nixit Menstrual Disc",
+         "description":"At nixit, we make menstrual cups simple. Ultra soft silicone and a unique, one size fits all shape, nixit conforms to you. No confusing sizes, no awkward folds.",
+         "price":33.00,
+         "category":2,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646687382/EcoMenses/discs/nixit_menstrual_disc_gjeqpr.jpg",
+         "image":"nixit_menstrual_disc.jpg",
+		 "link": "https://nixit.com/products/nixit-menstrual-cup?variant=15856471801928&currency=GBP&gclid=Cj0KCQiA95aRBhCsARIsAC2xvfxnz1HHJxN51LDzhs1vyQFNFTuyO39rNamfFue9fSFR463E6eVx_xUaAqJuEALw_wcB"
+      }
+   },
+   {
+      "pk":67,
+      "model":"products.product",
+      "fields":{
+         "sku":"PAD-067-BAM-001",
+         "name":"Bambaw Reusable Menstrual Pads (5 pack)",
+         "description":"The reusable sanitary towels are made from three different fabrics, so they are designed to guarantee worry-free periods: Bamboo charcoal fleece for its softness and odour control, microfiber for high-absorption and PUL for maximum protection. The bamboo sanitary pads are easy to wash and discreet in black. ",
+         "price":17.45,
+         "category":3,
+         "rating":4.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646690116/EcoMenses/pads/bambaw_reusable_menstrual_pad_hbh2m1.jpg",
+         "image":"bambaw_reusable_menstrual_pad.jpg",
+		 "link": "https://www.amazon.co.uk/Reusable-Menstrual-Discreet-Environmentally-Bambaw/dp/B083SLJX6V/ref=sr_1_2_sspa?crid=A9TQBADNBBNH&keywords=bambaw+pads&qid=1646687987&s=drugstore&sprefix=bambaw+pads%2Cdrugstore%2C74&sr=1-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFCU0kwTUYwTFQ5NU4mZW5jcnlwdGVkSWQ9QTA3NTI0MDIyRVA4SlNJOFk2TkVNJmVuY3J5cHRlZEFkSWQ9QTA3ODU1NDAyWEhMVE45RVdSNEJRJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=="
+      }
+   },
+   {
+      "pk":68,
+      "model":"products.product",
+      "fields":{
+         "sku":"PAD-068-BBF-002",
+         "name":"Bamboo Factory Reusable Menstrual Pads (5 pack)",
+         "description":"Skin-Friendly Reusable Sanitary Pads - The Bamboo Factory Period Pads are 100% natural and free from harsh ingredients that are often found in disposable tampons and napkins, making them perfect for your intimate area. ",
+         "price":17.99,
+         "category":3,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646690116/EcoMenses/pads/bamboofac_reusable_menstrual_pad_ar7ycs.jpg",
+         "image":"bamboofac_reusable_menstrual_pad.jpg",
+		 "link": "https://www.amazon.co.uk/Friendly-Bamboo-Reusable-Sanitary-Towels/dp/B07PFQ2M67/ref=sr_1_2_sspa?crid=2UR5I34V41YG7&keywords=bamboo%2Bfactory%2Bpads&qid=1646688123&s=drugstore&sprefix=bamboo%2Bfactory%2Bpads%2Cdrugstore%2C53&sr=1-2-spons&smid=A2VMTSDOK1C839&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyMURNMURTOUNKQVgxJmVuY3J5cHRlZElkPUEwNDQzNjQ1MkEzRlE3M05PMENQVSZlbmNyeXB0ZWRBZElkPUEwNjQ2MDg1MkRHUEM2SEE2Q05DMyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1"
+      }
+   },
+   {
+      "pk":69,
+      "model":"products.product",
+      "fields":{
+         "sku":"PAD-069-CHA-003",
+         "name":"Charlie Banana Reusable Menstrual Pads (3 pack)",
+         "description":"",
+         "price":11.50,
+         "category":3,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646690116/EcoMenses/pads/charliebanana_reusable_menstrual_pad_iinwj9.jpg",
+         "image":"charliebanana_reusable_menstrual_pad.jpg",
+		 "link": "https://www.amazon.co.uk/Charlie-Banana-Feminine-Super-Floriana/dp/B06XHLC1S7/ref=sr_1_2?crid=3DH4MG4ZFR6MR&keywords=charlie%2Bbanana%2Bmenstrual%2Bpads&qid=1646688220&rdc=1&s=drugstore&sprefix=charlie%2Bbanana%2Bmenstrual%2Bpads%2Cdrugstore%2C53&sr=1-2&th=1"
+      }
+   },
+   {
+      "pk":70,
+      "model":"products.product",
+      "fields":{
+         "sku":"PAD-070-COS-004",
+         "name":"Cosyoung Reusable Menstrual Pads (6 pack)",
+         "description":"10 Inch Regular Flow, Reusable And Washable, Wet Bag 15x20cm. Super Absorbent Micro fiber Inner Layer for Keeping Dry Feel. Antibacterial Charcoal Bamboo Material Against Your Skin. ",
+         "price":12.99,
+         "category":3,
+         "rating":5.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646690116/EcoMenses/pads/cosyoung_reusable_menstrual_pad_mvnbtj.jpg",
+         "image":"cosyoung_reusable_menstrual_pad.jpg",
+		 "link": "https://www.amazon.co.uk/Charcoal-Reusable-Washable-Menstrual-Sanitary/dp/B01LT7XAE0/ref=sr_1_4?crid=1HDND2JONDJZF&keywords=cosyoung%2Bbanana%2Bmenstrual%2Bpads&qid=1646688289&s=drugstore&sprefix=cosyoung%2Bbanana%2Bmenstrual%2Bpads%2Cdrugstore%2C65&sr=1-4&th=1"
+      }
+   },
+   {
+      "pk":71,
+      "model":"products.product",
+      "fields":{
+         "sku":"PAD-071-CUL-005",
+         "name":"Culoclean Reusable Menstrual Pads (4 pack)",
+         "description":"CuloClean reusable bamboo pads are the eco-friendly alternative to disposable pads and panty liners to use during your period, postpartum, or if you suffer from incontinence. Always more economical, ecological and absorbent than conventional ones.",
+         "price":17.99,
+         "category":3,
+         "rating":4.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646690115/EcoMenses/pads/culoclean_reusable_menstrual_pad_k4hq5p.jpg",
+         "image":"culoclean_reusable_menstrual_pad.jpg",
+		 "link": "https://www.amazon.co.uk/CuloClean-Reusable-Menstrual-Cups-4L/dp/B08Z3MQTN2/ref=sr_1_2?crid=S0ZCUWDFIWK&keywords=culoclean%2Bbanana%2Bmenstrual%2Bpads&qid=1646688483&s=drugstore&sprefix=culoclean%2Bbanana%2Bmenstrual%2Bpads%2Cdrugstore%2C56&sr=1-2&th=1"
+      }
+   },
+   {
+      "pk":73,
+      "model":"products.product",
+      "fields":{
+         "sku":"PAD-073-ECO-007",
+         "name":"Eco Lily Reusable Menstrual Pads (6 pack)",
+         "description":"Eco Lily Reusable Pantyliners / Light Flow Sanitary Pads (22 cm) have 3 layers: a layer of ultra-absorbent microfiber, an odour-absorbing bamboo charcoal fleece layer, and an outer layer of waterproof PUL fabric. The bamboo pantyliners are perfect for everyday use and especially good for giving you extra protection against normal vaginal discharge and for light periods. Each set contains 6 reusable pads and a waterproof, zippered pouch with 2 compartments.",
+         "price":22.99,
+         "category":3,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646690115/EcoMenses/pads/ecolily_reusable_menstrual_pad_hcgp2p.jpg",
+         "image":"ecolily_reusable_menstrual_pad.jpg",
+		 "link": "https://www.amazon.co.uk/Eco-Waterproof-Menstrual-Absorbent-Pantyliner/dp/B07XDJVXWG/ref=sr_1_1_sspa?crid=36VDJ2U1EEWXM&keywords=eco%2Blily%2Bmenstrual%2Bpads&qid=1646688613&s=drugstore&sprefix=eco%2Blily%2Bmenstrual%2Bpads%2Cdrugstore%2C50&sr=1-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExQ1NFVElSR0JYOEs1JmVuY3J5cHRlZElkPUEwMzU3NTUwM1NHMlBUN1dZS0ZJUSZlbmNyeXB0ZWRBZElkPUEwMjQyMzE3MVhMQ01FSjMxNzdCWSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1"
+      }
+   },
+   {
+      "pk":74,
+      "model":"products.product",
+      "fields":{
+         "sku":"PAD-074-FLO-008",
+         "name":"Floating Lotus Reusable Menstrual Pads (6 pack)",
+         "description":"We are a carbon-neutral business, and our pads and packaging are made from recycled materials. Reduce your plastic pollution and environmental impact with reusables. ",
+         "price":26.00,
+         "category":3,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646690116/EcoMenses/pads/floatinglotus_reusable_menstrual_pad_v7fe09.jpg",
+         "image":"floatinglotus_reusable_menstrual_pad.jpg",
+		 "link": "https://www.amazon.co.uk/Reusable-Bamboo-Sanitary-Floating-Washable/dp/B07CW1RMGY/ref=sr_1_4?crid=360IH7APM0SCU&keywords=floating+lotus+menstrual+pads&qid=1646688661&s=drugstore&sprefix=floating+lotus+menstrual+pads%2Cdrugstore%2C50&sr=1-4"
+      }
+   },
+   {
+      "pk":75,
+      "model":"products.product",
+      "fields":{
+         "sku":"PAD-075-HIG-009",
+         "name":"HighOh Reusable Menstrual Pads (6 pack)",
+         "description":"This natural bamboo charcoal fiber material effectively decomposes any micro-organisms present on the pad or in the air around it. We provide 2 layers of all natural bamboo charcoal fiber and a waterproof layer, to keep you clean, dry and hygienic all day every day. Say bye-bye to odour and bacteria!",
+         "price":54.41,
+         "category":3,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646690116/EcoMenses/pads/highoh_reusable_menstrual_pad_xtwa89.jpg",
+         "image":"highoh_reusable_menstrual_pad.jpg",
+		 "link": "https://www.amazon.co.uk/Washable-Charcoal-Menstrual-Incontinence-Waterproof/dp/B07B8Y76TV/ref=sr_1_4?crid=1DG2I559DLRJG&keywords=highoh+menstrual+pads&qid=1646688793&s=drugstore&sprefix=highoh+menstrual+pads%2Cdrugstore%2C53&sr=1-4"
+      }
+   },
+   {
+      "pk":76,
+      "model":"products.product",
+      "fields":{
+         "sku":"PAD-076-HIS-010",
+         "name":"Hisprout Reusable Menstrual Pads (5 pack)",
+         "description":"Made of soft, naturally super absorbent Antibacterial Bamboo fiber for a stay dry feel. Environmentally friendly: a lot of one-off sanitary pads will be used through a woman’s life. If you want be an eco-conscious women, the reusable and washable hi sprout pad will be your best choice.",
+         "price":15.99,
+         "category":3,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646690118/EcoMenses/pads/hisprout_reusable_menstrual_pad_brjp9y.jpg",
+         "image":"hisprout_reusable_menstrual_pad.jpg",
+		 "link": "https://www.amazon.co.uk/Hisprout-Bamboo-charcoal-Reusable-Sanitary-Menstrual/dp/B0757JWDMG/ref=sr_1_4?crid=VVGVLKXTJUGM&keywords=hisprout%2Bmenstrual%2Bpads&qid=1646688877&s=drugstore&sprefix=hisprout%2Bmenstrual%2Bpads%2Cdrugstore%2C60&sr=1-4&th=1"
+      }
+   },
+   {
+      "pk":77,
+      "model":"products.product",
+      "fields":{
+         "sku":"PAD-077-INF-011",
+         "name":"Infinity Eco Reusable Menstrual Pads (6 pack)",
+         "description":"",
+         "price":15.99,
+         "category":3,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646690118/EcoMenses/pads/infinityeco_reusable_menstrual_pad_i4rvp1.jpg",
+         "image":"infinityeco_reusable_menstrual_pad.jpg",
+		 "link": "https://www.amazon.co.uk/Reusable-Menstrual-travelbag-Alternative-Infinityeco/dp/B07V9PLZHJ/ref=sr_1_10?crid=2T6QZPQD6QNO4&keywords=infinity%2Beco%2Bmenstrual%2Bpads&qid=1646688969&s=drugstore&sprefix=infinity%2Beco%2Bmenstrual%2Bpads%2Cdrugstore%2C53&sr=1-10&th=1"
+      }
+   },
+   {
+      "pk":78,
+      "model":"products.product",
+      "fields":{
+         "sku":"PAD-078-KIK-012",
+         "name":"Kiki and Green Reusable Menstrual Pads (6 pack)",
+         "description":"",
+         "price":20.99,
+         "category":3,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646690118/EcoMenses/pads/kikiandgreen_reusable_menstrual_pad_ja15th.jpg",
+         "image":"kikiandgreen_reusable_menstrual_pad.jpg",
+		 "link": "https://www.amazon.co.uk/KIKI-GREEN-Reusable-Sanitary-Pads/dp/B08J246L73/ref=sr_1_2?crid=DNWV82MMJFDC&keywords=kiki%2Band%2Bgreen%2Bmenstrual%2Bpads&qid=1646689031&s=drugstore&sprefix=kiki%2Band%2Bgreen%2Bmenstrual%2Bpads%2Cdrugstore%2C53&sr=1-2&th=1"
+      }
+   },
+   {
+      "pk":79,
+      "model":"products.product",
+      "fields":{
+         "sku":"PAD-079-LIL-013",
+         "name":"Lilind Reusable Menstrual Pads (6 pack)",
+         "description":"",
+         "price":17.77,
+         "category":3,
+         "rating":3.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646690118/EcoMenses/pads/lilind_reusable_menstrual_pad_wj8gu1.jpg",
+         "image":"lilind_reusable_menstrual_pad.jpg",
+		 "link":"https://www.amazon.co.uk/Everyday-Pantyliners-Reusable-Menstrual-Sanitary/dp/B08WLS8T5C/ref=sr_1_7?crid=2FHXNV7WDCKIB&keywords=lilind%2Bmenstrual%2Bpads&qid=1646689106&s=drugstore&sprefix=lilind%2Bmenstrual%2Bpads%2Cdrugstore%2C54&sr=1-7&th=1"
+	  }
+   },
+   {
+      "pk":80,
+      "model":"products.product",
+      "fields":{
+         "sku":"PAD-080-LIV-014",
+         "name":"Livehitop Reusable Menstrual Pads (5 pack)",
+         "description":"The Ultra Comfortable Reusable Menstrual Towels set includes 5 x Large size (30 x24 cm / 12 x9.5 inch) + 1 x portable waterproof zipper storage bag. Super soft, ultra absorbent, dry moisture wicking and eliminating smells. Perfect for travel, work, outdoor, exercise, business trip or daily use.",
+         "price":15.88,
+         "category":3,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646690117/EcoMenses/pads/livehitop_reusable_menstrual_pad_rlsyea.jpg",
+         "image":"livehitop_reusable_menstrual_pad.jpg",
+		 "link": "https://www.amazon.co.uk/LIVEHITOP-Reusable-Sanitary-Pads-Pack/dp/B07WNTZW6H/ref=sr_1_1_sspa?crid=2FP4UCED47H2Z&keywords=livehitop%2Bpads&qid=1646689344&s=drugstore&sprefix=livehitop%2Bpads%2Cdrugstore%2C54&sr=1-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyUldONlVEN00wNUsmZW5jcnlwdGVkSWQ9QTAyMzU0NTQzMUswNldUNFpWRDVYJmVuY3J5cHRlZEFkSWQ9QTAwODk3ODBSM0paR1Q0UFNWVSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1"
+      }
+   },
+   {
+      "pk":81,
+      "model":"products.product",
+      "fields":{
+         "sku":"PAD-081-LUN-015",
+         "name":"LunaCycle Reusable Menstrual Pads (5 pack)",
+         "description":"At Luna Cycle we believe everyone should be able to meet their personal hygiene needs conveniently and comfortably, whilst saving money and being kind to the planet. That’s why we created our range of reusable sanitary pads. Free of single-use plastics and made with naturally-absorbent fibres, Luna Cycle pads are a hassle-free and sustainable alternative to disposable tampons, pads, towels and liners. ",
+         "price":12.99,
+         "category":3,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646690117/EcoMenses/pads/lunacycle_reusable_menstrual_pad_dl1xka.jpg",
+         "image":"lunacycle_reusable_menstrual_pad.jpg",
+		 "link": "https://www.amazon.co.uk/Luna-Cycle-Reusable-Sanitary-Pads/dp/B084DRMNHB/ref=sr_1_5?crid=30X2IQNW230UV&keywords=lunar%2Bcycle%2Bmenstrual%2Bpads&qid=1646689451&sprefix=lunarcycle%2Bmenstrual%2Bpads%2Caps%2C54&sr=8-5&th=1"
+      }
+   },
+   {
+      "pk":84,
+      "model":"products.product",
+      "fields":{
+         "sku":"PAD-084-NEW-018",
+         "name":"New Style Reusable Menstrual Pads (7 pack)",
+         "description":"4 layers,Made of antibacterial charcoal bamboo fiber layer against your skin, 2-layer super-absorbent microfiber, waterproof PUL outer layer to prevent leaks and spills; includes 5pcs of medium size(L26cm*W18cm) and 2pcs of large size(L30cm*W24cm) with a wet bag.",
+         "price":12.99,
+         "category":3,
+         "rating":4,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646690118/EcoMenses/pads/newstyle_reusable_menstrual_pad_no52xy.jpg",
+         "image":"newstyle_reusable_menstrual_pad.jpg",
+		 "link": "https://www.amazon.co.uk/NEWSTYLE-Reusable-Sanitary-Menstrual-Washable/dp/B087QYLVFP/ref=sr_1_5?crid=1GRFNWKM6Y8VG&keywords=newstyle+menstrual+pads&qid=1646083984&sprefix=newstyle+menstrual+pads%2Caps%2C51&sr=8-5"
+      }
+   },
+   {
+      "pk":85,
+      "model":"products.product",
+      "fields":{
+         "sku":"PAD-085-PIX-019",
+         "name":"Pixie Reusable Menstrual Pads (5 pack)",
+         "description":"Top layer is made with OCS certified organic cotton without the use of toxins, chlorine, pesticides, and fragrance so nothing harmful is touching your skin. No dyes, no bleach, no chemicals, ever. Simply wrap wings around panty gusset and snap securely. The double snap closure ensures a secure, no-slip fit. Slight hourglass shape fits to body and underwear.",
+         "price":29.95,
+         "category":3,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646690117/EcoMenses/pads/pixie_reusable_menstrual_pad_q4byte.jpg",
+         "image":"pixie_reusable_menstrual_pad.jpg",
+		 "link": "https://www.amazon.co.uk/Pack-Reusable-Cloth-Menstrual-Pads/dp/B074QJJ6RZ/ref=asc_df_B074QJJ6RZ/?tag=googshopuk-21&linkCode=df0&hvadid=534951886075&hvpos=&hvnetw=g&hvrand=8453675554423806373&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007000&hvtargid=pla-821920228260&psc=1"
+      }
+   },
+   {
+      "pk":86,
+      "model":"products.product",
+      "fields":{
+         "sku":"PAD-086-ROV-020",
+         "name":"Rovtop Reusable Menstrual Pads (12 pack)",
+         "description":"Rovtop's reusable sanitary napkins, refined 12 pieces, divided into 4 sizes: XL x 2 (35cmx15cmx9cm), L x 4 (25.4cmx18cm), M x 2 (21cmx18cm), S x 4 (16.5 cmx15.5cm). Sanitary napkins with a length of 35 cm are suitable for women who need to absorb large flows and need protection after delivery or after surgery. According to the change of menstrual bleeding volume, users can choose another suitable size to achieve smoother use.",
+         "price":20.59,
+         "category":3,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646690118/EcoMenses/pads/rovtop_reusable_menstrual_pad_smnr3g.jpg",
+         "image":"rovtop_reusable_menstrual_pad.jpg",
+		 "link": "https://www.amazon.co.uk/Rovtop-Reusable-Sanitary-Washable-Menstrual/dp/B088CZ373L/ref=sr_1_3_sspa?crid=3JZRJJQ3G28V0&keywords=rovtop+pads&qid=1646084700&s=drugstore&sprefix=rovtop+pads%2Cdrugstore%2C66&sr=1-3-spons&psc=1&smid=AFGAKRUI2QXVG&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFJQ0hLRVFPTjRQNFEmZW5jcnlwdGVkSWQ9QTA2MzQyMzc0OFI3QVY3Slk0RUEmZW5jcnlwdGVkQWRJZD1BMDY3ODMxMjJNNllWT1BJWE1YRlYmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl"
+      }
+   },
+   {
+      "pk":19,
+      "model":"products.product",
+      "fields":{
+         "sku":"PAD-019-RTD-021",
+         "name":"Rovtop Dark Reusable Menstrual Pads (10 pack)",
+         "description":"Rovtop Reusable sanitary napkins are made of multi-layer fabric. The inner layer is made of bamboo carbon fiber with skin affinity, the middle layer is made of double-layer water absorbing superfine fiber, and the outermost layer is made of waterproof TPU material. The inner layer of superfine fiber is super absorbent, which can eliminate peculiar smell and keep dry.",
+         "price":23.99,
+         "category":3,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646690118/EcoMenses/pads/rovtopdark_reusable_menstrual_pad_hrwskb.jpg",
+         "image":"rovtopdark_reusable_menstrual_pad.jpg",
+		 "link": "https://www.amazon.co.uk/Rovtop-Menstrual-Waterproof-Absorbency-Layers%EF%BC%8CBlack/dp/B08ZRTWBZ2/ref=sr_1_4?crid=3JZRJJQ3G28V0&keywords=rovtop+pads&qid=1646084677&s=drugstore&sprefix=rovtop+pads%2Cdrugstore%2C66&sr=1-4"
+      }
+   },
+   {
+      "pk":87,
+      "model":"products.product",
+      "fields":{
+         "sku":"PAD-087-SIM-022",
+         "name":"SimFamily Reusable Menstrual Pads (6 pack)",
+         "description":"Each Package Including: 6 X Pcs Charcoal Bamboo Panty Liner 1 X Pcs Mini Wet Bag.",
+         "price":8.99,
+         "category":3,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646690118/EcoMenses/pads/simfamily_reusable_menstrual_pad_fdndb2.jpg",
+         "image":"simfamily_reusable_menstrual_pad.jpg",
+		 "link": "https://www.amazon.co.uk/Simfamily-Including-Charcoal-Menstrual-Reusable/dp/B071ZFH5WF/ref=sr_1_6?crid=355I4O46F1DXE&keywords=simfamily+pads&qid=1646084720&s=drugstore&sprefix=simfamily+pads%2Cdrugstore%2C55&sr=1-6"
+      }
+   },
+   {
+      "pk":88,
+      "model":"products.product",
+      "fields":{
+         "sku":"PAD-088-TEA-023",
+         "name":"Teamoy Reusable Menstrual Pads (10 pack)",
+         "description":"Made of charcoal bamboo fiber layer against your skin, 2-layer super-absorbent microfiber, water-resistant PUL outer layer to prevent leaks and spills. The button snaps on the wings are easy to open and close, which can keep the pads stay in place and avoid leaking on the sides. Perfect for travel, outdoor, exercise, or daily use.",
+         "price":23.99,
+         "category":3,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646690118/EcoMenses/pads/teamoy_reusable_menstrual_pad_re2eag.jpg",
+         "image":"teamoy_reusable_menstrual_pad.jpg",
+		 "link": "https://www.amazon.co.uk/Teamoy-Reusable-Sanitary-Washable-Bamboo/dp/B07GRX3D74/ref=sr_1_4?crid=1M7P1KSIM0SFU&keywords=teamoy%2Bpads&qid=1646084739&s=drugstore&sprefix=teamoy%2Bpads%2Cdrugstore%2C68&sr=1-4&th=1"
+      }
+   },
+   {
+      "pk":89,
+      "model":"products.product",
+      "fields":{
+         "sku":"PAD-089-VIE-024",
+         "name":"Viedouce Reusable Menstrual Pads (9 pack)",
+         "description":"The Viedouce reusable sanitary napkin consists of 4 protective layers: 1 * surface layer in bamboo charcoal fiber, 2 * intermediate layer in microfiber and 1 * outer layer PUL. The microfiber inner layer is super absorbent, which can eliminate odors and keep it dry. The surface of the bamboo charcoal fiber has antibacterial, healthy and soft properties to take care of your skin. The PUL outer layer is waterproof to prevent leaks. ",
+         "price":19.99,
+         "category":3,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646690118/EcoMenses/pads/viedouce_reusable_menstrual_pad_bsarnq.jpg",
+         "image":"viedouce_reusable_menstrual_pad.jpg",
+		 "link": "https://www.amazon.co.uk/Viedouce-Reusable-Absorbency-Menstrual-Waterproof/dp/B082PQ1XBZ/ref=sr_1_2_sspa?crid=21IEYU5R520B&keywords=viedouce+pads&qid=1646084764&s=drugstore&sprefix=vidouce+pads%2Cdrugstore%2C62&sr=1-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyWk9RVktaMVNBNEFaJmVuY3J5cHRlZElkPUEwNDMwOTQ4MzdYMzZQSzVBOFlERCZlbmNyeXB0ZWRBZElkPUEwNzk2ODc1MzRYUENQT1k3NEFYRCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU="
+      }
+   },
+   {
+      "pk":90,
+      "model":"products.product",
+      "fields":{
+         "sku":"PAD-090-YUE-025",
+         "name":"Yuetech Reusable Menstrual Pads (4 pack)",
+         "description":"With a Length of 32.5cm/12.8inch, Perfect for Women who Need Postpartum Protection after Giving Birth and who Have a Large Number of Sports Exercises or Heavy Flow of Menstruation. With Outer Layer of PUL to Prevent Leakage, 2 Popper Buttons and 1 Pair of Wings can Tighten the Undergarments to Improve Safety and Firmness. Furthermore, the Fan Tail Allows Sanitary Napkins to Absorb More Flow, Avoiding Leaks and Allowing You to Sleep Tightly. Bamboo Charcoal Layer is Antibacterial, Super Absorbent, Naturally Neutralizes Odors and is Hypoallergenic Making It Perfect for Sensitive Skin. The Dark Color of the Bamboo Charcoal Fabric is Also Forgiving of Stains Giving You One Less Thing to Worry About.",
+         "price":12.66,
+         "category":3,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646690119/EcoMenses/pads/yuetech_reusable_menstrual_pad_ymqhrc.jpg",
+         "image":"yuetech_reusable_menstrual_pad.jpg",
+		 "link": "https://www.amazon.co.uk/YueTech-Menstrual-Absorbency-Overnight-Scalloped/dp/B082DC61S2/ref=sr_1_4?crid=23IR1QW1NX1UI&keywords=yuetech+pads&qid=1646084793&s=drugstore&sprefix=yuetech+pads%2Cdrugstore%2C89&sr=1-4"
+      }
+   },
+   {
+      "pk":91,
+      "model":"products.product",
+      "fields":{
+         "sku":"PAD-091-ZCO-026",
+         "name":"Zcoins Reusable Menstrual Pads (11 pack)",
+         "description":"Multi-size Sanitary Pads pack contains 3PCS of small, 6PCS of medium, 2PCS of large size, and 1 double-pocketed wet bag. Material is waterproof PUL(outer layer),absorbent microfiber(inside layers),antibacterial charcoal bamboo(skin contact). Machine washable,it's great alternative to the disposable towel, good for environment and saving money.",
+         "price":20.99,
+         "category":3,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646690119/EcoMenses/pads/zcoins_reusable_menstrual_pad_pbdbyl.jpg",
+         "image":"zcoins_reusable_menstrual_pad.jpg",
+		 "link": "https://www.amazon.co.uk/Zcoins-Reuseable-Sanitary-Washable-Medium/dp/B07SD9JNTH/ref=sr_1_4?crid=1BA6U26TP4ML&keywords=zcoins+pads&qid=1646084817&s=drugstore&sprefix=zcoins+pads%2Cdrugstore%2C64&sr=1-4"
+      }
+   },
+   {
+      "pk":92,
+      "model":"products.product",
+      "fields":{
+         "sku":"UND-092-ANN-001",
+         "name":"Anntry Period Pants (5 pack)",
+         "description":"The main material of the menstrual panty is made of 94% Cotton, 6% Spandex. Leak-proof lining: 90% viscose fabric, 10% spandex. Crotch lining：100% cotton. These period cycle panties can be machine wash, hand wash or air dry, Hand wash is recommended ",
+         "price":13.99,
+         "category":4,
+         "rating":4.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646691895/EcoMenses/underwear/anntry_period_pants_eptsjx.jpg",
+         "image":"anntry_period_pants.jpg",
+		 "link": "https://www.amazon.co.uk/Anntry-Breathable-Menstrual-Leak-Proof-Underwear/dp/B096WTVDLC/ref=sr_1_5?keywords=anntry+period+pants&qid=1646690604&sprefix=anntry+%2Caps%2C68&sr=8-5"
+      }
+   },
+   {
+      "pk":95,
+      "model":"products.product",
+      "fields":{
+         "sku":"UND-095-HBS-004",
+         "name":"HBselect Period Pants (6 packs)",
+         "description":"Made of 52% rayon cotton + 36% nylon + 12% spandex, 100% cotton crotch.Soft texture will fit your skin better,protects sensitive parts,and without limiting yourself during your period and make sure to give you good health care.",
+         "price":18.99,
+         "category":4,
+         "rating":4.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646691896/EcoMenses/underwear/hbselect_period_pants_uhibce.jpg",
+         "image":"hbselect_period_pants.jpg",
+		 "link": "https://www.amazon.co.uk/HBselect-Menstrual-Underwear-Leakproof-Knickers/dp/B08GLBMN6M/ref=sr_1_5?crid=QPFG1J11TKBH&keywords=hbselect%2Bperiod%2Bpants&qid=1646690890&sprefix=hbselect%2Bperiod%2Bpants%2Caps%2C51&sr=8-5&th=1"
+      }
+   },
+   {
+      "pk":96,
+      "model":"products.product",
+      "fields":{
+         "sku":"UND-096-HEM-005",
+         "name":"HEMSLEY Period Pants",
+         "description":"No embarrassing moments here, for moderate to heavy flow, for light incontinence and even for sweat let the absorbent fabric and leak-proof layer work their magic. Feel secure in the knowledge that the absorbent leakproof coverage is high at the front and all the way up to the top lining at the back, this makes sure that even when you are lying down, you’ll be covered.",
+         "price":12.99,
+         "category":4,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646691895/EcoMenses/underwear/hemsley_period_pants_bkpghb.jpg",
+         "image":"hemsley_period_pants.jpg",
+		 "link": "https://www.amazon.co.uk/HEMSLEY-Period-Leakproof-Breathable-Friendly/dp/B08WKM58GR/ref=sr_1_5?crid=PB9UDHHQTQSU&keywords=hemsley+period+pants&qid=1646691009&sprefix=hemsley+period+pants%2Caps%2C48&sr=8-5"
+      }
+   },
+   {
+      "pk":97,
+      "model":"products.product",
+      "fields":{
+         "sku":"UND-097-INN-006",
+         "name":"INNERSY Teens Period Pants (Pack of 3)",
+         "description":"",
+         "price":16.99,
+         "category":4,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646691895/EcoMenses/underwear/innersy_period_pants_srf9n6.jpg",
+         "image":"innersy_period_pants.jpg",
+		 "link": "https://www.amazon.co.uk/INNERSY-Menstrual-Panties-Leak-Proof-Knickers/dp/B07RMHMTZZ/ref=sr_1_3_sspa?crid=38BSABDWVJDV9&keywords=innersy+period+pants&qid=1646691119&sprefix=innersy+period+pants%2Caps%2C52&sr=8-3-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzRVBCNVBEOTBVNjZGJmVuY3J5cHRlZElkPUEwMzYxMzA3MkhOTVpCRThYSU4wSiZlbmNyeXB0ZWRBZElkPUEwNzU3MzUwMUJUVkxPSUhQV0FJTyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU="
+      }
+   },
+   {
+      "pk":98,
+      "model":"products.product",
+      "fields":{
+         "sku":"UND-098-IND-007",
+         "name":"INNERSY Period Pants (Pack of 3)",
+         "description":"Wide back coverage and extended protective lining in the front ensure no messy stains on sheets or clothes, giving extra protection to leak proof; BUT our period pants MUST use with pads, cups or tampons together for perfect protection.",
+         "price":18.99,
+         "category":4,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646691895/EcoMenses/underwear/innersydark_period_pants_wyg6kp.jpg",
+         "image":"innersydark_period_pants.jpg",
+		 "link": "https://www.amazon.co.uk/INNERSY-Underwear-Leakproof-Incontinence-Multipack/dp/B07ZNYZ3K2/ref=sr_1_11?crid=38BSABDWVJDV9&keywords=innersy%2Bperiod%2Bpants&qid=1646691202&sprefix=innersy%2Bperiod%2Bpants%2Caps%2C52&sr=8-11&th=1"
+      }
+   },
+   {
+      "pk":99,
+      "model":"products.product",
+      "fields":{
+         "sku":"UND-099-MOD-008",
+         "name":"Modibodi Period Pants",
+         "description":"We welcome periods and leaks, because we take care of them for you. Wave goodbye to disposable liners and say hello to the best undies of your life. Modibodi fits and wears like regular underwear, but with protection powers you won't find anywhere else!",
+         "price":32.52,
+         "category":4,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646691896/EcoMenses/underwear/modibodi_period_pants_xinbwm.jpg",
+         "image":"modibodi_period_pants.jpg",
+		 "link": "https://www.amazon.co.uk/Modibodi-Sensual-Waist-Bikini-Heavy-Overnight/dp/B078HVBQJ6/ref=sr_1_6?crid=136JAVKUT9M5Q&keywords=modibodi%2Bperiod%2Bpants&qid=1646691286&sprefix=modibodi%2Bperiod%2Bpants%2Caps%2C52&sr=8-6&th=1&psc=1"
+      }
+   },
+   {
+      "pk":100,
+      "model":"products.product",
+      "fields":{
+         "sku":"UND-100-NEI-009",
+         "name":"Neione Period Pants (3 pack)",
+         "description":"Up to 2 tampons' worth absorbent period pants to lock in menstrual flow or postpartum bleeding. Wear together with pads, tampons or menstrual cups as additional back-up. Also wear as maternity pants after birth to prevent leaks from postpartum bleeding.",
+         "price":21.99,
+         "category":4,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646691896/EcoMenses/underwear/neione_period_pants_y5uius.jpg",
+         "image":"neione_period_pants.jpg",
+		 "link": "https://www.amazon.co.uk/Intimate-Portal-Knickers-Menstrual-Underwear/dp/B08F7G1MDD/ref=sr_1_1_sspa?crid=3IK6KNTZMT3RU&keywords=neione+period+pants&qid=1646691396&sprefix=neione+period+pants%2Caps%2C55&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTUk2WTBWTFk2MFJPJmVuY3J5cHRlZElkPUEwNDg0MzkzM0JXUzk5UjJHMENHNiZlbmNyeXB0ZWRBZElkPUEwMzAwMTM2SFFVMkxTM1Q0VVVEJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=="
+      }
+   },
+   {
+      "pk":101,
+      "model":"products.product",
+      "fields":{
+         "sku":"UND-101-ROV-010",
+         "name":"Rovtop Period Pants (2 pack)",
+         "description":"With wide back coverage and extended protective lining in the front to ensure no messy stains on the sheets or clothes and make you comfortable all day.But our menstrual underwear Still need to be used with cushions or tampons to provide perfect protection.",
+         "price":9.99,
+         "category":4,
+         "rating":4.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646691896/EcoMenses/underwear/rovtop_period_pants_c1wwst.jpg",
+         "image":"rovtop_period_pants.jpg",
+		 "link": "https://www.amazon.co.uk/Rovtop-Menstrual-Underpants-Leak-Proof-Protection/dp/B08Z3XVRZV/ref=sr_1_7?crid=UJWZN8M2I50E&keywords=rovtop%2Bperiod%2Bpants&qid=1646691500&sprefix=rovtop%2Bperiod%2Bpants%2Caps%2C57&sr=8-7&th=1&psc=1"
+      }
+   },
+   {
+      "pk":102,
+      "model":"products.product",
+      "fields":{
+         "sku":"UND-102-WOO-011",
+         "name":"Woochin Period Pants (4 pack)",
+         "description":"95% cotton, 5% spandex. Waterproof layer: Polyurethane laminated (PUL) fabric. Crotch: 100% cotton with dark lining, moisture wicking, providing better comfort and flexibility. The mid-waist physiological pants are made of soft and easy-to-clean lining, the middle absorbent and leak-proof layer and the outside high-quality breathable cotton.",
+         "price":18.99,
+         "category":4,
+         "rating":4.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646691896/EcoMenses/underwear/woochin_period_pants_eu5p8b.jpg",
+         "image":"woochin_period_pants.jpg",
+		 "link": "https://www.amazon.co.uk/Woochin-Underwear-Menstrual-Knickers-Sanitary/dp/B09FXGZV5V/ref=sr_1_7?crid=2EHYOJL6TWBY8&keywords=woochin%2Bperiod%2Bpants&qid=1646691572&sprefix=woochin%2Bperiod%2Bpants%2Caps%2C44&sr=8-7&th=1&psc=1"
+      }
+   },
+   {
+      "pk":103,
+      "model":"products.product",
+      "fields":{
+         "sku":"UND-103-YIN-012",
+         "name":"Yintry Period Pants (5 pack)",
+         "description":"Full back coverage designed, three-layer of leak-proof lining and wide back coverage ensures no messy stains on sheets or pants, avoid leakage embarrassments.",
+         "price":17.99,
+         "category":4,
+         "rating":4.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1646691896/EcoMenses/underwear/yintry_period_pants_znotdg.jpg",
+         "image":"yintry_period_pants.jpg",
+		 "link": "https://www.amazon.co.uk/Yintry-Menstrual-Leakproof-Protection-Breathable/dp/B09LC7W3ZN/ref=sr_1_1_sspa?crid=1FJKGD198QEN0&keywords=yintry+pants&qid=1646691654&sprefix=yintry+pants%2Caps%2C52&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzVzRRUDhYU1MyWlYmZW5jcnlwdGVkSWQ9QTA2NjYzMzk3Nlo4MFFRVjU3MTQmZW5jcnlwdGVkQWRJZD1BMTAxNTQyMzFMVUpQUzlBUUZYWTMmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl"
+      }
+   },
+   {
+      "pk":104,
+      "model":"products.product",
+      "fields":{
+         "sku":"OTH-104-BLO-001",
+         "name":"Bloody Fierce Period Gift Box",
+         "description":"Celebrate Yourself or Your Loved Ones With SHE Period Bloody Fierce Box! (Includes 'All You Need Kit' + Period Book Bundle). We wanted to offer a gift box to empower our periods in a fun and sustainable way. It is the ultimate gift idea, a starter kit for any period positive menstruator! Talk about gift-giving made easy! The Bloody Fierce Gift Box includes: All You Need Kit + Period Book Bundle.",
+         "price":46.00,
+         "category":5,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1647001286/EcoMenses/other/bloodyfierce_period_kit_in8cme.jpg",
+         "image":"bloodyfierce_period_kit.jpg",
+		 "link": "https://www.sheperiod.com/products/bloody-fierce-gift-box"
+      }
+   },
+   {
+      "pk":105,
+      "model":"products.product",
+      "fields":{
+         "sku":"OTH-105-CHA-002",
+         "name":"Charlotte Rose Microwavable Heat Pack",
+         "description":"The Perfect Solution: Looking for a way of relieving menstrual, back, muscle, or arthritis pain? With our reusable heat pads, you just need to heat them in the microwave and place them on the specific body zone that causes you pain, and you will feel better in a short time.",
+         "price":8.99,
+         "category":5,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1647001285/EcoMenses/other/charlotterose_microwave_heat_pack_y9ja2b.jpg",
+         "image":"charlotterose_microwave_heat_pack.jpg",
+		 "link": "https://www.amazon.co.uk/Charlotte-Rose-All-Over-Heatpack/dp/B09K7WBWQS/ref=sr_1_4?crid=29BOM32KOFVNB&keywords=charlotte+rose+heat+pack&qid=1646997929&sprefix=charlotte+rose+heat+pack%2Caps%2C79&sr=8-4"
+      }
+   },
+   {
+      "pk":106,
+      "model":"products.product",
+      "fields":{
+         "sku":"OTH-106-FEM-003",
+         "name":"Femplete First Period Kit for Girls",
+         "description":"This first period kit for girls from Femplete contains everything needed to make menstruation less scary; Femplete’s period pack for first periods includes tampons and sanitary pads as well as a hot water bottle with Fur cover; We’ve even included wet wipes, organic tampons with applicators and a period bag for school.",
+         "price":32.98,
+         "category":5,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1647001286/EcoMenses/other/femplete_period_kit_j4zaqq.jpg",
+         "image":"femplete_period_kit.jpg",
+		 "link": "https://www.amazon.co.uk/Femplete-First-Period-Kit-Girls/dp/B09C12R9PV/ref=sr_1_5?crid=27BK6G85O4PB0&keywords=femplete&qid=1646998038&sprefix=femplete%2Caps%2C61&sr=8-5"
+      }
+   },
+   {
+      "pk":107,
+      "model":"products.product",
+      "fields":{
+         "sku":"OTH-107-LIL-004",
+         "name":"Lil-Lets Reusable Tampon Applicator Sold with 6 Lil-Lets Organic Tampons",
+         "description":"At Lil-Lets we believe choice is everything, so if you're looking to take steps to reduce your plastic waste, our reusable tampon applicator is a great alternative to a single-use applicator tampon. Our Lil-Lets reusable applicator is slimline and smooth with a flexible, rounded tip for comfortable & easy insertion.",
+         "price":17.99,
+         "category":5,
+         "rating":4.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1647001285/EcoMenses/other/lillets_tampon_applicator_gekqup.jpg",
+         "image":"lillets_tampon_applicator.jpg",
+		 "link": "https://www.amazon.co.uk/Lil-Lets-Reusable-Applicator-Organic-Tampons/dp/B09BZTWZCG/ref=sr_1_5?crid=1SOL5Y3790OOD&keywords=lillets+applicator&qid=1646998153&rdc=1&sprefix=lilets+applicator%2Caps%2C60&sr=8-5"
+      }
+   },
+   {
+      "pk":108,
+      "model":"products.product",
+      "fields":{
+         "sku":"OTH-108-PIX-005",
+         "name":"Pixie Cup Period Kit",
+         "description":"This Kit was designed to meet every period need that you might have! From cleaning to insertion, public bathrooms to home storage, heavy flow to those lighters days, we have you covered! Includes: Pixie Cup sizes small and large, Pixie Cup carry cup, Pixie Cup lubricant, Pixie Cup wash, Pixie Cup wipes x5, Pixie Cup carry pouch x2.",
+         "price":49.95,
+         "category":5,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1647001284/EcoMenses/other/pixiekit_period_kit_wnne0l.jpg",
+         "image":"pixiekit_period_kit.jpg",
+		 "link": "https://www.amazon.co.uk/Pixie-Cup-Menstrual-Starter-Kit/dp/B07ML547TW/ref=sr_1_4?crid=EJGBLXQVSNQM&keywords=pixie+kit&qid=1646998255&sprefix=pixi+kit%2Caps%2C68&sr=8-4"
+      }
+   },
+   {
+      "pk":109,
+      "model":"products.product",
+      "fields":{
+         "sku":"OTH-109-JNP-006",
+         "name":"Jade & Pearl Sea Pearls Natural Sea Sponge Tampons",
+         "description":"Sea Pearls Natural Sea Sponge Tampons are an innovative, healthy and natural way to make your period a little easier. Made with pure and natural sea sponge, Sea Pearls are sustainably harvested off the Gulf Coast in Florida (so they're great for the environment) and last 3-6 months or more (so they're much better value than conventional sanitary products too!)",
+         "price":22.49,
+         "category":5,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1647001285/EcoMenses/other/jadeandpearl_sea_sponges_fzmlfl.jpg",
+         "image":"jadeandpearl_sea_sponges.jpg",
+		 "link": "https://www.stressnomore.co.uk/sea-pearls-natural-sea-sponge-tampons-92413.html?gclid=CjwKCAiAg6yRBhBNEiwAeVyL0Byc4dN6XFsubRIKAMA-yP99GUJ3l2O6rghMo1gNO2UjxrP7OClf2hoCVLoQAvD_BwE"
+      }
+   },
+   {
+      "pk":93,
+      "model":"products.product",
+      "fields":{
+         "sku":"OTH-093-BEP-007",
+         "name":"Dame Reusable Tampon Applicator",
+         "description":"Hygienic by design, the DAME reusable applicator uses self-sanitising technology to kill 99.9% of bacteria on contact. Even better, it helps you avoid up to 12,000 single-use applicators which end up in our landfills and oceans.",
+         "price":16.99,
+         "category":5,
+         "rating":5.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1647001285/EcoMenses/other/dame_tampon_applicator_rk9nqq.jpg",
+         "image":"dame_tampon_applicator.jpg",
+		 "link": "https://wearedame.co/products/reusable-applicator?variant=31033168166996&currency=GBP&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gclid=CjwKCAiAg6yRBhBNEiwAeVyL0Gbs8xeRjms1t6RzROdPj8e5wz4JlEfP1aeJ0RJubhdaN4pRw5golxoCOhQQAvD_BwE"
+      }
+   },
+   {
+      "pk":94,
+      "model":"products.product",
+      "fields":{
+         "sku":"OTH-094-SPO-008",
+         "name":"Spongean Menstrual Sea Sponges",
+         "description":"Made from the finest Caribbean silk sea sponge, these 4 menstrual sponges contained in this box might be your ultimate natural alternative to conventional tampons or other synthetic period sponges. Worn inside the body to absorb menstrual flow, menstrual sea sponges are ultra comfortable, reusable, non-irritating and hygienic. They are also easy to insert, easy to clean and maintain.",
+         "price":23.99,
+         "category":5,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1647001284/EcoMenses/other/spongean_sea_sponges_ief9vl.jpg",
+         "image":"spongean_sea_sponges.jpg",
+		 "link": "https://www.ebay.co.uk/itm/384420777491?chn=ps&mkevt=1&mkcid=28"
+      }
+   },
+   {
+      "pk":83,
+      "model":"products.product",
+      "fields":{
+         "sku":"OTH-093-IMS-009",
+         "name":"ImseVimse Regular Reusable Cloth Tampons",
+         "description":"Organic & reusable cloth tampons - in packs of 8 (regular flow). Reusable tampons work just like a disposable tampon. They absorb well and are comfortable to use. These tampons are made of 100% organically cultivated cotton which are Oeko-Tex certified and free from chemicals.",
+         "price":22.00,
+         "category":5,
+         "rating":3.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1647001284/EcoMenses/other/ImseVimse_reusable_tampons_txyqqm.jpg",
+         "image":"ImseVimse_reusable_tampons.jpg",
+		 "link": "https://www.biggreensmile.com/products/imsevimse-reusable-tampons-regular/ivitamregflow.aspx?productid=ivitamregflow&utm_source=google&utm_medium=merchant_centre&utm_campaign=merchant_centre&gclid=CjwKCAiAg6yRBhBNEiwAeVyL0L_OgrQZ3-hZPZHcsHn0YuOCakt9ry8jRczwGmDSYLuun75fMTQ-7BoCnUMQAvD_BwE"
+      }
+   },
+   {
+      "pk":22,
+      "model":"products.product",
+      "fields":{
+         "sku":"OTH-022-IMS-010",
+         "name":"ImseVimse Heavy Reusable Cloth Tampons",
+         "description":"This pack of 8 large size tampons come in natural cotton and a choice of colourful prints and are perfect for heavy menstrual flows.",
+         "price":22.50,
+         "category":5,
+         "rating":4.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1647001284/EcoMenses/other/ImseVimse_heavy_reusable_tampons_dxa3jz.jpg",
+         "image":"ImseVimse_heavy_reusable_tampons.jpg",
+		 "link": "https://www.babipur.co.uk/imse-vimse/imse/tampons/imse-heavy-tampons-8.html?gclid=CjwKCAiAg6yRBhBNEiwAeVyL0LFegbHhbq59BXD-LJFM-nNw9oqEhZ-HstnQ23RMOwQPdExTOsQ3ZxoCsGcQAvD_BwE"
+      }
+   },
+   {
+      "pk":53,
+      "model":"products.product",
+      "fields":{
+         "sku":"OTH-053-PAN-011",
+         "name":"Panadol Paracetamol Caffeine Tablets Period Pain Relief",
+         "description":"Take Special Care. Contains paracetamol. Do not take with any other paracetamol-containing products. Ask doctor before you take this medicine: If you have liver or kidney disease, including alcoholic liver disease. Do not exceed the stated dose. Each tablet contains the active ingredients paracetamol 500 mg and caffeine 65 mg, also includes a mixture of sodium methyl (e 219), sodium ethyl (e 215) and sodium propyl (e 217) parahydroxybenzoates.",
+         "price":2.55,
+         "category":5,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1647001284/EcoMenses/other/panadol_period_pain_relief_drcvzr.jpg",
+         "image":"panadol_period_pain_relief.jpg",
+		 "link": "https://www.amazon.co.uk/Panadol-500-Period-Pain-Tablets/dp/B00CU9S2XQ/ref=sr_1_6?crid=31K6V0W05MMP3&keywords=periods&qid=1647000320&s=drugstore&sprefix=periods%2Cdrugstore%2C71&sr=1-6&th=1"
+      }
+   },
+   {
+      "pk":54,
+      "model":"products.product",
+      "fields":{
+         "sku":"OTH-054-LIV-012",
+         "name":"Livia Starter Set",
+         "description":"Natural and drug free solution to menstrual pain and cramps. Recommended by gynaecologists for pain relif caused by periods and conditions such as endometriosis and polycystic ovaries. Clinically proven effectiveness.",
+         "price":99.99,
+         "category":5,
+         "rating":4.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1647001284/EcoMenses/other/livia_period_paid_relief_qemmjb.jpg",
+         "image":"livia_period_paid_relief.jpg",
+		 "link": "https://www.amazon.co.uk/Livia-Button-Painful-Rules-Starter/dp/B078WSF3PR/ref=sr_1_8?crid=31K6V0W05MMP3&keywords=periods&qid=1647000476&s=drugstore&sprefix=periods%2Cdrugstore%2C71&sr=1-8"
+      }
+   },
+   {
+      "pk":56,
+      "model":"products.product",
+      "fields":{
+         "sku":"OTH-056-BEY-013",
+         "name":"BeYou Natural Cooling Period Cramp Relief Patches (5 pack)",
+         "description":"Eases the muscular tension and pain associated with period cramps - usually placed on the lower abdomen or lower back during cramps. Provides relief from cramps during those difficult days. Lasts up to 12 hours relief so you can use one to get you through the day, and one to get a good night's sleep.",
+         "price":7.53,
+         "category":5,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1647001285/EcoMenses/other/beyou_period_pain_relief_patches_a5lcte.jpg",
+         "image":"beyou_period_pain_relief_patches.jpg",
+		 "link": "https://www.amazon.co.uk/BeYou-Natural-analgesic-Endometriosis-Fibroids/dp/B08D7DJFH2/ref=sr_1_16?crid=31K6V0W05MMP3&keywords=periods&qid=1647000737&rdc=1&s=drugstore&sprefix=periods%2Cdrugstore%2C71&sr=1-16"
+      }
+   },
+   {
+      "pk":110,
+      "model":"products.product",
+      "fields":{
+         "sku":"CLE-110-COR-001",
+         "name":"Cora Cup Cleanse",
+         "description":"Keep your Cora Cup and Cora Disc clean and wash away bacteria naturally with lemon extracts and witch hazel.",
+         "price":13.70,
+         "category":6,
+         "rating":5.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1647011654/EcoMenses/cleaning/cora_cup_cleanser_obgbxg.jpg",
+         "image":"cora_cup_cleanser.jpg",
+		 "link": "https://www.ebay.co.uk/itm/4oz-Cora-Cup-Cleanse-Non-Irritating-Gel-Made-to-Clean-Silicone-Cups/114545757738?epid=25041541053"
+      }
+   },
+   {
+      "pk":111,
+      "model":"products.product",
+      "fields":{
+         "sku":"CLE-111-FOL-002",
+         "name":"FOLC Menstrual Cup Steriliser",
+         "description":"More sustainable than boiling or microwaving your cups. Kills 99.9% of bacteria and saves up to 120 times the water used throughout each cup’s lifetime (5ml of water in your steriliser vs. 600ml of water to boil your cup for each use).",
+         "price":26.99,
+         "category":6,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1647011654/EcoMenses/cleaning/folc_menstrual_cup_steriliser_ygiawt.jpg",
+         "image":"folc_menstrual_cup_steriliser.jpg",
+		 "link": "https://www.amazon.co.uk/Steriliser-Travel-Sized-Sanitisation-Compatible-Favourites/dp/B099638C9F/ref=sr_1_5?crid=32LBTY59OLW6J&keywords=folc+steriliser&qid=1647010821&sprefix=folc+steriliser%2Caps%2C66&sr=8-5"
+      }
+   },
+   {
+      "pk":112,
+      "model":"products.product",
+      "fields":{
+         "sku":"CLE-112-HEL-003",
+         "name":"Hello Go Sterilising Spray",
+         "description":"Hello Go is your bestie when it comes to keeping your hands and cup protected from nasties. Non-toxic and alcohol-free, Hello Go is the perfect size to keep in your bag. The water-based, patented formula by Zoono which will protect your hands and cup from bacteria for up to 24 hours.",
+         "price":8.00,
+         "category":6,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1647011654/EcoMenses/cleaning/hello_go_steriliser_gaposy.jpg",
+         "image":"hello_go_steriliser.jpg",
+		 "link": "https://thehellocup.com/collections/all/products/hello-go"
+      }
+   },
+   {
+      "pk":113,
+      "model":"products.product",
+      "fields":{
+         "sku":"CLE-113-NIX-004",
+         "name":"Nixit Menstrual Cup Cleanser & Vaginal Wash",
+         "description":"Nixit have designed a foaming wash that's perfect for your menstrual cup and your vulva. Its natural ingredients and foaming properties make it ideal for easy cleaning - no lathering needed.",
+         "price":12.00,
+         "category":6,
+         "rating":4.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1647011653/EcoMenses/cleaning/nixit_menstrual_cup_wash_bnyulv.jpg",
+         "image":"nixit_menstrual_cup_wash.jpg",
+		 "link": "https://knowtheorigin.com/products/nixit?currency=GBP&variant=40988566945945&utm_medium=cpc&utm_source=google&utm_campaign=Google%20Shopping"
+      }
+   },
+   {
+      "pk":114,
+      "model":"products.product",
+      "fields":{
+         "sku":"CLE-114-ORG-005",
+         "name":"OrganiWash Menstrual Cup Cleanser",
+         "description":"OrganiWash (75ml) is the ultimate 2-in-1 cleanser for menstrual cup users: use it to cleanse your cup before insertion/after removal and as a pH-balanced intimate wash for your body. OrganiWash contains 20% organic and 59% natural ingredients, is perfume-free, vegan, Allergy-Certified™ and suitable for all skin types.",
+         "price":5.09,
+         "category":6,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1647011653/EcoMenses/cleaning/organicup_wash_nmylbi.jpg",
+         "image":"organicup_wash.jpg",
+		 "link": "https://knowtheorigin.com/products/organiwash-by-organicup"
+      }
+   },
+   {
+      "pk":115,
+      "model":"products.product",
+      "fields":{
+         "sku":"CLE-115-PIX-006",
+         "name":"Pixie Menstrual Cup Steamer",
+         "description":"Kills 99.9% of harmful bacteria and germs without using chemicals. Be confident that your cup is germ-free right at your fingertips. Sterilizes in 3 minutes with automatic shut off for speed and safety.",
+         "price":29.95,
+         "category":6,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1647011653/EcoMenses/cleaning/pixie_menstrual_cup_steriliser_hpze7t.jpg",
+         "image":"pixie_menstrual_cup_steriliser.jpg",
+		 "link": "https://www.amazon.co.uk/Menstrual-Cup-Sterilizer-Minutes-Period/dp/B07M5HGTJ6/ref=sr_1_5?crid=1SPE64V0ZM89A&keywords=pixie+steriliser&qid=1647011015&sprefix=pixie+steriliser%2Caps%2C62&sr=8-5"
+      }
+   },
+   {
+      "pk":116,
+      "model":"products.product",
+      "fields":{
+         "sku":"CLE-116-PWA-007",
+         "name":"Pixie Menstrual Cup Wash",
+         "description":"Pixie Cup Wash is made from 100% all-natural plant-based ingredients to ensure the best care for you and your period cup. Every ingredient in our wash is safe for you and will protect the material on your silicone menstrual cup. ",
+         "price":13.95,
+         "category":6,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1647011653/EcoMenses/cleaning/pixiecup_foam_wash_hzwx6h.jpg",
+         "image":"pixiecup_foam_wash.jpg",
+		 "link": "https://www.amazon.co.uk/Pixie-Menstrual-Cup-Wash-Ingredients/dp/B01N1GUS0U/ref=sr_1_1_sspa?crid=3TYJY433HDFKJ&keywords=pixie+cup+wash&qid=1647011169&sprefix=pixie+cup+wash%2Caps%2C54&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyQUpKRFY2ODREWVcwJmVuY3J5cHRlZElkPUEwOTQzNzIxMjZLWktFT1ZENlJOQiZlbmNyeXB0ZWRBZElkPUEwODIxNzg4MTRBRE1WM09UTjdDTCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU="
+      }
+   },
+   {
+      "pk":117,
+      "model":"products.product",
+      "fields":{
+         "sku":"CLE-117-PWI-008",
+         "name":"Pixie Menstrual Cup Portable Travel Cleaner Wipes",
+         "description":"Individually wrapped: The PERFECT size to fit in pocket, wallet, or purse. Biodegradable and compostable: Made of viscose, for ECO-FRIENDLY convenience. 20 scented wipes that CLEAN your diva cup or any menstrual cup SAFELY.",
+         "price":9.95,
+         "category":6,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1647011654/EcoMenses/cleaning/pixiecup_wipes_agdmk5.jpg",
+         "image":"pixiecup_wipes.jpg",
+		 "link": "https://www.amazon.co.uk/Pixie-Menstrual-Cup-Wipes-Biodegradable/dp/B01IB2P8JG/ref=sr_1_1_sspa?crid=1SPE64V0ZM89A&keywords=pixie+steriliser&qid=1647011078&sprefix=pixie+steriliser%2Caps%2C62&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFZQlNSQkU2TEJaQUgmZW5jcnlwdGVkSWQ9QTA0NjAwNjQxTEY3TFNGSVJXOVBOJmVuY3J5cHRlZEFkSWQ9QTA2NDA2ODczN0c1TTVIR1o4TFJOJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=="
+      }
+   },
+   {
+      "pk":118,
+      "model":"products.product",
+      "fields":{
+         "sku":"CLE-118-PUR-009",
+         "name":"Pure Ella Menstrual Cup Steriliser",
+         "description":"For optimal intimate hygiene, menstrual cups need to be sterilised before and after menstruation. How do you sterilise your menstrual cup? If you still boil it in a kitchen pot to sterilise it, this will be a life changer product for you that will save you time and hassle. ",
+         "price":12.99,
+         "category":6,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1647011654/EcoMenses/cleaning/pure_ella_menstrual_cup_steriliser_ykrba2.jpg",
+         "image":"pure_ella_menstrual_cup_steriliser.jpg",
+		 "link": "https://www.amazon.co.uk/Pure-Ella-Menstrual-Cup-Steriliser/dp/B08MD75KWN/ref=sr_1_6?crid=1G2FST1WU554A&keywords=pure+ella+menstrual+cup&qid=1647011242&sprefix=pure+ella+menstrual+cup%2Caps%2C49&sr=8-6"
+      }
+   },
+   {
+      "pk":119,
+      "model":"products.product",
+      "fields":{
+         "sku":"CLE-119-SAA-010",
+         "name":"Saalt Menstrual Cup Wash",
+         "description":"Specifically formulated to clean your Saalt Menstrual Cup. Will not damage silicone menstrual cups. Premium, healthy and safe formula. It won't damage your silicone and is great for your skin. Lightly foaming and washes off easily. Taking dirt and bacteria with it, leaving you and your cup residue free. Also free from strong chemical foaming agents and surfactants.",
+         "price":12.00,
+         "category":6,
+         "rating":0.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1647011654/EcoMenses/cleaning/saalt_cup_wash_pw8str.jpg",
+         "image":"saalt_cup_wash.jpg",
+		 "link": "https://www.amazon.co.uk/Saalt-Menstrual-Cup-Wash-Silicone/dp/B07C8H9ZM3/ref=sr_1_1_sspa?crid=66DVASIME0HS&keywords=saalt+wash&qid=1647002181&sprefix=saalt+wash%2Caps%2C110&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUjJLUjBPOUU5QjhVJmVuY3J5cHRlZElkPUEwMzg2MzA5MUE2UTlNMkRDV0E0RyZlbmNyeXB0ZWRBZElkPUEwMTIyMjY4MlZXRVo2UktWSUxWWSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU="
+      }
+   },
+   {
+      "pk":62,
+      "model":"products.product",
+      "fields":{
+         "sku":"CLE-062-ORG-011",
+         "name":"OrganiWipes Menstrual Cup Cleaning Wipes",
+         "description":"For cleaning OrganiCup on occasions without access to clean water and for sanitising the cup between periods. Contains 10 wipes.",
+         "price":3.83,
+         "category":6,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1647011820/EcoMenses/cleaning/organicup_menstrual_cup_wipes_wic5sg.jpg",
+         "image":"organicup_menstrual_cup_wipes.jpg",
+		 "link": "https://knowtheorigin.com/products/organiwipes?currency=GBP&variant=13966699692077&utm_medium=cpc&utm_source=google&utm_campaign=Google%20Shopping&gclid=CjwKCAiAg6yRBhBNEiwAeVyL0L_uc_KHjT6v7rLjF8kbxC7WoCub00qvyj_KHlK62TB1PPZXZLPT6BoC_-oQAvD_BwE"
+      }
+   },
+   {
+      "pk":64,
+      "model":"products.product",
+      "fields":{
+         "sku":"CLE-064-DIV-012",
+         "name":"The Diva Cup DivaWash 118ml",
+         "description":"DivaWash is a gentle, natural cleanser designed to be used to clean your DivaCup. It is 100% plant-based, therefore, does not contain any chemicals so you can be assured that the medical-grade silicone of your DivaCup will last longer.",
+         "price":12.99,
+         "category":6,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1647011654/EcoMenses/cleaning/diva_menstrual_cup_wash_y6zbkv.jpg",
+         "image":"diva_menstrual_cup_wash.jpg",
+		 "link": "https://www.amazon.co.uk/DivaCup-DivaWash-Natural-Cleaner/dp/B001429U3Q/ref=sr_1_2?crid=2PFGC4WZYJBU6&keywords=diva+wash&qid=1647002207&sprefix=divawash%2Caps%2C50&sr=8-2"
+      }
+   },
+   {
+      "pk":65,
+      "model":"products.product",
+      "fields":{
+         "sku":"CLE-065-SOC-013",
+         "name":"SO CUP Menstrual Cup Steriliser",
+         "description":"EASY USE: * Microwave: 3 minutes, lid closed / * Without microwave: pour boiling water into the sterilizer, close and wait 5 minutes. Your loved ones were expecting to boil the pasta water and find your cup in the pan? Now, sterilize and store your cup out of sight.",
+         "price":9.95,
+         "category":6,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1647011654/EcoMenses/cleaning/socup_steriliser_xperbs.jpg",
+         "image":"socup_steriliser.jpg",
+		 "link": "https://www.amazon.co.uk/SoCup-Foldable-Steriliser-Storage-Menstrual/dp/B079J5NJ5W/ref=sr_1_56?crid=1MEUB31LFF8MY&keywords=menstrual+cup+cleaner&qid=1647002436&sprefix=menstrual+cup+cleaner%2Caps%2C66&sr=8-56"
+      }
+   },
+   {
+      "pk":66,
+      "model":"products.product",
+      "fields":{
+         "sku":"CLE-066-TMI-014",
+         "name":"TMISHION USB Menstrual Cup Steriliser",
+         "description":"Safe and reliable function: safety protection function. Open the lid of the silicone cup, it will stop working immediately, and it can be used about 100 times on one charge. Small size, light weight and easy to carry, easy to carry and use. Improve speed and safety, and also eliminate any odor or bacteria.",
+         "price":35.66,
+         "category":6,
+         "rating":4.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1647011654/EcoMenses/cleaning/TMISHION_steriliser_jviups.jpg",
+         "image":"TMISHION_steriliser.jpg",
+		 "link": "https://www.amazon.co.uk/Steriliser-Antibacterial-Ultraviolet-Disinfection-Sterilizing/dp/B08G46VJ71/ref=sr_1_61?crid=1MEUB31LFF8MY&keywords=menstrual+cup+cleaner&qid=1647010045&sprefix=menstrual+cup+cleaner%2Caps%2C66&sr=8-61"
+      }
+   },
+   {
+      "pk":72,
+      "model":"products.product",
+      "fields":{
+         "sku":"CLE-072-LUN-015",
+         "name":"Lunette Menstrual Cup Wash",
+         "description":"Lunette feel better liquid Soap has been specially developed to clean the silicone menstrual cup. Lemon and eucalyptus oils nourish the Lunette menstrual cup and also have a pleasant smell.",
+         "price":8.89,
+         "category":6,
+         "rating":5.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1647011654/EcoMenses/cleaning/lunette_cup_wash_rrkwis.jpg",
+         "image":"lunette_cup_wash.jpg",
+		 "link": "https://www.amazon.co.uk/Lunette-Feelbetter-Liquid-Soap-Menstrual/dp/B011PPV91C/ref=sr_1_5?crid=30I9S3X5N08EM&keywords=menstrual+cup+wash&qid=1647010340&sprefix=menstrual+cup+wash%2Caps%2C67&sr=8-5"
+      }
+   },
+   {
+      "pk":82,
+      "model":"products.product",
+      "fields":{
+         "sku":"CLE-082-LUW-016",
+         "name":"Lunette Menstrual Cup Wipes",
+         "description":"Lunette Cupwipes, are a great option for cleaning your Lunette when you can't rinse it. Use your cup safely, even when water is not an option. 10 individually wrapped wipes. Easy to keep one in your back pocket.",
+         "price":7.18,
+         "category":6,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1647011653/EcoMenses/cleaning/lunette_cup_wipes_mscgs6.jpg",
+         "image":"lunette_cup_wipes.jpg",
+		 "link": "https://www.amazon.co.uk/Lunette-Cupwipes-10-Count/dp/B0041MJGAI/ref=sr_1_8?crid=3CG1UBZZQK56R&keywords=menstrual+cup+wipes&qid=1647010507&sprefix=menstrual+cup+wipes%2Caps%2C55&sr=8-8"
+      }
+   },
+   {
+      "pk":120,
+      "model":"products.product",
+      "fields":{
+         "sku":"STO-120-HEA-001",
+         "name":"Healifty 2pcs Sanitary Napkin Storage Bag",
+         "description":"Easy to carry and use, can be reused. Bring more convenience for menstrual period. Pocket size, lightweight and portable, easy to carry it with you to any place.",
+         "price":10.99,
+         "category":7,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1647013401/EcoMenses/storage/healifty_sanitary_towel_pouches_egyhef.jpg",
+         "image":"healifty_sanitary_towel_pouches.jpg",
+		 "link": "https://www.amazon.co.uk/Healifty-Sanitary-Storage-Menstrual-Container/dp/B08SPXYPHS/ref=sr_1_1_sspa?crid=ADPIBVR3WBO6&keywords=healifty+menstrual&qid=1647012000&s=drugstore&sprefix=healifty+menstrual%2Cdrugstore%2C47&sr=1-1-spons&psc=1&smid=A3H0TB0OXNGM8B&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVEhITEowM1JZWFc4JmVuY3J5cHRlZElkPUEwNzkwMTEyQzdETkFUNkJaODhSJmVuY3J5cHRlZEFkSWQ9QTEwMTc4MTYzN1c1VVhIWk9NMUxQJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=="
+      }
+   },
+   {
+      "pk":121,
+      "model":"products.product",
+      "fields":{
+         "sku":"STO-121-RAE-002",
+         "name":"Rael Reusable Case for Cups",
+         "description":"Extending the lifespan of a reusable menstrual cup from 6 months to basically forever with proper care made a pretty strong case for us to make this case. In between uses, store your clean cup in our protective case to prevent dust and bacteria buildup so your cup can continue to provide reliable leak coverage for the next 10 years.",
+         "price":16.53,
+         "category":7,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1647013401/EcoMenses/storage/rael_menstrual_cup_case_kv3ml8.jpg",
+         "image":"rael_menstrual_cup_case.jpg",
+		 "link": "https://www.amazon.co.uk/Rael-Reusable-Case-Cups-Container/dp/B08QTSMMWF/ref=sr_1_2?crid=2V481ALNPJOLI&keywords=rael+cup&qid=1647012512&s=drugstore&sprefix=rael+cup%2Cdrugstore%2C67&sr=1-2"
+      }
+   },
+   {
+      "pk":122,
+      "model":"products.product",
+      "fields":{
+         "sku":"STO-122-SIL-003",
+         "name":"Sileu Case for Menstrual Cups",
+         "description":"Practical and beautiful flower-shaped case to discreetly and privately transport your menstrual cup, tampons or any other accessory you prefer, so that it does not get lost in the bag or backpack ",
+         "price":7.99,
+         "category":7,
+         "rating":4.5,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1647013401/EcoMenses/storage/sileu_menstrual_cup_case_rzx9wq.jpg",
+         "image":"sileu_menstrual_cup_case.jpg",
+		 "link": "https://www.amazon.co.uk/Case-Menstrual-Cups-SileuCase-Discreet/dp/B07JHX1DNS/ref=sr_1_1_sspa?crid=3ME6ZWEICSBHH&keywords=sileu+cup+case&qid=1647012752&s=drugstore&sprefix=sileu+cup+case%2Cdrugstore%2C90&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzTzFTT1k5R1JVUzdOJmVuY3J5cHRlZElkPUExMDMzMzk1MlU3U0tJRkRNOEFQMiZlbmNyeXB0ZWRBZElkPUEwMTY0NzgzM044MjlJQU1SUVJYVSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU="
+      }
+   },
+   {
+      "pk":123,
+      "model":"products.product",
+      "fields":{
+         "sku":"STO-123-SUP-004",
+         "name":"SUPVOX 4PCS Sanitary Napkins Bag",
+         "description":"These sanitary napink bags are widely used and applicable in many occassions. Ideal for storing your sanitary towels while on the go. It is waterproof and washable. Premium material ensures great durability.",
+         "price":9.99,
+         "category":7,
+         "rating":4.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1647013401/EcoMenses/storage/supvox_sanitary_towel_pouches_omkwde.jpg",
+         "image":"supvox_sanitary_towel_pouches.jpg",
+		 "link": "https://www.amazon.co.uk/SUPVOX-Sanitary-Napkins-Menstrual-Washable/dp/B07XLKC4WZ/ref=sr_1_12?crid=2X4UFRSQQJYWF&keywords=supvox+pad&qid=1647013131&s=drugstore&sprefix=supvox+pad%2Cdrugstore%2C70&sr=1-12"
+      }
+   },
+      {
+      "pk":124,
+      "model":"products.product",
+      "fields":{
+         "sku":"CUP-053-KOR-053",
+         "name":"Korsmall Menstrual Cup and Carry Case",
+         "description":"Our eco-friendly period cups have an ultra-soft finish with a rounded bulb shape that makes it easy to insert and remove. EcoCup silicon period cups provide a tight seal and is so comfortable you'll forget it's there. Our eco-friendly cups also feature an easy to grip stem for removal. We designed it to be both gentle and super comfortable for those with bladder sensitivity, cramping or discomfort with firmer cups. ",
+         "sizes":[
+			"Small",
+			"Large"
+         ],
+		 "size_explanation":"<p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p>",
+		 "price":12.99,
+         "category":1,
+         "rating":4.0,
+         "image_url":"https://res.cloudinary.com/deannacarina/image/upload/v1647013053/EcoMenses/cups/korsmall_menstrual_cup_ue58tj.jpg",
+         "image":"korsmall_menstrual_cup.jpg",
+		 "link": "https://www.amazon.co.uk/Menstrual-Alternative-Menstruation-Comfort-Fit-Protection/dp/B08Z3NBZ2B/ref=sr_1_6?crid=35GNIOHID8NFY&keywords=menstrual%2Bcup%2Bcase&qid=1647012806&s=drugstore&sprefix=menstrual%2Bcup%2Bcase%2Cdrugstore%2C56&sr=1-6&th=1"
+      }
+   }
+]
