@@ -86,7 +86,7 @@
       <div class="col-12 col-lg-4 my-auto py-1 py-lg-0 text-center text-lg-left">
         <ul class="list-inline list-unstyled text-center text-lg-right my-0">
           <li class="list-inline-item dropdown">
-              <a class="text-black nav-link" href="#" id="user-options" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <a class="text-black nav-link nav-icons" href="#" id="user-options" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   <div class="text-center">
                       <div><i class="fas fa-user fa-lg"></i></div>
                       <p class="my-0">My Account</p>
@@ -106,7 +106,7 @@
               </div>
           </li>
           <li class="list-inline-item">
-              <a class="{% if grand_total %}text-info font-weight-bold{% else %}text-black{% endif %} nav-link" href="">
+              <a class="{% if grand_total %}text-info font-weight-bold{% else %}text-black{% endif %} nav-link nav-icons" href="">
                   <div class="text-center">
                       <div><i class="fa-solid fa-basket-shopping fa-lg"></i></div>
                       <p class="my-0">
@@ -122,6 +122,20 @@
       </ul>
       </div>
     </div>
+    <div class="row bg-white">
+      <nav class="navbar navbar-expand-lg navbar-light w-100">
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-nav" aria-controls="main-nav" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+          </button>
+          {% include 'includes/mobile-top-header.html' %}
+          {% include 'includes/main-nav.html' %}
+      </nav>
+  </div>
+  <div id="delivery-banner" class="row text-center">
+      <div class="col">
+          <h4 class="my-1 banner-text">For every reusable product you purchase, we'll send the same product to a woman in period poverty in the UK</h4>                
+      </div>            
+  </div>
   </header>
 
     {% if messages %}
@@ -139,5 +153,17 @@
     {% endblock %}
 
   </div> 
+  <footer>
+    <div class="row text-center">
+      <div class="col">
+        <a href="#" class="footer-link">Privacy Policy</a> | <a href="#" class="footer-link">Contact Us</a>
+      </div>
+    </div>
+    <div class="row text-center">
+      <div class="col">
+        <a href="www.facebook.com" class="footer-link"><i class="fa-brands fa-facebook-square"></i></a> <a href="www.twitter.com" class="footer-link"><i class="fa-brands fa-twitter-square"></i></a>
+      </div>
+    </div>
+  </footer>
   </body>
 </html>
