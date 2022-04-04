@@ -23,6 +23,24 @@ body {
     top: 0;
     position: fixed;
 }
+
+.opaque-overlay {
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    position: fixed;
+    background-color: rgba(255, 255, 255, 0.95);
+}
+
+.card-img-top {
+    max-height: 200px;
+    width: auto;
+    margin: auto auto;
+}
+
+
 .ecomenses-logo {
     padding-left: 40px;
     background: -webkit-linear-gradient(to right, #6f9b51 0%, #ffccff 35%);
@@ -150,5 +168,13 @@ footer {
     
     .not-sure-header {
         font-size: 1.4rem;
+    }
+    footer {
+        font-size: 0.7rem;
+        height: 50px;
+        padding-top: 5px;
+    }
+    .footer-link > i {
+        font-size: 1rem;
     }
 }
