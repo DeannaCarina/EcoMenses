@@ -150,6 +150,11 @@ footer {
     height: 70px;
 }
 
+.product-page-split {
+    border-style: dashed;
+    border-color: rgb(202, 202, 202);
+}
+
 /* -------------------------------- Media Queries */
 
 @media (min-width: 1200px) {
@@ -168,7 +173,7 @@ footer {
     }
 
     .header-container {
-        padding-top: 164px;
+        padding-top: 100px;
     }
     .product-detail-padding {
         height: 0px;
@@ -209,5 +214,9 @@ footer {
     }
     .product-detail-padding {
         height: 40px;
+    }
+    .products-heading {
+        font-size: 1rem;
+        margin-top: 30px;
     }
 }

@@ -18,8 +18,8 @@
                 Cups & Discs
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="cups-and-discs-link">
-                <a href="" class="dropdown-item">Menstrual Cups</a>
-                <a href="" class="dropdown-item">Menstrual Discs</a>
+                <a href="{% url 'products' %}?category=cups" class="dropdown-item">Menstrual Cups</a>
+                <a href="{% url 'products' %}?category=discs" class="dropdown-item">Menstrual Discs</a>
             </div>
         </li>
 
@@ -28,8 +28,8 @@
                 Pads & Underwear
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="pads-and-undies-link">
-                <a href="" class="dropdown-item">Cloth Sanitary Pads</a>
-                <a href="" class="dropdown-item">Menstrual Underwear</a>
+                <a href="{% url 'products' %}?category=pads" class="dropdown-item">Cloth Sanitary Pads</a>
+                <a href="{% url 'products' %}?category=underwear" class="dropdown-item">Menstrual Underwear</a>
             </div>
         </li>
 
@@ -38,9 +38,9 @@
                 Other
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="cleaning-and-storage-link">
-                <a href="" class="dropdown-item">Menstrual Product Cleaning</a>
-                <a href="" class="dropdown-item">Menstrual Product Storage</a>
-                <a href="" class="dropdown-item">Other</a>
+                <a href="{% url 'products' %}?category=cleaning" class="dropdown-item">Menstrual Product Cleaning</a>
+                <a href="{% url 'products' %}?category=storage" class="dropdown-item">Menstrual Product Storage</a>
+                <a href="{% url 'products' %}?category=other" class="dropdown-item">Other</a>
             </div>
         </li>
 
