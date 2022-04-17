@@ -10,7 +10,7 @@
             "A",
             "B"
          ],
-		   "size_explanation":"<p>Size 'A' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size 'B' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Pack comes with two cups of the same size.</p>",
+		   "size_explanation":"Size 'A' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean). Size 'B' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). Pack comes with two cups of the same size. ",
 		   "price":9.99,
          "category":1,
          "rating":4.0,
@@ -30,7 +30,7 @@
 			"Heavy",
 			"Regular"
        ],
-		 "size_explanation":"<p>Size 'Heavy' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size 'Regular' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "size_explanation":"Size 'Heavy' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean). Size 'Regular' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). ",
          "price":27.61,
          "category":1,
          "rating":4.0,
@@ -50,7 +50,7 @@
 			"1",
 			"2"
          ],
-		 "size_explanation":"<p>Size '1' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Size '2' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p>",
+		 "size_explanation":"Size '1' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). Size '2' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean). ",
 		 "price":14.95,
          "category":1,
          "rating":4.5,
@@ -66,7 +66,7 @@
          "sku":"CUP-004-BAB-004",
          "name":"Babe Menstrual Cup (2 pack)",
          "description":"Babe menstrual cups are made with a soft silicone designed to be effective and super comfortable. 100% medical-grade silicone and dyes that are tested for skin sensitization and are safe, non-toxic, and never leach. The average female uses over 11,000 disposable menstrual products per their lifetime. These plastic products take 500-800 years to decompose. All of this waste ends up in landfills or in our oceans. Sanitary pads and tampons aren’t re-usable unlike a Babe menstrual cup. Have a plastic free period and help save our planet as well as your pennies.",
-		 "size_explanation":"<p>Size 'A' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size 'B' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Pack comes with one cup of each size.</p>",
+		 "size_explanation":"Size 'A' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean). Size 'B' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). Pack comes with one cup of each size. ",
 		 "price":16.99,
          "category":1,
          "rating":5.0,
@@ -86,7 +86,7 @@
 			"Medium",
 			"Large"
          ],
-		 "size_explanation":"<p>Size Medium. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p>",
+		 "size_explanation":"Size Medium. For women age 30 and under, and have not given birth (vaginally or via cesarean). Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean). ",
 		 "price":11.72,
          "category":1,
          "rating":4.5,
@@ -107,7 +107,7 @@
 			"2",
 			"3"
          ],
-		 "size_explanation":"<p>Size '3' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size '2' - Medium. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Size '1' - Small. For teens and young women under the age of 18 who have not given birth and are not sexually active or practicing masturbation.</p>",
+		 "size_explanation":"Size '3' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean). Size '2' - Medium. For women age 30 and under, and have not given birth (vaginally or via cesarean). Size '1' - Small. For teens and young women under the age of 18 who have not given birth and are not sexually active or practicing masturbation. ",
 		 "price":18.00,
          "category":1,
          "rating":4.0,
@@ -128,7 +128,7 @@
 			"1",
 			"2"
          ],
-		 "size_explanation":"<p>Size '2' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size '1' - Medium. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Size '0' - Small. For teens and young women under the age of 18 who have not given birth and are not sexually active or practicing masturbation.</p>",
+		 "size_explanation":"Size '2' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean). Size '1' - Medium. For women age 30 and under, and have not given birth (vaginally or via cesarean). Size '0' - Small. For teens and young women under the age of 18 who have not given birth and are not sexually active or practicing masturbation. ",
 		 "price":27.49,
          "category":1,
          "rating":4.5,
@@ -148,7 +148,7 @@
 			"A",
 			"B"
          ],
-		 "size_explanation":"<p>Size 'A' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size 'B' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Pack comes with two cups of the same size.</p>",
+		 "size_explanation":"Size 'A' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean). Size 'B' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). Pack comes with two cups of the same size. ",
 		 "price":25.56,
          "category":1,
          "rating":4.5,
@@ -168,7 +168,7 @@
 			"Small",
 			"Large"
          ],
-		 "size_explanation":"<p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p>",
+		 "size_explanation":"Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean). ",
 		 "price":15.99,
          "category":1,
          "rating":4.5,
@@ -188,7 +188,7 @@
 			"Small",
 			"Medium"
          ],
-		 "size_explanation":"<p>Size Medium. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "size_explanation":"Size Medium. For women aged 30 and over or have given birth (vaginally or via cesarean). Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). ",
 		 "price":14.99,
          "category":1,
          "rating":4.5,
@@ -208,7 +208,7 @@
 			"Small",
 			"Large"
          ],
-		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "size_explanation":"Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean). Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). ",
 		 "price":12.90,
          "category":1,
          "rating":4.0,
@@ -228,7 +228,7 @@
 			"Small",
 			"Large"
          ],
-		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Pack contains two cups of the same size.</p>",
+		 "size_explanation":"Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean). Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). Pack contains two cups of the same size. ",
 		 "price":12.95,
          "category":1,
          "rating":4.5,
@@ -249,7 +249,7 @@
 			"Low",
 			"Small"
          ],
-		 "size_explanation":"<p>Size 'Regular'. For women who have a high cervix that cannot be felt when inserting a finger into the vagina or are older than 30.</p><p>Size 'Low'. For women who have a low cervix and can only insert their finger to the second knuckle.</p><p>Size 'Small'. For a women who have a cervix that can be felt when inserting a finger past the second knuckle and are less than 20 years old.</p>",
+		 "size_explanation":"Size 'Regular'. For women who have a high cervix that cannot be felt when inserting a finger into the vagina or are older than 30. Size 'Low'. For women who have a low cervix and can only insert their finger to the second knuckle. Size 'Small'. For a women who have a cervix that can be felt when inserting a finger past the second knuckle and are less than 20 years old. ",
 		 "price":28.97,
          "category":1,
          "rating":4.0,
@@ -269,7 +269,7 @@
 			"Small(B)",
 			"Large (A)"
       ],
-		 "size_explanation":"<p>Size Large (A). For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small(B). For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Pack contains two cups of the same size.</p>",
+		 "size_explanation":"Size Large (A). For women aged 30 and over or have given birth (vaginally or via cesarean). Size Small(B). For women age 30 and under, and have not given birth (vaginally or via cesarean). Pack contains two cups of the same size. ",
 		 "price":9.99,
          "category":1,
          "rating":4.0,
@@ -285,7 +285,7 @@
          "sku":"CUP-020-FMC-015",
          "name":"Funmicup Collapsable Menstrual Cup",
          "description":"The Funmicup no-stem collapsible menstrual cup has a smooth base and no extra length, so it fits perfectly and provides maximum comfort. It can hold up to 25ml of menstrual fluid (up to 5x more than a standard sanitary pad or tampon) and is manufactured entirely from 100% medical-grade silicone that is completely safe for both you and the environment. To ensure that you get a toxin-free product, no colours or dyes have been added to this menstrual cup. ",
-		 "size_explanation":"<p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "size_explanation":"Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). ",
 		 "price":13.50,
          "category":1,
          "rating":4.0,
@@ -301,7 +301,7 @@
          "sku":"CUP-016-FLO-016",
          "name":"Flon Menstrual Cup (2 pack)",
          "description":"Reusable Menstrual Cups Set. Switch To A Better, More sustainable form of period care compared to conventional tampons & pads Go zero-waste with your period care. Comfortable, reusable & designed with the planet in mind. Our cups are FDA approved and free from BPA. They are made to last, saving you money and reducing waste destined for landfills every cycle. Menstrual cups are designed to be worn internally like a tampon, except the cup collects, rather than absorbs your period blood. Wear for up to 12 hours - depending on your flow.",
-		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Pack contains one cup of each size.</p>",
+		 "size_explanation":"Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean). Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). Pack contains one cup of each size. ",
 		 "price":14.99,
          "category":1,
          "rating":5.0,
@@ -321,7 +321,7 @@
 			"Small",
 			"Large"
          ],
-		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "size_explanation":"Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean). Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). ",
 		 "price":9.99,
          "category":1,
          "rating":4.0,
@@ -337,7 +337,7 @@
          "sku":"CUP-018-FUN-018",
          "name":"Fun Factory Menstural Cup (2 pack)",
          "description":"We designed a menstrual cup that’s shaped for your body! The FUN CUP holds 4-6x as much as a tampon, without the side effects of other methods. While tampons dry you out and cause micro-tears, leaving you more susceptible to infection, this medical grade silicone cup collects blood, rather than absorbing it, making it gentle on your skin and great for your well-being. Of course, FUN FACTORY menstrual cups meet the highest standards for quality.",
-		 "size_explanation":"<p>Size 'B' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size 'A' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Pack comes with one cup of each size.</p>",
+		 "size_explanation":"Size 'B' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean). Size 'A' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). Pack comes with one cup of each size. ",
 		 "price":29.09,
          "category":1,
          "rating":4.5,
@@ -353,7 +353,7 @@
          "sku":"CUP-020-FMI-020",
          "name":"Funmicup Menstrual Cup",
          "description":"The Funmicup no-stem anatomic menstrual cup has a smooth base and no extra length, so it fits perfectly and provides maximum comfort. It is manufactured entirely from medical-grade silicone that is completely safe for both you and the environment. To ensure that you get a toxin-free product, no colours or dyes have been added to this menstrual cup. ",
-		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p>",
+		 "size_explanation":"Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean). ",
 		 "price":13.50,
          "category":1,
          "rating":5,
@@ -369,7 +369,7 @@
          "sku":"CUP-021-GRA-021",
          "name":"Grace & Green Menstrual Cup (2 pack)",
          "description":"Grace & Green Period Cup are designed to lasts for up to 10 years. That's more than 140 periods and replaces over disposable sanitary products and waste. Save your money and protect our environment. Grace & Green Cup is wonderfully soft and flexible, with a silky smooth coating. The shape makes it one of the easiest cups to fold, insert and open, ensuring a secure seal, so comfortable, you won't know its there. It offers you a consistent high performance leak-free, odor-free period. Our Node and stem is built for comfortable but also designed for hassle-free easy removal. No abrasive ridges, no skin irritations.",
-		 "size_explanation":"<p>Size 'B' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size 'A' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Pack contains one cup of each size.</p>",
+		 "size_explanation":"Size 'B' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean). Size 'A' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). Pack contains one cup of each size. ",
 		 "price":38.99,
          "category":1,
          "rating":5.0,
@@ -392,7 +392,7 @@
 			"Low",
 			"High"
          ],
-		 "size_explanation":"<p>Size 'L' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size 'S/M' - Small/Medium. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Size 'XS' - Extra Small. For teens and young women under the age of 18 who have not given birth and are not sexually active or practicing masturbation.</p><p>Size 'Low' - for women with a low cervix that can be felt when instering a finger into the vagina up to two knuckles.</p><p>Size 'High' - For women with a very high cervix that cannot be felt at all when inserting a finger into the vagina.</p>",
+		 "size_explanation":"Size 'L' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean). Size 'S/M' - Small/Medium. For women age 30 and under, and have not given birth (vaginally or via cesarean). Size 'XS' - Extra Small. For teens and young women under the age of 18 who have not given birth and are not sexually active or practicing masturbation. Size 'Low' - for women with a low cervix that can be felt when instering a finger into the vagina up to two knuckles. Size 'High' - For women with a very high cervix that cannot be felt at all when inserting a finger into the vagina. ",
 		 "price":12.00,
          "category":1,
          "rating":4.5,
@@ -412,7 +412,7 @@
 			"1",
 			"2"
          ],
-		 "size_explanation":"<p>Size '2' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size '1' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "size_explanation":"Size '2' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean). Size '1' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). ",
 		 "price":25.28,
          "category":1,
          "rating":4.5,
@@ -432,7 +432,7 @@
 			"Small",
 			"Regular"
       ],
-		 "size_explanation":"<p>Size Regular. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Pack contains 2 cups of the same size.</p>",
+		 "size_explanation":"Size Regular. For women aged 30 and over or have given birth (vaginally or via cesarean). Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). Pack contains 2 cups of the same size. ",
 		 "price":13.99,
          "category":1,
          "rating":4.0,
@@ -454,7 +454,7 @@
 			"3",
 			"4"
          ],
-		 "size_explanation":"<p>Size '2' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size '1' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Size '3' - Long. For women with a high cervix or long vaginal canal.</p><p>Size '4' - Short. For women with a low cervix or short vaginal canal.</p>",
+		 "size_explanation":"Size '2' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean). Size '1' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). Size '3' - Long. For women with a high cervix or long vaginal canal. Size '4' - Short. For women with a low cervix or short vaginal canal. ",
 		 "price":18.00,
          "category":1,
          "rating":4.5,
@@ -474,7 +474,7 @@
 			"1",
 			"2"
          ],
-		 "size_explanation":"<p>Size '2' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size '1' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "size_explanation":"Size '2' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean). Size '1' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). ",
 		 "price":14.99,
          "category":1,
          "rating":4.0,
@@ -494,7 +494,7 @@
 			"Small",
 			"Large"
          ],
-		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "size_explanation":"Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean). Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). ",
 		 "price":7.99,
          "category":1,
          "rating":4.0,
@@ -514,7 +514,7 @@
 			"Small",
 			"Large"
          ],
-		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "size_explanation":"Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean). Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). ",
 		 "price":21.90,
          "category":1,
          "rating":4.5,
@@ -535,7 +535,7 @@
 			"Medium",
 			"Large"
          ],
-		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Medium. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Size Small. For under the age of 30 with a low cervix.</p>",
+		 "size_explanation":"Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean). Size Medium. For women age 30 and under, and have not given birth (vaginally or via cesarean). Size Small. For under the age of 30 with a low cervix. ",
 		 "price":21.00,
          "category":1,
          "rating":5.0,
@@ -555,7 +555,7 @@
 			"1",
 			"2"
          ],
-		 "size_explanation":"<p>Size '2' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size '1' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "size_explanation":"Size '2' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean). Size '1' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). ",
 		 "price":14.47,
          "category":1,
          "rating":4,
@@ -575,7 +575,7 @@
 			"A",
 			"B"
          ],
-		 "size_explanation":"<p>Size 'B' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size 'A' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "size_explanation":"Size 'B' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean). Size 'A' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). ",
 		 "price":20.93,
          "category":1,
          "rating":4.0,
@@ -595,7 +595,7 @@
 			"A",
 			"B"
          ],
-		 "size_explanation":"<p>Size 'A' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size 'B' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "size_explanation":"Size 'A' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean). Size 'B' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). ",
 		 "price":22.43,
          "category":1,
          "rating":4.0,
@@ -615,7 +615,7 @@
 			"1",
 			"2"
          ],
-		 "size_explanation":"<p>Size '2' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size '1' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "size_explanation":"Size '2' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean). Size '1' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). ",
 		 "price":19.84,
          "category":1,
          "rating":4.5,
@@ -635,7 +635,7 @@
 			"Small",
 			"Large"
          ],
-		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "size_explanation":"Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean). Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). ",
 		 "price":9.99,
          "category":1,
          "rating":4.0,
@@ -651,7 +651,7 @@
          "sku":"CUP-036-MEL-036",
          "name":"Meluna Menstrual Cup",
          "description":"Me Luna menstrual cups are 100% made in Germany. Me Luna contains no bleach, fragrances, proteins, PVC, latex, silicone, alkylphenols, BPA. At work, playing sports, on the go or travelling, Me Luna can be used anywhere.",
-		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p>",
+		 "size_explanation":"Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean). ",
 		 "price":18.00,
          "category":1,
          "rating":4.5,
@@ -667,7 +667,7 @@
          "sku":"CUP-037-MER-037",
          "name":"Merula Menstrual Cup",
          "description":"The Merula Cup XL is made from 100% medical grade silicone and produced in Germany. It is spherical, with a fixed edge and a thin soft body. The menstrual cup can be worn crushed - only the edge has to open. From weak to strong pelvic floor muscles, the Merula Cup XL remains where it belongs. Since it is crushed and does not have to fully unfold like other cups, even a strong pelvic floor does not bring it out of shape. The Merula Cup XL has a very large capacity (up to 50 ml) with a diameter of 46 mm. An ideal companion for very strong bleeding.",
-		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p>",
+		 "size_explanation":"Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean). ",
 		 "price":19.85,
          "category":1,
          "rating":4.0,
@@ -687,7 +687,7 @@
 			"A",
 			"B"
          ],
-		 "size_explanation":"<p>Size 'A' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size 'B' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "size_explanation":"Size 'A' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean). Size 'B' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). ",
 		 "price":18.49,
          "category":1,
          "rating":4.5,
@@ -707,7 +707,7 @@
 			"Medium",
 			"Large"
          ],
-		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Medium. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "size_explanation":"Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean). Size Medium. For women age 30 and under, and have not given birth (vaginally or via cesarean). ",
 		 "price":19.99,
          "category":1,
          "rating":4.5,
@@ -728,7 +728,7 @@
 			"A",
 			"B"
          ],
-		 "size_explanation":"<p>Size 'B' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size 'A' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Size Mini. For teens and young women under the age of 18 who have not given birth and are not sexually active or practicing masturbation.</p>",
+		 "size_explanation":"Size 'B' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean). Size 'A' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). Size Mini. For teens and young women under the age of 18 who have not given birth and are not sexually active or practicing masturbation. ",
 		 "price":12.99,
          "category":1,
          "rating":4.5,
@@ -748,7 +748,7 @@
 			"Small",
 			"Regular"
          ],
-		 "size_explanation":"<p>Size Regular. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "size_explanation":"Size Regular. For women aged 30 and over or have given birth (vaginally or via cesarean). Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). ",
 		 "price":14.99,
          "category":1,
          "rating":4.5,
@@ -769,7 +769,7 @@
 			"Small",
 			"Large"
          ],
-		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size 'B' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Size Extra Small. For teens and young women under the age of 18 who have not given birth and are not sexually active or practicing masturbation.</p>",
+		 "size_explanation":"Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean). Size 'B' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). Size Extra Small. For teens and young women under the age of 18 who have not given birth and are not sexually active or practicing masturbation. ",
 		 "price":9.99,
          "category":1,
          "rating":4.0,
@@ -789,7 +789,7 @@
 			"Small",
 			"Large"
          ],
-		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "size_explanation":"Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean). Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). ",
 		 "price":19.95,
          "category":1,
          "rating":4.5,
@@ -810,7 +810,7 @@
 			"Small",
 			"Large"
          ],
-		 "size_explanation":"<p>Size 'A' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size 'B' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Size Extra Small. For teens and young women under the age of 18 who have not given birth and are not sexually active or practicing masturbation.</p>",
+		 "size_explanation":"Size 'A' - Large. For women aged 30 and over or have given birth (vaginally or via cesarean). Size 'B' - Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). Size Extra Small. For teens and young women under the age of 18 who have not given birth and are not sexually active or practicing masturbation. ",
 		 "price":18.99,
          "category":1,
          "rating":4.5,
@@ -830,7 +830,7 @@
 			"Small",
 			"Large"
          ],
-		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "size_explanation":"Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean). Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). ",
 		 "price":5.99,
          "category":1,
          "rating":4.0,
@@ -850,7 +850,7 @@
 			"Small",
 			"Medium"
          ],
-		 "size_explanation":"<p>Size Medium. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "size_explanation":"Size Medium. For women aged 30 and over or have given birth (vaginally or via cesarean). Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). ",
 		 "price":26.00,
          "category":1,
          "rating":4.5,
@@ -870,7 +870,7 @@
 			"Small",
 			"Regular"
          ],
-		 "size_explanation":"<p>Size Regular. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "size_explanation":"Size Regular. For women aged 30 and over or have given birth (vaginally or via cesarean). Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). ",
 		 "price":24.99,
          "category":1,
          "rating":4.5,
@@ -886,7 +886,7 @@
          "sku":"CUP-048-SAT-048",
          "name":"Satisfyer Menstrual Cup (2 pack)",
          "description":"Featuring a reserved design, these hygienic, medical grade silicone, and easy to insert menstrual cups are available in a practical set of two. They have a capacity of 15 and 20 ml, which make them suitable for lighter and heavier days. The flexible menstrual cups are easy and comfortable to use, can be worn for up to 12 hours, and are a sustainable alternative to other monthly hygiene products. The cups can be removed easily with the practical grip. The cups should be cleaned in boiling water after every period - with proper care your menstrual cups can be used for several years.",
-		 "size_explanation":"<p>Size Regular. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Pack contains one cup of each size.</p>",
+		 "size_explanation":"Size Regular. For women aged 30 and over or have given birth (vaginally or via cesarean). Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). Pack contains one cup of each size. ",
 		 "price":6.99,
          "category":1,
          "rating":4.0,
@@ -907,7 +907,7 @@
 			"Large x2",
 			"Small & Large"
          ],
-		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "size_explanation":"Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean). Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). ",
 		 "price":12.70,
          "category":1,
          "rating":4.5,
@@ -927,7 +927,7 @@
 			"Small",
 			"Large"
          ],
-		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "size_explanation":"Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean). Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). ",
 		 "price":19.99,
          "category":1,
          "rating":4.5,
@@ -947,7 +947,7 @@
 			"Small",
 			"Large"
          ],
-		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Pack contains two cups of the same size.</p>",
+		 "size_explanation":"Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean). Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). Pack contains two cups of the same size. ",
 		 "price":14.99,
          "category":1,
          "rating":4.5,
@@ -967,7 +967,7 @@
 			"Small",
 			"Large"
          ],
-		 "size_explanation":"<p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p><p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p>",
+		 "size_explanation":"Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean). Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). ",
 		 "price":17.41,
          "category":1,
          "rating":4.0,
@@ -1063,7 +1063,7 @@
 			"Medium",
 			"High"
        ],
-		 "size_explanation":"<p>Size 'Short'. For women with a low cervix.</p><p>Size 'Medium'. For women who have a medium height cervix.</p><p>Size 'High'. For women who have a high cervix.</p>",
+		 "size_explanation":"Size 'Short'. For women with a low cervix. Size 'Medium'. For women who have a medium height cervix. Size 'High'. For women who have a high cervix. ",
          "price":29.90,
          "category":2,
          "rating":4.0,
@@ -2088,7 +2088,7 @@
 			"Small",
 			"Large"
          ],
-		 "size_explanation":"<p>Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean).</p><p>Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean).</p>",
+		 "size_explanation":"Size Small. For women age 30 and under, and have not given birth (vaginally or via cesarean). Size Large. For women aged 30 and over or have given birth (vaginally or via cesarean). ",
 		 "price":12.99,
          "category":1,
          "rating":4.0,
