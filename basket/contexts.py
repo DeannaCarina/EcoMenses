@@ -1,4 +1,5 @@
-
+from decimal import Decimal
+from django.conf import settings
 
 def basket_contents(request):
 
@@ -6,7 +7,10 @@ def basket_contents(request):
     total = 0
     product_count = 0
 
-    delivery = Decimal(product_count * 100) + 200
+    if product_count > 1:
+        delivery = Decimal(product_count) + 2
+    else:
+        delivery = 0
 
     grand_total = total + delivery
 
