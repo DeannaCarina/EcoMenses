@@ -214,6 +214,22 @@ footer {
     height: 40px;
 }
 
+.basket-product-link {
+    color: #6f9b51;
+}
+
+.basket-product-link:hover {
+    color: #ffccf1;
+}
+
+.basket-table {
+    margin-bottom: 100px;
+}
+
+.remove-item {
+    cursor: pointer;
+}
+
 
 
 /* -------------------------------- Media Queries */

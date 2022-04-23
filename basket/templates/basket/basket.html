@@ -1,6 +1,7 @@
 {% extends "base.html" %}
 
 {% load static %}
+{% load basket_tools %}
 
 {% block content %}
 
@@ -27,7 +28,7 @@
             <div class="col">
                 {% if basket_items %}
                     <div class="table-responsive">
-                        <table class="table table-sm">
+                        <table class="table table-sm basket-table">
                             <thead>
                                 <tr>
                                     <th scope="col">
@@ -54,7 +55,7 @@
                                         <img class="img-fluid basket-table-image" src="{{ item.product.image.url }}">
                                     </td>
                                     <td>
-                                        <p class="my-0"><strong><a href="{% url 'view_product' item.product.id %}">{{ item.product.name }}</a></strong></p>
+                                        <p class="my-0"><strong><a class="basket-product-link" href="{% url 'view_product' item.product.id %}">{{ item.product.name }}</a></strong></p>
                                         <p class="small my-0">Size: {% if item.product.sizes %}{{ item.size }}{% else %}N/A{% endif %}</p>
                                         <p class="small my-0">SKU: {{ item.product.sku }}</p>
                                     </td>
@@ -65,7 +66,8 @@
                                         <p class="my-0">{{ item.quantity }}</p>
                                     </td>
                                     <td>
-                                        <p class="my-0">£{{ item.product.price }}</p>
+                                        <p class="my-0">£{{ item.product.price | calc_subtotal:item.quantity }}</p>
+                                        <a class="remove-item text-danger float-right" id="remove_{{ item.item_id }}" data-size="{{ item.size }}"><small><i class="fa-solid fa-xmark"></i></small></a>
                                     </td>
                                 </tr>
                             {% endfor %}
@@ -95,4 +97,25 @@
     </div>
 
 
+{% endblock %}
+
+{% block postloadjs %}
+{{ block.super }}
+
+<script type="text/javascript">
+
+    // Remove item and reload on click
+    $('.remove-item').click(function(e) {
+        var csrfToken = "{{ csrf_token }}";
+        var itemId = $(this).attr('id').split('remove_')[1];
+        var size = $(this).data('size');
+        var url = `/basket/remove/${itemId}`;
+        var data = {'csrfmiddlewaretoken': csrfToken, 'size': size};
+
+        $.post(url, data)
+         .done(function() {
+             location.reload();
+         });
+    })
+</script>
 {% endblock %}
