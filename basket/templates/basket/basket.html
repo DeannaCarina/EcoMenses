@@ -54,8 +54,8 @@
                                         <img class="img-fluid basket-table-image" src="{{ item.product.image.url }}">
                                     </td>
                                     <td>
-                                        <p class="my-0"><strong>{{ item.product.name }}</strong></p>
-                                        <p class="small my-0">Size: {% if item.product.size %}{{ item.size }}{% else %}N/A{% endif %}</p>
+                                        <p class="my-0"><strong><a href="{% url 'view_product' item.product.id %}">{{ item.product.name }}</a></strong></p>
+                                        <p class="small my-0">Size: {% if item.product.sizes %}{{ item.size }}{% else %}N/A{% endif %}</p>
                                         <p class="small my-0">SKU: {{ item.product.sku }}</p>
                                     </td>
                                     <td>
