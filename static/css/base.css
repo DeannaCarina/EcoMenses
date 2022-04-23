@@ -186,6 +186,31 @@ footer {
     color: #6f9b51;
 }
 
+.add-to-basket-form {
+    margin-bottom: 100px;
+}
+
+.add-to-basket-button {
+    background-color: #6f9b51;
+}
+
+.add-to-basket-button:hover {
+    background-color: #9fc983;
+}
+
+.keep-shopping-button {
+    background-color: #ffccf1;
+}
+
+.keep-shopping-button:hover {
+    background-color: #f8dff1;
+}
+
+.size-explanation {
+    font-size: 0.7rem;
+}
+
+
 
 /* -------------------------------- Media Queries */
 

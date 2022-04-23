@@ -49,7 +49,7 @@
                     {% if product.category %}
                     <p class="small mt-1 mb-0">
                         <a class="text-muted" href="{% url 'products' %}?category={{ product.category.name }}">
-                            <i class="fas fa-tag mr-1"></i>{{ product.category.friendly_name }}
+                            {{ product.category.friendly_name }}
                         </a>
                     </p>
                     {% endif %}
@@ -60,14 +60,14 @@
                         <small class="text-muted">No Rating</small>
                     {% endif %}
                     <p class="mt-3">{{ product.description }}</p>
-                    <p>{% if product.size_explanation %}
+                    <p class="size-explanation">{% if product.size_explanation %}
                         {{ product.size_explanation }}
                     {% endif %}</p>
                     <p>{% if product.sizes %}
                         {{ product.sizes }}
                     {% endif %}</p>
 
-                    <form class="form" action="{% url 'add_to_basket' product.id %}" method="POST">
+                    <form class="form add-to-basket-form" action="{% url 'add_to_basket' product.id %}" method="POST">
                         {% csrf_token %}
                         <div class="form-row">
                             <div class="col-12">
@@ -80,13 +80,10 @@
                             </div>
 
                             <div class="col-12">
-                                <a href="{% url 'products' %}" class="btn btn-outline-black rounded-0 mt-5">
-                                    <span class="icon">
-                                        <i class="fas fa-chevron-left"></i>
-                                    </span>
-                                    <span class="text-uppercase">Keep Shopping</span>
+                                <a href="{% url 'products' %}" class="btn keep-shopping-button mt-2">
+                                    <span>Keep Shopping</span>
                                 </a>
-                                <input type="submit" class="btn btn-black rounded-0 text-uppercase mt-5" value="Add to Basket">
+                                <input type="submit" class="btn mt-2 add-to-basket-button" value="Add to Basket">
                             </div>
                             <input type="hidden" name="redirect_url" value="{{ request.path }}">
                         </div>
