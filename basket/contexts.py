@@ -34,13 +34,13 @@ def basket_contents(request):
 
     
     if product_count >= 11:
-        delivery = 12
+        delivery_cost = 12
     elif product_count >= 1 & product_count <= 10:
-        delivery = Decimal(product_count) + 2
+        delivery_cost = Decimal(product_count) + 2
     else:
-        delivery = 0
+        delivery_cost = 0
 
-    grand_total = total + delivery
+    grand_total = total + delivery_cost
 
 
 
@@ -48,7 +48,7 @@ def basket_contents(request):
         'basket_items': basket_items,
         'total': total,
         'product_count': product_count,
-        'delivery': delivery,
+        'delivery_cost': delivery_cost,
         'grand_total': grand_total,
     }
 
