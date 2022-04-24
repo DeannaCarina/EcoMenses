@@ -266,6 +266,17 @@ footer {
     overflow-y: auto;
 }
 
+.checkout-button {
+    background-color: #ffccf1;
+    padding: 5px 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.checkout-button:hover {
+    background-color: #f8dff1;
+}
+
 /* -------------------------------- Media Queries */
 
 @media (min-width: 1200px) {
