@@ -32,7 +32,10 @@ def basket_contents(request):
                     'size': size,
                 })
 
-    if product_count > 1:
+    
+    if product_count >= 11:
+        delivery = 12
+    elif product_count >= 1 & product_count <= 10:
         delivery = Decimal(product_count) + 2
     else:
         delivery = 0

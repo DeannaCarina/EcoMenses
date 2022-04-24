@@ -245,15 +245,25 @@ footer {
     height: 2px;
 }
 
-.basket-keep-shopping-button {
+.basket-keep-shopping-button, .checkout-toast-button {
     background-color: #6f9b51;
     padding: 5px 20px;
     border: 2px solid black;
     border-radius: 10px;
 }
 
-.basket-keep-shopping-button:hover {
+.checkout-toast-button {
+    width: 100%;
+}
+
+.basket-keep-shopping-button:hover, .checkout-toast-button:hover {
     background-color: #9fc983;
+}
+
+.basket-notification-wrapper {
+    max-height: 400px;
+    overflow-x: hidden;
+    overflow-y: auto;
 }
 
 /* -------------------------------- Media Queries */
