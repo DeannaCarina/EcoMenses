@@ -112,14 +112,11 @@
                         <div class="mb-3 text-danger" id="card-errors" role="alert"></div>
                     </fieldset>
 
-                    <div class="submit-button text-right mt-5 mb-2">                    
-						<a href="{% url 'view_basket' %}" class="btn btn-outline-black rounded-0">
-							<span class="icon">
-								<i class="fas fa-chevron-left"></i>
-							</span>
+                    <div class="submit-button text-right mt-5 mb-2 stripe-card-area">                    
+						<a href="{% url 'view_basket' %}" class="btn checkout-button">
 							<span class="font-weight-bold">Adjust basket</span>
 						</a>
-						<button id="submit-button" class="btn btn-black rounded-0">
+						<button id="submit-button" class="btn basket-keep-shopping-button">
 							<span class="font-weight-bold">Complete Order</span>
 							<span class="icon">
 								<i class="fas fa-lock"></i>

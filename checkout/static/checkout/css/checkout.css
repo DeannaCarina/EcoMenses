@@ -35,3 +35,29 @@
     color: rgb(187, 187, 187);
     border: 1px solid rgb(187, 187, 187);
 }
+
+.stripe-card-area {
+    padding-bottom: 100px;
+}
+
+.checkout-button {
+    background-color: #ffccf1;
+    padding: 5px 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.checkout-button:hover {
+    background-color: #f8dff1;
+}
+
+.basket-keep-shopping-button {
+    background-color: #6f9b51;
+    padding: 5px 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.basket-keep-shopping-button:hover {
+    background-color: #9fc983;
+}
