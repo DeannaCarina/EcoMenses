@@ -245,19 +245,8 @@ footer {
     height: 2px;
 }
 
-.basket-keep-shopping-button, .checkout-toast-button {
-    background-color: #6f9b51;
-    padding: 5px 20px;
-    border: 2px solid black;
-    border-radius: 10px;
-}
-
 .checkout-toast-button {
     width: 100%;
-}
-
-.basket-keep-shopping-button:hover, .checkout-toast-button:hover {
-    background-color: #9fc983;
 }
 
 .basket-notification-wrapper {
@@ -275,6 +264,18 @@ footer {
 
 .checkout-button:hover {
     background-color: #f8dff1;
+}
+
+
+.btn-eco-green {
+    border-radius: 10px;
+    background-color: #6f9b51;
+    padding: 5px 20px;
+    border: 2px solid black;
+}
+
+.btn-eco-green:hover {
+    background-color: #9fc983;
 }
 
 /* -------------------------------- Media Queries */
