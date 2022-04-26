@@ -227,4 +227,4 @@ else:
     EMAIL_USE_TLS = True
     EMAIL_HOST_USER = os.environ.get('EADDRESS')
     EMAIL_HOST_PASSWORD = os.environ.get('EPASSWORD')
-    DEFAULT_FROM_EMAIL = ('EADDRESS')
+    DEFAULT_FROM_EMAIL = os.environ.get('EADDRESS')

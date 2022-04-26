@@ -2,4 +2,8 @@
 {% load account %}
 
 {% user_display user as user_display %}
+<div class="all-auth-top-padding"></div>
+<div class="opaque-overlay"></div>
+<div class="login-wrapper">
 <p><strong>{% trans "Note" %}:</strong> {% blocktrans %}you are already logged in as {{ user_display }}.{% endblocktrans %}</p>
+</div>

@@ -278,6 +278,22 @@ footer {
     background-color: #9fc983;
 }
 
+
+.all-auth-top-padding {
+    width: 100%;
+    height: 140px;
+}
+
+.login-wrapper {
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+    border: solid 1px black;
+    width: 400px;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+
 /* -------------------------------- Media Queries */
 
 @media (min-width: 1200px) {
@@ -303,6 +319,10 @@ footer {
     }
     .top-banner {
         display: block;
+    }
+    .all-auth-top-padding {
+        width: 100%;
+        height: 250px;
     }
 }
 
@@ -344,5 +364,13 @@ footer {
     .products-heading {
         font-size: 1rem;
         margin-top: 30px;
+    }
+    .login-wrapper {
+        width: auto;
+        margin: 15px;
+    }
+    .all-auth-top-padding {
+        width: 100%;
+        height: 100px;
     }
 }
