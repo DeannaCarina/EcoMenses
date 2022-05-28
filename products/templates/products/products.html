@@ -73,14 +73,10 @@
                                                 <small class="ml-3">
                                                     <a href="{% url 'edit_product' product.id %}">Edit</a> | 
                                                     <a class="text-danger" href="{% url 'delete_product' product.id %}">Delete</a>
-                                                </small>
+                                                </small><br>
                                             {% endif %}
+                                            <br><small>Buy this product <a href="{{ product.link }}" target="_blank"> HERE</a></small>
                                         </div>
-                                    </div>
-                                </div>
-                                <div class="card-footer bg-transparent pt-0 border-0 text-left">
-                                    <div class="row">
-                                        <small>Buy this product <a href="{{ product.link }}" target="_blank"> HERE</a></small>
                                     </div>
                                 </div>
                             </div>
