@@ -2,13 +2,9 @@
 <span style="font-size:large">Poor implementation of time management due to getting married on 20th April. Unfortunately getting married and organising that along with honeymoon took priority.<br>
 <strong>Still to do:</strong>
 <ul>
-    <li>Account registration with confirmation email functionality</li>
-    <li>User profile creation with updating functionality and password recovery</li>
-    <li>Product management for site administrators</li>
     <li>Website quiz for users with suggested products at completion</li>
     <li>Custom model for shoppers to give feedback and reviews on products</li>
     <li>Completion of README - testing, surface, technologies, features, credits</li>
-    <li>Project deployment</li>
 </ul>
 
 </span><br>
