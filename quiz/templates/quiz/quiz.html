@@ -1,0 +1,100 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block extra_css %}
+    <link rel="stylesheet" href="{% static 'quiz/css/quiz.css' %}">
+{% endblock %}
+
+{% block page_header %}
+
+    <div class="product-detail-padding">
+        <div class="row">
+            <div class="col"></div>
+        </div>
+    </div>
+
+    <div class="container header-container">
+        <div class="row">
+            <div class="col"></div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block content %}
+
+
+<div class="opaque-overlay"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col text-center mt-5 add-product-header-div">
+                <h2 class="products-heading"><span class="eco-logo-text">F</span><strong>ind</strong> your <span class="eco-logo-text">P</span><strong>roduct</strong></h5>
+                <h5 class="products-heading"><strong>Customer Quiz</strong></h5>
+                <hr class="w-50 mb-1 product-page-split">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col text-center">
+                <h6 class="products-heading"><p>Answer the following questions to find the perfect period product for you.</p></h6>
+                <button id=start-button class="button btn btn-eco-green">Start Quiz</button>
+                
+                <div hidden id="quiz-section">
+                <section id="quiz">
+                    <div>
+                      <h3 hidden class="left">Score:  <span id="displayScore">0</span></h3>
+                      <h3 class="right">Question: <span id="displayQCount"></span> of  <span id="displayQMCount"></span></h3>
+                    </div>
+                    <br><br>
+                    <div>
+                      <h2 id="askQuestion" class="center"></h2>
+                      <br>
+                      <form id="form">
+                        <div>
+                          <input id="label0" type="radio" name="option" value="">
+                          <label id="answer0" for=""></label>
+                        </div>
+                        <div>
+                          <input id="label1" type="radio" name="option" value="">
+                          <label id="answer1" for=""></label>
+                        </div>
+                        <div>
+                          <input id="label2" type="radio" name="option" value="">
+                          <label id="answer2" for=""></label>
+                        </div>
+                        <div>
+                          <input id="label3" type="radio" name="option" value="">
+                          <label id="answer3" for=""></label>
+                        </div>
+                        <div>
+                          <input id="label4" type="radio" name="option" value="">
+                          <label id="answer4" for=""></label>
+                        </div>
+                        <div>
+                          <input id="label5" type="radio" name="option" value="">
+                          <label id="answer5" for=""></label>
+                        </div>
+                      </form>
+                  
+                      <button id="submitBtn" class="btn btn-primary">Submit</button>
+                    </div>
+                    
+                  </section>
+                  <section id="showScore">
+                    <h2 id="inform" class="center"></h2>
+                    <button id="resetBtn" class="btn checkout-button">Try Again?</button>
+                  </section>
+                </div>
+                  
+                  
+            </div>
+        </div>
+
+        
+        
+    </div>
+
+{% endblock %} 
+
+{% block postloadjs %}
+    {{ block.super }}
+    <script src="{% static 'quiz/js/quiz.js' %}"></script></script>
+{% endblock %}
