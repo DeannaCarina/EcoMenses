@@ -1,0 +1,66 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block extra_css %}
+    <link rel="stylesheet" href="{% static 'home/css/home.css' %}">
+{% endblock %}
+
+{% block page_header %}
+
+    <div class="product-detail-padding">
+        <div class="row">
+            <div class="col"></div>
+        </div>
+    </div>
+
+    <div class="container header-container">
+        <div class="row">
+            <div class="col"></div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block content %}
+
+
+<div class="opaque-overlay"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col text-center mt-5 add-product-header-div">
+                <h2 class="products-heading"><span class="eco-logo-text">C</span><strong>ontact</strong> <span class="eco-logo-text">U</span><strong>s</strong></h5>
+                <hr class="w-50 mb-1 product-page-split">
+            </div>
+        </div>
+        
+        <div class="center-form">
+            <form class="contact-form" method="POST">
+                {% csrf_token %}
+                <label for="name" class="hide">Name</label>
+                <input type="text" name="name" id="name" class="form-control" placeholder="Name" required />
+                <label for="email" class="hide">Email Address</label>
+                <input type="email" name="email" id="email" class="form-control" placeholder="Email Address" required />
+                <label for="subject" class="hide">Subject</label>
+                <input type="text" name="subject" id="subject" class="form-control" placeholder="Subject" required />
+                <label for="message" class="hide">Message</label>
+                <textarea rows="10" name="message" id="message" class="form-control" placeholder="Your message"
+                    required></textarea>
+                <div class="form-row text-center">
+                    <div class="col">
+                        <button type="submit" class="btn btn-eco-green" id="contact-button">Send <i
+                                class="fas fa-paper-plane"></i></button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    
+
+        
+        
+    </div>
+
+{% endblock %} 
+
+{% block postloadjs %}
+    {{ block.super }}
+    <script src="{% static 'quiz/js/quiz.js' %}"></script></script>
+{% endblock %}
