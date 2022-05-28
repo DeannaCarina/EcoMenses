@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block page_header %}
+
+    <div class="product-detail-padding">
+        <div class="row">
+            <div class="col"></div>
+        </div>
+    </div>
+
+    <div class="container header-container">
+        <div class="row">
+            <div class="col"></div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block content %}
+
+
+<div class="opaque-overlay"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col text-center mt-5 add-product-header-div">
+                <h2 class="products-heading"><span class="eco-logo-text">P</span><strong>roduct</strong> <span class="eco-logo-text">M</span><strong>anagement</strong></h5>
+                <h5 class="products-heading"><strong>Edit a product</strong></h2>
+                <hr class="w-50 mb-1 product-page-split">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-md-6 add-product-form-container">
+                <form method="POST" action="{% url 'add_product' %}" class="form mb-2" enctype="multipart/form-data">
+                    {% csrf_token %}
+                    {{ form | crispy }}
+                    <div class="text-right">
+                        <a class="btn checkout-button" href="{% url 'products' %}">Cancel</a>
+                        <button class="btn btn-eco-green" type="submit">Add Product</button>
+                    </div>
+                </form>
+            </div>            
+        </div>
+    </div>
+
+{% endblock %} 
