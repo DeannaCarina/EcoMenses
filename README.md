@@ -10,7 +10,7 @@
 </span><br>
 
 
-<a href="https://ecomenses.herokuapp.com/"><img src="readme_assetts/surface/ecomenseslogo.png" width="350px"></a>
+<a href="https://ecomenses.onrender.com/"><img src="readme_assetts/surface/ecomenseslogo.png" width="350px"></a>
 
 ## Contents
 <ul>
